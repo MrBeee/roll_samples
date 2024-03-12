@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<survey version="1.0">
+    <type>Orthogonal</type>
+    <name>Sphere Test</name>
+    <surveyCrs>
+        <spatialrefsys nativeFormat="Wkt">
+            <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Netherlands - onshore, including Waddenzee, Dutch Wadden Islands and 12-mile offshore coastal zone."],BBOX[50.75,3.2,53.7,7.22]],ID["EPSG",28992]]</wkt>
+            <proj4>+proj=sterea +lat_0=52.1561605555556 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +units=m +no_defs</proj4>
+            <srsid>2517</srsid>
+            <srid>28992</srid>
+            <authid>EPSG:28992</authid>
+            <description>Amersfoort / RD New</description>
+            <projectionacronym>sterea</projectionacronym>
+            <ellipsoidacronym>EPSG:7004</ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+        </spatialrefsys>
+    </surveyCrs>
+    <limits>
+        <output xmin="6000.0" ymax="5600.0" xmax="12000.0" ymin="400.0"/>
+        <angles azimin="0.0" refmax="30.0" azimax="360.0" refmin="0.0"/>
+        <offset xmin="-5976.0" ymax="776.0" xmax="5976.0" rmin="0.0" ymin="-776.0" rmax="6027.0"/>
+        <unique apply="False" deltaazi="180.0" deltaoff="200.0"/>
+        <binning method="sphere" vint="2000.0"/>
+    </limits>
+    <reflectors>
+        <plane azi="0.0" y0="45000.0" x0="20000.0" z0="-2000.0" dip="5.0"/>
+        <!--Plane equation: -0.087156·x + -0.000000·y + 0.996195·z + 3735.504395 = 0  -->
+        <!--Plane is defined in global coordinates. Subsurface corresponds with negative z-values-->
+        <sphere y0="48000.0" x0="24000.0" z0="-4000.0" radius="2000.0"/>
+        <!--Sphere is defined in global coordinates. Subsurface corresponds with negative z-values-->
+    </reflectors>
+    <grid>
+        <local fold="500" y0="12.5" x0="12.5" dy="25.0" l0="1000.0" s0="1000.0" dx="25.0"/>
+        <global azi="0.0" sy="1.0" y0="45000.0" x0="15000.0" sx="1.0"/>
+        <!--Forward transform: A0=15000.000, B0=45000.000, A1=1.000000, B1=0.000000, A2=0.000000, B2=1.000000-->
+        <!--Inverse transform: A0=-15000.000, B0=-45000.000, A1=1.000000, B1=0.000000, A2=0.000000, B2=1.000000-->
+        <!--See EPSG:9624 (https://epsg.io/9624-method) for the affine parametric transform definition-->
+    </grid>
+    <block_list>
+        <block>
+            <name>Block-1</name>
+            <borders>
+                <src_border xmin="-20000.0" ymax="20000.0" xmax="20000.0" ymin="-20000.0"/>
+                <rec_border xmin="0.0" ymax="0.0" xmax="0.0" ymin="0.0"/>
+            </borders>
+            <template_list>
+                <template>
+                    <name>Template-1</name>
+                    <roll_list>
+                        <translate n="1" dy="0.0" dx="0.0" dz="0.0"/>
+                        <translate n="30" dy="200.0" dx="0.0" dz="0.0"/>
+                        <translate n="25" dy="0.0" dx="250.0" dz="0.0"/>
+                    </roll_list>
+                    <seed_list>
+                        <seed azi="False" src="True" y0="625.0" x0="5975.0" patno="0" typno="0" z0="0.0" argb="#77ff0000">
+                            <name>Src-1</name>
+                            <grid roll="False" points="4">
+                                <translate n="1" dy="0.0" dx="0.0" dz="0.0"/>
+                                <translate n="1" dy="0.0" dx="250.0" dz="0.0"/>
+                                <translate n="4" dy="50.0" dx="0.0" dz="0.0"/>
+                            </grid>
+                        </seed>
+                        <seed azi="False" src="False" y0="0.0" x0="0.0" patno="1" typno="0" z0="0.0" argb="#7700b0f0">
+                            <name>Rec-1</name>
+                            <grid roll="False" points="1920">
+                                <translate n="1" dy="0.0" dx="0.0" dz="0.0"/>
+                                <translate n="8" dy="200.0" dx="0.0" dz="0.0"/>
+                                <translate n="240" dy="0.0" dx="50.0" dz="0.0"/>
+                            </grid>
+                        </seed>
+                    </seed_list>
+                </template>
+            </template_list>
+        </block>
+    </block_list>
+    <pattern_list>
+        <pattern y0="-12.5" x0="-0.0" z0="0.0" argb="#ffff0000">
+            <name>src-array</name>
+            <grow_list>
+                <translate n="1" dy="0.0" dx="0.0" dz="0.0"/>
+                <translate n="1" dy="0.0" dx="0.0" dz="0.0"/>
+                <translate n="3" dy="12.5" dx="0.0" dz="0.0"/>
+            </grow_list>
+        </pattern>
+        <pattern y0="-20.825000762939453" x0="-20.83329963684082" z0="0.0" argb="#ff0000ff">
+            <name>rec-array</name>
+            <grow_list>
+                <translate n="3" dy="0.0" dx="16.66670036315918" dz="0.0"/>
+                <translate n="2" dy="8.333000183105469" dx="8.333000183105469" dz="0.0"/>
+                <translate n="3" dy="16.66699981689453" dx="0.0" dz="0.0"/>
+            </grow_list>
+        </pattern>
+    </pattern_list>
+</survey>

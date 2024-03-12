@@ -1,0 +1,19 @@
+# initial document courtesy of https://djangowaves.com/tips-tricks/gitignore-for-a-python-project/
+
+# Analysis files
+*.npy
+*.csv
+
+# Georeferenced tiff files
+*.tif
+
+# Shape files
+*.cpg
+*.dbf
+*.prj
+*.shp
+
+# Exported SPS, CSV files
+*.r01
+*.s01
+*.x01
