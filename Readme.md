@@ -14,21 +14,26 @@ This repository contains a number of example projects for '**Roll**'. Several te
 - spirals
 - wells
 
-The templates that are using  **well** based seeds  are referring to external "**well files**"
+
+
+#### 2	Well based seeds
+
+The templates that are using  **well based seeds**  are referring to external "**well files**"
 
 These are ascii files for which two formats are currently supported:
 
-- *.well	OpendTect (x, y, z) format
+- ***.wws**	GeoPath (ahd, inc, azi) deviation format 
+- ***.well**	OpendTect (x, y, z) format
 
-- *.wws	GeoPath (ahd, inc, azi) format 
+The **GeoPath** (ahd, inc, azi) deviation is resampled to local (x, y, z) values for specified along-hole positions using the minimum curvature approach. 
+
+The **OpendTect** (x, y, z) format is first converted into a deviation format, before resampling specified along-hole positions to local (x, y, z) values, using the minimum curvature approach. This minimizes position errors related to a curved well trajectory.
 
 
 
-#### 2	Well File locations
+#### 3	Well File locations
 
-At the moment, the **well files** are imported using 'absolute paths' instead of 'relative paths'
-
-This means that you'll have to update the location of the well files, when using the following examples for the first time:
+At the moment, the **well files** are imported using 'absolute paths' instead of 'relative paths'. This means that you'll have to update the location of the well files, when using the following examples for the first time:
 
 - Wells-well.roll
 - Wells2-well.roll
@@ -36,9 +41,8 @@ This means that you'll have to update the location of the well files, when using
 
 
 
-#### 3	Circles and Spirals
+#### 4	Circles and Spirals
 
-The above listed projects not only contain well-based seeds but also some circle and spiral based seeds, that may be used when acquiring a VSP
-
+The  three projects listed above, not only contain well-based seeds but also some **circle** and **spiral** based seeds, that may be used when acquiring a VSP
 
 
