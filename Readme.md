@@ -1,6 +1,6 @@
 # Roll Samples
 
-### Example projects for the QGIS Seismic survey design plugin 'Roll"'
+### Example projects for the QGIS Seismic survey design plugin 'Roll'
 
 #### 1	Introduction
 
@@ -14,7 +14,7 @@ This repository contains a number of example projects for '**Roll**'. Several te
 - spirals
 - wells
 
-The templates that are using  **well** based seed  are referring to external "**well files**"
+The templates that are using  **well** based seeds  are referring to external "**well files**"
 
 These are ascii files for which two formats are currently supported:
 
@@ -26,9 +26,9 @@ These are ascii files for which two formats are currently supported:
 
 #### 2	Well File locations
 
-At the moment, the **well files** are referred to using 'absolute paths' instead of 'relative paths'
+At the moment, the **well files** are imported using 'absolute paths' instead of 'relative paths'
 
-This means that you'll have to update the location of the well files, when using the examples:
+This means that you'll have to update the location of the well files, when using the following examples for the first time:
 
 - Wells-well.roll
 - Wells2-well.roll
