@@ -19,7 +19,7 @@
         <output xmin="6000.0" ymax="5600.0" xmax="12000.0" ymin="400.0"/>
         <angles azimin="0.0" refmax="30.0" azimax="360.0" refmin="0.0"/>
         <offset xmin="-5976.0" ymax="776.0" xmax="5976.0" rmin="0.0" ymin="-776.0" rmax="6027.0"/>
-        <unique apply="False" deltaazi="180.0" deltaoff="200.0"/>
+        <unique apply="False" deltaazi="5.0" deltaoff="200.0"/>
         <binning method="sphere" vint="2000.0"/>
     </limits>
     <reflectors>

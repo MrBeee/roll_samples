@@ -19,7 +19,7 @@
         <output xmax="10250.0" xmin="3000.0" ymax="3200.0" ymin="0.0"/>
         <angles refmin="0.0" refmax="60.0" azimax="360.0" azimin="0.0"/>
         <offset xmax="5976.0" xmin="-5976.0" ymax="776.0" ymin="-776.0" rmax="6027.0" rmin="0.0"/>
-        <unique apply="False" deltaoff="200.0" deltaazi="180.0"/>
+        <unique apply="False" deltaoff="200.0" deltaazi="5.0"/>
         <binning method="plane" vint="2000.0"/>
     </limits>
     <reflectors>

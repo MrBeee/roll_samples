@@ -19,7 +19,7 @@
         <output xmax="18625.0" xmin="2875.0" ymax="11400.0" ymin="600.0"/>
         <angles refmin="0.0" refmax="45.0" azimax="360.0" azimin="0.0"/>
         <offset xmax="6176.0" xmin="-5776.0" ymax="1576.0" ymin="-1576.0" rmax="6374.0" rmin="0.0"/>
-        <unique apply="False" deltaoff="200.0" deltaazi="180.0"/>
+        <unique apply="False" deltaoff="200.0" deltaazi="5.0"/>
         <binning method="cmp" vint="2000.0"/>
     </limits>
     <reflectors>
