@@ -16,22 +16,22 @@
         </spatialrefsys>
     </surveyCrs>
     <limits>
-        <output xmin="4500.0" ymax="6000.0" xmax="5500.0" ymin="5000.0"/>
-        <angles azimin="0.0" refmax="45.0" azimax="360.0" refmin="0.0"/>
-        <offset xmin="-5987.5" ymax="787.5" xmax="5987.5" rmin="0.0" ymin="-787.5" rmax="6039.0"/>
-        <unique apply="False" deltaazi="5.0" deltaoff="200.0"/>
-        <binning method="cmp" vint="2000.0"/>
+        <output ymin="5000.0" xmin="4500.0" xmax="5500.0" ymax="6000.0"/>
+        <angles refmax="45.0" azimin="0.0" azimax="360.0" refmin="0.0"/>
+        <offset ymin="-787.5" xmin="-5987.5" xmax="5987.5" ymax="787.5" rmax="6039.0" rmin="0.0"/>
+        <unique deltaoff="200.0" write="False" deltaazi="5.0" apply="False"/>
+        <binning vint="2000.0" method="cmp"/>
     </limits>
     <reflectors>
-        <plane azi="0.0" y0="45000.0" x0="20000.0" z0="-2000.0" dip="0.0"/>
+        <plane z0="-2000.0" x0="20000.0" azi="0.0" dip="0.0" y0="45000.0"/>
         <!--Plane equation: -0.000000·x + -0.000000·y + 1.000000·z + 2000.000000 = 0  -->
         <!--Plane is defined in global coordinates. Subsurface corresponds with negative z-values-->
-        <sphere y0="48000.0" x0="24000.0" z0="-4000.0" radius="2000.0"/>
+        <sphere z0="-4000.0" x0="24000.0" y0="48000.0" radius="2000.0"/>
         <!--Sphere is defined in global coordinates. Subsurface corresponds with negative z-values-->
     </reflectors>
     <grid>
-        <local fold="-1" y0="12.5" x0="12.5" dy="25.0" l0="1000.0" s0="1000.0" dx="25.0"/>
-        <global azi="0.0" sy="0.0" y0="0.0" x0="0.0" sx="0.0"/>
+        <local s0="1000.0" ds="25.0" x0="12.5" dx="25.0" dy="25.0" y0="12.5" fold="-1" l0="1000.0" dl="25.0"/>
+        <global sx="0.0" x0="0.0" azi="0.0" sy="0.0" y0="0.0"/>
         <!--Forward transform: A0=0.000, B0=0.000, A1=0.000000, B1=0.000000, A2=0.000000, B2=0.000000-->
         <!--Inverse transform: A0=0.000, B0=0.000, A1=1.000000, B1=0.000000, A2=0.000000, B2=1.000000-->
         <!--See EPSG:9624 (https://epsg.io/9624-method) for the affine parametric transform definition-->
@@ -40,32 +40,32 @@
         <block>
             <name>block-1</name>
             <borders>
-                <src_border xmin="-100000.0" ymax="100000.0" xmax="100000.0" ymin="-100000.0"/>
-                <rec_border xmin="-100000.0" ymax="100000.0" xmax="100000.0" ymin="-100000.0"/>
+                <src_border ymin="-100000.0" xmin="-100000.0" ymax="100000.0" xmax="100000.0"/>
+                <rec_border ymin="-100000.0" xmin="-100000.0" ymax="100000.0" xmax="100000.0"/>
             </borders>
             <template_list>
                 <template>
                     <name>template-1</name>
                     <roll_list>
-                        <translate n="1" dy="0.0" dx="0.0" dz="0.0"/>
-                        <translate n="41" dy="0.0" dx="250.0" dz="0.0"/>
-                        <translate n="51" dy="200.0" dx="0.0" dz="0.0"/>
+                        <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                        <translate azim="0.0" dx="250.0" dy="0.0" dz="0.0" n="41" tilt="0.0"/>
+                        <translate azim="90.0" dx="0.0" dy="200.0" dz="0.0" n="51" tilt="0.0"/>
                     </roll_list>
                     <seed_list>
-                        <seed azi="False" src="True" y0="625.0" x0="0.0" patno="0" typno="0" z0="0.0" argb="#ffff0000">
+                        <seed z0="0.0" x0="0.0" azi="False" typno="0" y0="625.0" argb="#ffff0000" patno="0" src="True">
                             <name>src</name>
-                            <grid roll="False" points="4">
-                                <translate n="1" dy="0.0" dx="0.0" dz="0.0"/>
-                                <translate n="4" dy="50.0" dx="0.0" dz="0.0"/>
-                                <translate n="1" dy="0.0" dx="250.0" dz="0.0"/>
+                            <grid points="4" roll="False">
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="250.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="90.0" dx="0.0" dy="50.0" dz="0.0" n="4" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed azi="False" src="False" y0="0.0" x0="-5975.0" patno="1" typno="0" z0="0.0" argb="#ff0000ff">
+                        <seed z0="0.0" x0="-5975.0" azi="False" typno="0" y0="0.0" argb="#ff0000ff" patno="1" src="False">
                             <name>rec</name>
-                            <grid roll="False" points="1920">
-                                <translate n="1" dy="0.0" dx="0.0" dz="0.0"/>
-                                <translate n="240" dy="0.0" dx="50.0" dz="0.0"/>
-                                <translate n="8" dy="200.0" dx="0.0" dz="0.0"/>
+                            <grid points="1920" roll="False">
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="90.0" dx="0.0" dy="200.0" dz="0.0" n="8" tilt="0.0"/>
+                                <translate azim="0.0" dx="50.0" dy="0.0" dz="0.0" n="240" tilt="0.0"/>
                             </grid>
                         </seed>
                     </seed_list>

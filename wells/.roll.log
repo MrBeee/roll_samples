@@ -1,0 +1,101 @@
+2025-06-01T11:55:20     info       Parsing: survey object succesfully parsed
+2025-06-01T11:55:21     info       Params : survey object read, containing 282 parameters
+2025-06-01T11:55:21     info       Plugin : Started
+2025-06-01T11:55:26     info       Opening: D:/Roll/Noordoostpolder.roll
+2025-06-01T11:55:26     info       Parsing: D:/Roll/Noordoostpolder.roll
+2025-06-01T11:55:26     info       Parsing: D:/Roll/Noordoostpolder.roll survey object succesfully parsed
+2025-06-01T11:55:26     info       Reading: D:/Roll/Noordoostpolder.roll
+2025-06-01T11:55:26     info       Loading: D:/Roll/Noordoostpolder.roll analysis files
+2025-06-01T11:55:26     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-06-01T11:55:26     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-06-01T11:55:26     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-06-01T11:55:26     info       Loaded : . . . offset histogram
+2025-06-01T11:55:26     info       Loaded : . . . azi-offset histogram
+2025-06-01T11:55:27     info       Loaded : . . . read 161,894 rec-records
+2025-06-01T11:55:27     info       Loaded : . . . read 51,240 src-records
+2025-06-01T11:55:27     info       Loaded : . . . read 1,795,499 rel-records
+2025-06-01T11:55:29     info       Params : D:/Roll/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-06-01T12:18:01     info       Opening: D:/Roll/Wells-well.roll
+2025-06-01T12:18:01     info       Parsing: D:/Roll/Wells-well.roll
+2025-06-01T12:18:01     info       Parsing: D:/Roll/Wells-well.roll survey object succesfully parsed
+2025-06-01T12:18:01     info       Reading: D:/Roll/Wells-well.roll
+2025-06-01T12:18:01     info       Loading: D:/Roll/Wells-well.roll analysis files
+2025-06-01T12:18:04     info       Params : D:/Roll/Wells-well.roll survey object read, containing 695 parameters
+2025-06-01T12:19:40     info       Edited : D:/Roll/Wells-well.roll survey object updated
+2025-06-01T12:20:07     info       Saved  : D:/Roll/Wells-well.roll
+2025-06-01T12:20:18     info       Opening: D:/Roll/Wells-wws.roll
+2025-06-01T12:20:18     info       Parsing: D:/Roll/Wells-wws.roll
+2025-06-01T12:20:18     info       Parsing: D:/Roll/Wells-wws.roll survey object succesfully parsed
+2025-06-01T12:20:18     info       Reading: D:/Roll/Wells-wws.roll
+2025-06-01T12:20:18     info       Loading: D:/Roll/Wells-wws.roll analysis files
+2025-06-01T12:20:18     info       Loaded : . . . Fold map  : Min:40 - Max:40 
+2025-06-01T12:20:18     info       Loaded : . . . Min-offset: Min:35.36m - Max:285.04m 
+2025-06-01T12:20:18     info       Loaded : . . . Max-offset: Min:2359.29m - Max:2593.50m 
+2025-06-01T12:20:21     info       Params : D:/Roll/Wells-wws.roll survey object read, containing 695 parameters
+2025-06-01T12:29:58     info       Opening: D:/Roll/Wells-well2.roll
+2025-06-01T12:29:58     info       Parsing: D:/Roll/Wells-well2.roll
+2025-06-01T12:29:58     info       Parsing: D:/Roll/Wells-well2.roll survey object succesfully parsed
+2025-06-01T12:29:58     info       Reading: D:/Roll/Wells-well2.roll
+2025-06-01T12:29:58     info       Loading: D:/Roll/Wells-well2.roll analysis files
+2025-06-01T12:29:58     info       Loaded : . . . Fold map  : Min:0 - Max:12 
+2025-06-01T12:29:58     info       Loaded : . . . Min-offset: Min:3980.99m - Max:5980.08m 
+2025-06-01T12:29:58     info       Loaded : . . . Max-offset: Min:3991.96m - Max:5989.00m 
+2025-06-01T12:30:01     info       Params : D:/Roll/Wells-well2.roll survey object read, containing 577 parameters
+2025-06-01T12:30:41     info       Opening: D:/Roll/Wells-wws.roll
+2025-06-01T12:30:41     info       Parsing: D:/Roll/Wells-wws.roll
+2025-06-01T12:30:41     info       Parsing: D:/Roll/Wells-wws.roll survey object succesfully parsed
+2025-06-01T12:30:41     info       Reading: D:/Roll/Wells-wws.roll
+2025-06-01T12:30:41     info       Loading: D:/Roll/Wells-wws.roll analysis files
+2025-06-01T12:30:41     info       Loaded : . . . Fold map  : Min:40 - Max:40 
+2025-06-01T12:30:41     info       Loaded : . . . Min-offset: Min:35.36m - Max:285.04m 
+2025-06-01T12:30:41     info       Loaded : . . . Max-offset: Min:2359.29m - Max:2593.50m 
+2025-06-01T12:30:43     info       Params : D:/Roll/Wells-wws.roll survey object read, containing 695 parameters
+2025-06-01T12:30:49     info       Opening: D:/Roll/Wells-well.roll
+2025-06-01T12:30:49     info       Parsing: D:/Roll/Wells-well.roll
+2025-06-01T12:30:49     info       Parsing: D:/Roll/Wells-well.roll survey object succesfully parsed
+2025-06-01T12:30:49     info       Reading: D:/Roll/Wells-well.roll
+2025-06-01T12:30:49     info       Loading: D:/Roll/Wells-well.roll analysis files
+2025-06-01T12:30:51     info       Params : D:/Roll/Wells-well.roll survey object read, containing 636 parameters
+2025-06-01T12:30:58     info       Opening: D:/Roll/Wells-well2.roll
+2025-06-01T12:30:58     info       Parsing: D:/Roll/Wells-well2.roll
+2025-06-01T12:30:59     info       Parsing: D:/Roll/Wells-well2.roll survey object succesfully parsed
+2025-06-01T12:30:59     info       Reading: D:/Roll/Wells-well2.roll
+2025-06-01T12:30:59     info       Loading: D:/Roll/Wells-well2.roll analysis files
+2025-06-01T12:30:59     info       Loaded : . . . Fold map  : Min:0 - Max:12 
+2025-06-01T12:30:59     info       Loaded : . . . Min-offset: Min:3980.99m - Max:5980.08m 
+2025-06-01T12:30:59     info       Loaded : . . . Max-offset: Min:3991.96m - Max:5989.00m 
+2025-06-01T12:31:00     info       Params : D:/Roll/Wells-well2.roll survey object read, containing 577 parameters
+2025-06-01T12:48:04     info       Opening: D:/roll_samples/brick/Brick_001.roll
+2025-06-01T12:48:04     info       Parsing: D:/roll_samples/brick/Brick_001.roll
+2025-06-01T12:48:04     info       Parsing: D:/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-06-01T12:48:04     info       Reading: D:/roll_samples/brick/Brick_001.roll
+2025-06-01T12:48:04     info       Loading: D:/roll_samples/brick/Brick_001.roll analysis files
+2025-06-01T12:48:04     info       Loaded : . . . Fold map  : Min:1 - Max:40 
+2025-06-01T12:48:04     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-06-01T12:48:04     info       Loaded : . . . Max-offset: Min:2113.35m - Max:6038.73m 
+2025-06-01T12:48:04     info       Loaded : . . . Rms-offset: Min:0.00m - Max:99.91m 
+2025-06-01T12:48:04     info       Loaded : . . . Analysis  : 1,264,000 traces (reserved space)
+2025-06-01T12:48:04     info       Loaded : . . . read 7,506 rec-records
+2025-06-01T12:48:04     info       Loaded : . . . read 1,200 src-records
+2025-06-01T12:48:04     info       Loaded : . . . read 9,600 rel-records
+2025-06-01T12:48:06     info       Params : D:/roll_samples/brick/Brick_001.roll survey object read, containing 364 parameters
+2025-06-01T12:51:40     info       Opening: D:/roll_samples/wells/Wells-well.roll
+2025-06-01T12:51:40     info       Parsing: D:/roll_samples/wells/Wells-well.roll
+2025-06-01T12:51:40     info       Parsing: D:/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-06-01T12:51:40     info       Reading: D:/roll_samples/wells/Wells-well.roll
+2025-06-01T12:51:40     info       Loading: D:/roll_samples/wells/Wells-well.roll analysis files
+2025-06-01T12:51:45     info       Params : D:/roll_samples/wells/Wells-well.roll survey object read, containing 695 parameters
+2025-06-01T12:54:04     info       Edited : D:/roll_samples/wells/Wells-well.roll survey object updated
+2025-06-01T12:54:29     info       Edited : D:/roll_samples/wells/Wells-well.roll survey object updated
+2025-06-01T12:54:32     info       Saved  : D:/roll_samples/wells/Wells-well.roll
+2025-06-01T12:54:45     info       Opening: D:/roll_samples/wells/Wells-wws.roll
+2025-06-01T12:54:45     info       Parsing: D:/roll_samples/wells/Wells-wws.roll
+2025-06-01T12:54:46     info       Parsing: D:/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-06-01T12:54:46     info       Reading: D:/roll_samples/wells/Wells-wws.roll
+2025-06-01T12:54:46     info       Loading: D:/roll_samples/wells/Wells-wws.roll analysis files
+2025-06-01T12:54:49     info       Params : D:/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-06-01T12:58:37     info       Edited : D:/roll_samples/wells/Wells-wws.roll survey object updated
+2025-06-01T12:58:47     info       Saved  : D:/roll_samples/wells/Wells-wws.roll
+2025-06-01T12:58:51     info       Parsing: D:/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-06-01T12:58:52     info       Params : D:/roll_samples/wells/Wells-wws.roll survey object read, containing 282 parameters+++
+

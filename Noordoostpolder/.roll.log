@@ -1,0 +1,85 @@
+2025-06-01T12:58:57     info       Parsing: survey object succesfully parsed
+2025-06-01T12:58:57     info       Params : survey object read, containing 282 parameters
+2025-06-01T12:58:57     info       Plugin : Started
+2025-06-01T12:59:02     info       Opening: D:/roll_samples/wells/Wells-wws.roll
+2025-06-01T12:59:02     info       Parsing: D:/roll_samples/wells/Wells-wws.roll
+2025-06-01T12:59:02     info       Parsing: D:/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-06-01T12:59:02     info       Reading: D:/roll_samples/wells/Wells-wws.roll
+2025-06-01T12:59:02     info       Loading: D:/roll_samples/wells/Wells-wws.roll analysis files
+2025-06-01T12:59:04     info       Params : D:/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-06-01T12:59:49     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-06-01T12:59:49     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-06-01T12:59:49     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-06-01T12:59:49     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-06-01T12:59:49     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-06-01T12:59:49     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-06-01T12:59:49     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-06-01T12:59:49     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-06-01T12:59:49     info       Loaded : . . . offset histogram
+2025-06-01T12:59:49     info       Loaded : . . . azi-offset histogram
+2025-06-01T12:59:50     info       Loaded : . . . read 161,894 rec-records
+2025-06-01T12:59:50     info       Loaded : . . . read 51,240 src-records
+2025-06-01T12:59:50     info       Loaded : . . . read 1,795,499 rel-records
+2025-06-01T12:59:53     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-06-01T13:00:47     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-06-01T13:00:47     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-06-01T13:00:47     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-06-01T13:00:47     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-06-01T13:00:47     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-06-01T13:00:49     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-06-01T13:01:06     info       Opening: D:/roll_samples/other/DipTest_001.roll
+2025-06-01T13:01:06     info       Parsing: D:/roll_samples/other/DipTest_001.roll
+2025-06-01T13:01:06     info       Parsing: D:/roll_samples/other/DipTest_001.roll survey object succesfully parsed
+2025-06-01T13:01:06     info       Reading: D:/roll_samples/other/DipTest_001.roll
+2025-06-01T13:01:06     info       Loading: D:/roll_samples/other/DipTest_001.roll analysis files
+2025-06-01T13:01:07     info       Params : D:/roll_samples/other/DipTest_001.roll survey object read, containing 282 parameters
+2025-06-01T13:01:22     info       Opening: D:/roll_samples/other/DoubleZigzag_001.roll
+2025-06-01T13:01:22     info       Parsing: D:/roll_samples/other/DoubleZigzag_001.roll
+2025-06-01T13:01:22     info       Parsing: D:/roll_samples/other/DoubleZigzag_001.roll survey object succesfully parsed
+2025-06-01T13:01:22     info       Reading: D:/roll_samples/other/DoubleZigzag_001.roll
+2025-06-01T13:01:22     info       Loading: D:/roll_samples/other/DoubleZigzag_001.roll analysis files
+2025-06-01T13:01:26     info       Params : D:/roll_samples/other/DoubleZigzag_001.roll survey object read, containing 718 parameters
+2025-06-01T13:01:43     info       Opening: D:/roll_samples/other/Orthogonal_001.roll
+2025-06-01T13:01:43     info       Parsing: D:/roll_samples/other/Orthogonal_001.roll
+2025-06-01T13:01:43     info       Parsing: D:/roll_samples/other/Orthogonal_001.roll survey object succesfully parsed
+2025-06-01T13:01:43     info       Reading: D:/roll_samples/other/Orthogonal_001.roll
+2025-06-01T13:01:43     info       Loading: D:/roll_samples/other/Orthogonal_001.roll analysis files
+2025-06-01T13:02:01     info       Params : D:/roll_samples/other/Orthogonal_001.roll survey object read, containing 222 parameters
+2025-06-01T13:02:58     info       Edited : D:/roll_samples/other/Orthogonal_001.roll survey object updated
+2025-06-01T13:03:56     info       Edited : D:/roll_samples/other/Orthogonal_001.roll survey object updated
+2025-06-01T13:04:05     info       Saved  : D:/roll_samples/other/Orthogonal_001.roll
+2025-06-01T13:04:29     info       Opening: D:/roll_samples/other/Parallel_001.roll
+2025-06-01T13:04:29     info       Parsing: D:/roll_samples/other/Parallel_001.roll
+2025-06-01T13:04:29     info       Parsing: D:/roll_samples/other/Parallel_001.roll survey object succesfully parsed
+2025-06-01T13:04:29     info       Reading: D:/roll_samples/other/Parallel_001.roll
+2025-06-01T13:04:29     info       Loading: D:/roll_samples/other/Parallel_001.roll analysis files
+2025-06-01T13:04:29     info       Params : D:/roll_samples/other/Parallel_001.roll survey object read, containing 222 parameters
+2025-06-01T13:04:45     info       Opening: D:/roll_samples/other/SphereTest_001.roll
+2025-06-01T13:04:45     info       Parsing: D:/roll_samples/other/SphereTest_001.roll
+2025-06-01T13:04:45     info       Parsing: D:/roll_samples/other/SphereTest_001.roll survey object succesfully parsed
+2025-06-01T13:04:45     info       Reading: D:/roll_samples/other/SphereTest_001.roll
+2025-06-01T13:04:45     info       Loading: D:/roll_samples/other/SphereTest_001.roll analysis files
+2025-06-01T13:04:46     info       Params : D:/roll_samples/other/SphereTest_001.roll survey object read, containing 282 parameters
+2025-06-01T13:04:58     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-06-01T13:04:58     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-06-01T13:04:58     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-06-01T13:04:58     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-06-01T13:04:58     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-06-01T13:05:02     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-06-01T13:05:16     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-06-01T13:05:16     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-06-01T13:05:16     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-06-01T13:05:16     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-06-01T13:05:16     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-06-01T13:05:16     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-06-01T13:05:16     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-06-01T13:05:16     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-06-01T13:05:16     info       Loaded : . . . offset histogram
+2025-06-01T13:05:16     info       Loaded : . . . azi-offset histogram
+2025-06-01T13:05:16     info       Loaded : . . . read 161,894 rec-records
+2025-06-01T13:05:16     info       Loaded : . . . read 51,240 src-records
+2025-06-01T13:05:16     info       Loaded : . . . read 1,795,499 rel-records
+2025-06-01T13:05:18     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-06-01T13:05:26     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-06-01T13:05:27     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
