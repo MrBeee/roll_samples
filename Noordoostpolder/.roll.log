@@ -83,3 +83,1836 @@
 2025-06-01T13:05:26     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
 2025-06-01T13:05:27     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
 
+2025-06-02T22:03:09     info       Parsing: survey object succesfully parsed
+2025-06-02T22:03:10     info       Params : survey object read, containing 282 parameters
+2025-06-02T22:03:10     info       Plugin : Started
+2025-06-02T22:05:55     info       Import : importing SPS-data using the 'SEG rev2.1' SPS-dialect
+2025-06-02T22:05:55     info       Import : importing 1 rps-file(s), 1 sps-file(s) and 1 xps-file(s)
+2025-06-02T22:06:01     info       Import : imported 539 sps-records, 684086 xps-records and 2057 rps-records
+2025-06-02T22:06:01     info       Import : . . . analysed rps-records; found 1,953 unique records and 0 duplicates
+2025-06-02T22:06:01     info       Import : . . . . . . Survey grid -> Global grid: RPS origin = (260669.41, 576392.62), azimuth = -48.525 deg for rec lines ∥ x-axis
+2025-06-02T22:06:01     info       Import : . . . . . . Survey grid -> Local grid: Stake origin = (1.00, 1.00), increment = (2.00, 101.95) m
+2025-06-02T22:06:01     info       Import : . . . analysed sps-records; found 145 unique records and 290 duplicates
+2025-06-02T23:29:29     info       Parsing: survey object succesfully parsed
+2025-06-02T23:29:29     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-03T10:04:59     info       Parsing: survey object succesfully parsed
+2025-06-03T10:05:00     info       Params : survey object read, containing 282 parameters
+2025-06-03T10:05:00     info       Plugin : Started
+2025-06-03T10:57:43     info       Import : importing SPS-data using the 'SEG rev2.1' SPS-dialect
+2025-06-03T10:57:43     info       Import : importing 1 rps-file(s), 1 sps-file(s) and 1 xps-file(s)
+2025-06-03T10:58:32     info       Import : imported 539 sps-records, 684086 xps-records and 2057 rps-records
+2025-06-03T10:58:32     info       Import : . . . analysed rps-records; found 1,953 unique records and 0 duplicates
+2025-06-03T11:05:46     info       Import : . . . . . . Survey grid -> Global grid: RPS origin = (260669.41, 576392.62), azimuth = -48.525 deg for rec lines ∥ x-axis
+2025-06-03T11:05:48     info       Import : . . . . . . Survey grid -> Local grid: Stake origin = (1.00, 1.00), increment = (2.00, 101.95) m
+2025-06-03T11:07:10     info       Import : . . . analysed sps-records; found 145 unique records and 290 duplicates
+2025-06-03T11:10:27     info       Parsing: survey object succesfully parsed
+2025-06-03T11:10:28     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-03T11:10:43     info       Parsing: survey object succesfully parsed
+2025-06-03T11:10:43     info       Params : survey object read, containing 282 parameters
+2025-06-03T11:10:44     info       Plugin : Started
+2025-06-03T11:11:21     info       Import : importing SPS-data using the 'SEG rev2.1' SPS-dialect
+2025-06-03T11:11:21     info       Import : importing 1 rps-file(s), 1 sps-file(s) and 1 xps-file(s)
+2025-06-03T11:12:09     info       Import : imported 539 sps-records, 684086 xps-records and 2057 rps-records
+2025-06-03T11:12:09     info       Import : . . . analysed rps-records; found 1,953 unique records and 0 duplicates
+2025-06-03T11:12:23     info       Import : . . . . . . Survey grid -> Global grid: RPS origin = (260669.41, 576392.62), azimuth = -48.525 deg for rec lines ∥ x-axis
+2025-06-03T11:12:23     info       Import : . . . . . . Survey grid -> Local grid: Stake origin = (1.00, 1.00), increment = (2.00, 101.95) m
+2025-06-03T11:12:23     info       Import : . . . analysed sps-records; found 145 unique records and 290 duplicates
+2025-06-03T11:12:57     info       Import : . . . . . . Survey grid -> Global grid: SPS origin = (260779.50, 576415.00) m, azimuth = -81.368 deg for src lines ∥ x-axis
+2025-06-03T11:12:57     info       Import : . . . . . . Survey grid -> Local grid: stake origin = (1.00, 3.00), increment = (1.00, 1.00) m
+2025-06-03T11:12:59     info       Import : . . . analysed xps-records; found 683,976 unique records and 0 duplicates
+2025-06-03T11:12:59     info       Import : . . . the xps-records define a maximum of 2,030,802 traces
+2025-06-03T11:13:00     info       Import : . . . sps-records contain 0 xps-orphans
+2025-06-03T11:13:00     info       Import : . . . xps-records contain 0 sps-orphans
+2025-06-03T11:13:04     info       Import : . . . rps-records contain 1,280 xps-orphans
+2025-06-03T11:13:04     info       Import : . . . xps-records contain 0 rps-orphans
+2025-06-03T11:44:54     info       Edited : survey object updated
+2025-06-03T11:45:40     info       Saved  : D:/Roll/Scheemda 3D.roll
+2025-06-03T11:45:56     info       Parsing: D:/Roll/Scheemda 3D.roll survey object succesfully parsed
+2025-06-03T11:45:57     info       Params : D:/Roll/Scheemda 3D.roll survey object read, containing 282 parameters+++
+
+2025-06-03T11:48:40     info       Parsing: survey object succesfully parsed
+2025-06-03T11:48:40     info       Params : survey object read, containing 282 parameters
+2025-06-03T11:48:40     info       Plugin : Started
+2025-06-03T11:54:09     info       Import : importing SPS-data using the 'SEG rev2.1' SPS-dialect
+2025-06-03T11:54:09     info       Import : importing 1 rps-file(s), 1 sps-file(s) and 1 xps-file(s)
+2025-06-03T11:54:10     info       Import : imported 417 sps-records, 417 xps-records and 1953 rps-records
+2025-06-03T11:54:10     info       Import : . . . analysed rps-records; found 1,953 unique records and 0 duplicates
+2025-06-03T11:54:29     info       Import : . . . . . . Survey grid -> Global grid: RPS origin = (260669.34, 576392.56), azimuth = -48.524 deg for rec lines ∥ x-axis
+2025-06-03T11:54:29     info       Import : . . . . . . Survey grid -> Local grid: Stake origin = (1.00, 1.00), increment = (2.00, 101.95) m
+2025-06-03T11:54:29     info       Import : . . . analysed sps-records; found 417 unique records and 0 duplicates
+2025-06-03T11:54:43     info       Import : . . . . . . Survey grid -> Global grid: SPS origin = (260804.45, 576328.50) m, azimuth = -48.681 deg for src lines ∥ x-axis
+2025-06-03T11:54:43     info       Import : . . . . . . Survey grid -> Local grid: stake origin = (1.00, 1.00), increment = (8.01, 104.32) m
+2025-06-03T11:54:43     info       Import : . . . analysed xps-records; found 417 unique records and 0 duplicates
+2025-06-03T11:54:43     info       Import : . . . the xps-records define a maximum of 270,567 traces
+2025-06-03T11:54:43     info       Import : . . . sps-records contain 0 xps-orphans
+2025-06-03T11:54:43     info       Import : . . . xps-records contain 0 sps-orphans
+2025-06-03T11:54:43     info       Import : . . . rps-records contain 0 xps-orphans
+2025-06-03T11:54:43     info       Import : . . . xps-records contain 0 rps-orphans
+2025-06-03T11:55:42     info       Edited : survey object updated
+2025-06-03T12:16:35     info       Edited : survey object updated
+2025-06-03T12:16:47     info       Edited : survey object updated
+2025-06-03T12:17:05     info       Edited : survey object updated
+2025-06-03T12:17:12     info       Edited : survey object updated
+2025-06-03T12:17:17     info       Edited : survey object updated
+2025-06-03T12:17:25     info       Edited : survey object updated
+2025-06-03T12:17:46     info       Edited : survey object updated
+2025-06-03T12:17:57     info       Edited : survey object updated
+2025-06-03T12:23:10     info       Edited : survey object updated
+2025-06-03T12:23:18     info       Edited : survey object updated
+2025-06-03T12:23:56     info       Edited : survey object updated
+2025-06-03T12:23:58     info       Edited : survey object updated
+2025-06-03T12:24:42     info       Edited : survey object updated
+2025-06-03T12:25:42     info       Edited : survey object updated
+2025-06-03T12:26:11     info       Saved  : D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-03T12:27:56     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll survey object succesfully parsed
+2025-06-03T12:27:57     info       Params : D:/Roll/3d_TUDelft_Scheemda.roll survey object read, containing 282 parameters
+2025-06-03T12:38:41     info       Saved  : D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-03T12:38:41     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll survey object succesfully parsed
+2025-06-03T12:38:42     info       Params : D:/Roll/3d_TUDelft_Scheemda.roll survey object read, containing 282 parameters+++
+
+2025-06-03T12:42:34     info       Parsing: survey object succesfully parsed
+2025-06-03T12:42:34     info       Params : survey object read, containing 282 parameters
+2025-06-03T12:42:35     info       Plugin : Started
+2025-06-03T12:42:42     info       Opening: D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-03T12:42:42     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-03T12:42:42     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll survey object succesfully parsed
+2025-06-03T12:42:42     info       Reading: D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-03T12:42:42     info       Loading: D:/Roll/3d_TUDelft_Scheemda.roll analysis files
+2025-06-03T12:42:42     info       Loaded : . . . read 1,953 rps-records
+2025-06-03T12:42:42     info       Loaded : . . . read 417 sps-records
+2025-06-03T12:42:42     info       Loaded : . . . read 417 xps-records
+2025-06-03T12:42:43     info       Params : D:/Roll/3d_TUDelft_Scheemda.roll survey object read, containing 282 parameters
+2025-06-03T12:42:58     binning    Thread : started 'Bin from Imported SPS', using 417 shot points
+2025-06-03T12:43:00     binning    Thread : Binning completed. Elapsed time:0:00:02 
+2025-06-03T12:43:00     binning    Thread : . . . Fold       : Min:0 - Max:2885 
+2025-06-03T12:43:00     binning    Thread : . . . Min-offsets: Min:0.25m - Max:227.44m 
+2025-06-03T12:43:00     binning    Thread : . . . Max-offsets: Min:35.54m - Max:450.42m 
+2025-06-03T12:49:23     info       Saved  : D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-03T13:10:37     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll survey object succesfully parsed
+2025-06-03T13:10:37     info       Params : D:/Roll/3d_TUDelft_Scheemda.roll survey object read, containing 282 parameters+++
+
+2025-06-06T14:41:58     info       Parsing: survey object succesfully parsed
+2025-06-06T14:41:59     info       Params : survey object read, containing 282 parameters
+2025-06-06T14:41:59     info       Plugin : Started
+2025-06-06T14:44:27     info       Parsing: survey object succesfully parsed
+2025-06-06T14:44:27     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T14:44:34     info       Parsing: survey object succesfully parsed
+2025-06-06T14:44:35     info       Params : survey object read, containing 282 parameters
+2025-06-06T14:44:35     info       Plugin : Started
+2025-06-06T17:06:59     info       Parsing: survey object succesfully parsed
+2025-06-06T17:07:00     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T17:09:54     info       Parsing: survey object succesfully parsed
+2025-06-06T17:09:54     info       Params : survey object read, containing 282 parameters
+2025-06-06T17:09:54     info       Plugin : Started
+2025-06-06T17:09:57     info       Edited : survey object updated
+2025-06-06T17:10:04     info       Parsing: survey object succesfully parsed
+2025-06-06T17:10:05     info       Params : survey object read, containing 282 parameters
+2025-06-06T17:10:05     info       Created: new file
+2025-06-06T17:10:15     info       Parsing: survey object succesfully parsed
+2025-06-06T17:10:15     info       Params : survey object read, containing 282 parameters
+2025-06-06T17:10:15     info       Created: new file
+2025-06-06T17:10:39     info       Edited : survey object updated
+2025-06-06T17:10:55     info       Edited : survey object updated
+2025-06-06T17:11:27     binning    Thread : started 'Bin from templates', using 0 shot points
+2025-06-06T17:11:28     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T17:11:28     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T17:11:28     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:11:28     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:11:46     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T17:15:38     info       Parsing: survey object succesfully parsed
+2025-06-06T17:15:39     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T17:22:31     info       Parsing: survey object succesfully parsed
+2025-06-06T17:22:32     info       Params : survey object read, containing 282 parameters
+2025-06-06T17:22:32     info       Plugin : Started
+2025-06-06T17:22:42     info       Edited : survey object updated
+2025-06-06T17:23:16     binning    Thread : started 'Bin from templates', using 0 shot points
+2025-06-06T17:23:16     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T17:23:16     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T17:23:16     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:23:16     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:23:46     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T17:29:55     info       Parsing: survey object succesfully parsed
+2025-06-06T17:29:55     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T17:30:02     info       Parsing: survey object succesfully parsed
+2025-06-06T17:30:02     info       Params : survey object read, containing 282 parameters
+2025-06-06T17:30:02     info       Plugin : Started
+2025-06-06T17:30:12     info       Edited : survey object updated
+2025-06-06T17:30:18     binning    Thread : started 'Bin from templates', using 0 shot points
+2025-06-06T17:30:18     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T17:30:18     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T17:30:18     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:30:18     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:30:25     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T17:31:25     info       Parsing: survey object succesfully parsed
+2025-06-06T17:31:26     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T17:31:34     info       Parsing: survey object succesfully parsed
+2025-06-06T17:31:35     info       Params : survey object read, containing 282 parameters
+2025-06-06T17:31:35     info       Plugin : Started
+2025-06-06T17:31:47     info       Edited : survey object updated
+2025-06-06T17:31:51     binning    Thread : started 'Bin from templates', using 0 shot points
+2025-06-06T17:31:51     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T17:31:51     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T17:31:51     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:31:51     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:31:57     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T17:34:09     info       Parsing: survey object succesfully parsed
+2025-06-06T17:34:10     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T17:34:14     info       Parsing: survey object succesfully parsed
+2025-06-06T17:34:14     info       Params : survey object read, containing 282 parameters
+2025-06-06T17:34:14     info       Plugin : Started
+2025-06-06T17:34:36     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-06-06T17:34:37     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T17:34:37     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-06-06T17:34:37     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-06-06T17:34:37     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-06-06T17:34:50     info       Edited : survey object updated
+2025-06-06T17:34:53     binning    Thread : started 'Bin from templates', using 0 shot points
+2025-06-06T17:34:53     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T17:34:53     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T17:34:53     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:34:53     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:34:59     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T17:36:56     info       Parsing: survey object succesfully parsed
+2025-06-06T17:36:57     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T17:37:03     info       Parsing: survey object succesfully parsed
+2025-06-06T17:37:03     info       Params : survey object read, containing 282 parameters
+2025-06-06T17:37:03     info       Plugin : Started
+2025-06-06T17:37:18     info       Edited : survey object updated
+2025-06-06T17:37:34     binning    Thread : started 'Bin from templates', using 1 shot points
+2025-06-06T17:37:35     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T17:37:35     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T17:37:35     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:37:35     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:37:53     geometry   Thread : started 'Create Geometry from Templates', from 1 shot points
+2025-06-06T17:38:43     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:51 
+2025-06-06T17:39:22     binning    Thread : started 'Bin from templates', using 1 shot points
+2025-06-06T17:39:22     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T17:39:22     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T17:39:22     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:39:22     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:39:29     geometry   Thread : started 'Create Geometry from Templates', from 1 shot points
+2025-06-06T17:39:50     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:22 
+2025-06-06T17:40:11     geometry   Thread : started 'Create Geometry from Templates', from 1 shot points
+2025-06-06T17:40:15     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:04 
+2025-06-06T17:42:13     binning    Thread : started 'Bin from geometry', using 1 shot points
+2025-06-06T17:42:13     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T17:42:13     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T17:42:13     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:42:13     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T17:51:29     info       Parsing: survey object succesfully parsed
+2025-06-06T17:51:30     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T17:51:35     info       Parsing: survey object succesfully parsed
+2025-06-06T17:51:35     info       Params : survey object read, containing 282 parameters
+2025-06-06T17:51:35     info       Plugin : Started
+2025-06-06T17:51:48     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T17:52:16     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T17:52:16     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:16     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T17:52:24     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:36 
+2025-06-06T17:52:47     info       Edited : survey object updated
+2025-06-06T17:53:02     info       Edited : survey object updated
+2025-06-06T17:53:09     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T18:07:39     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T18:07:39     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:07:39     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:15:57     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:22:49 
+2025-06-06T18:16:04     info       Parsing: survey object succesfully parsed
+2025-06-06T18:16:05     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T18:16:14     info       Parsing: survey object succesfully parsed
+2025-06-06T18:16:14     info       Params : survey object read, containing 282 parameters
+2025-06-06T18:16:14     info       Plugin : Started
+2025-06-06T18:16:32     info       Edited : survey object updated
+2025-06-06T18:16:39     binning    Thread : started 'Bin from templates', using 0 shot points
+2025-06-06T18:16:39     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T18:16:39     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T18:16:39     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T18:16:39     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T18:16:45     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T18:16:50     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T18:16:50     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:50     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:16:52     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:07 
+2025-06-06T18:17:39     info       Parsing: survey object succesfully parsed
+2025-06-06T18:17:40     info       Params : survey object read, containing 282 parameters
+2025-06-06T18:17:40     info       Created: new file
+2025-06-06T18:17:48     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T18:17:57     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T18:17:57     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:17:57     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T18:18:15     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:27 
+2025-06-06T18:18:25     binning    Thread : started 'Bin from geometry', using 400 shot points
+2025-06-06T18:18:25     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T18:18:25     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-06-06T18:18:25     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-06-06T18:18:25     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-06-06T18:18:50     info       Edited : survey object updated
+2025-06-06T18:18:57     binning    Thread : started 'Bin from geometry', using 400 shot points
+2025-06-06T18:18:58     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T18:18:58     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-06-06T18:18:58     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-06-06T18:18:58     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-06-06T19:09:53     info       Parsing: survey object succesfully parsed
+2025-06-06T19:09:53     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T19:10:01     info       Parsing: survey object succesfully parsed
+2025-06-06T19:10:01     info       Params : survey object read, containing 282 parameters
+2025-06-06T19:10:01     info       Plugin : Started
+2025-06-06T19:10:08     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T19:10:12     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:10:12     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:12     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:10:20     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:12 
+2025-06-06T19:10:58     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T19:11:00     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:11:00     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:00     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:11:04     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:06 
+2025-06-06T19:12:15     info       Parsing: survey object succesfully parsed
+2025-06-06T19:12:16     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T19:12:21     info       Parsing: survey object succesfully parsed
+2025-06-06T19:12:21     info       Params : survey object read, containing 282 parameters
+2025-06-06T19:12:21     info       Plugin : Started
+2025-06-06T19:12:30     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T19:12:33     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:12:33     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:12:33     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:14:41     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:02:12 
+2025-06-06T19:14:48     info       Parsing: survey object succesfully parsed
+2025-06-06T19:14:48     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T19:14:54     info       Parsing: survey object succesfully parsed
+2025-06-06T19:14:55     info       Params : survey object read, containing 282 parameters
+2025-06-06T19:14:55     info       Plugin : Started
+2025-06-06T19:15:01     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T19:15:04     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:15:04     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:04     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:15:29     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:29 
+2025-06-06T19:15:40     info       Parsing: survey object succesfully parsed
+2025-06-06T19:15:41     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T19:15:45     info       Parsing: survey object succesfully parsed
+2025-06-06T19:15:46     info       Params : survey object read, containing 282 parameters
+2025-06-06T19:15:46     info       Plugin : Started
+2025-06-06T19:15:59     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T19:16:02     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:16:02     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:02     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:16:55     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:56 
+2025-06-06T19:21:57     info       Parsing: survey object succesfully parsed
+2025-06-06T19:21:58     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T19:22:19     info       Parsing: survey object succesfully parsed
+2025-06-06T19:22:20     info       Params : survey object read, containing 282 parameters
+2025-06-06T19:22:20     info       Plugin : Started
+2025-06-06T19:22:28     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T19:22:31     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:22:31     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:31     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:35     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:08 
+2025-06-06T19:22:46     info       Edited : survey object updated
+2025-06-06T19:22:50     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T19:22:50     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:22:50     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:22:50     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:00     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:11 
+2025-06-06T19:23:20     binning    Thread : started 'Bin from templates', using 0 shot points
+2025-06-06T19:23:21     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T19:23:21     binning    Thread : . . . Fold       : Min:0 - Max:0 
+2025-06-06T19:23:21     binning    Thread : . . . Min-offsets: Min:infm - Max:0.00m 
+2025-06-06T19:23:21     binning    Thread : . . . Max-offsets: Min:infm - Max:0.00m 
+2025-06-06T19:23:35     binning    Thread : started 'Bin from geometry', using 0 shot points
+2025-06-06T19:23:35     error      Thread : . . . aborted binning operation
+2025-06-06T19:23:35     error      Thread : . . . zero-size array to reduction operation minimum which has no identity
+2025-06-06T19:23:45     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T19:23:45     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:23:45     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:45     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:23:50     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:06 
+2025-06-06T19:24:15     info       Parsing: survey object succesfully parsed
+2025-06-06T19:27:42     info       Parsing: survey object succesfully parsed
+2025-06-06T19:27:42     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T19:30:17     info       Parsing: survey object succesfully parsed
+2025-06-06T19:30:17     info       Params : survey object read, containing 282 parameters
+2025-06-06T19:30:17     info       Plugin : Started
+2025-06-06T19:30:25     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T19:30:27     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:30:27     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:30:27     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:03 
+2025-06-06T19:30:33     binning    Thread : started 'Bin from geometry', using 400 shot points
+2025-06-06T19:30:33     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T19:30:33     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-06-06T19:30:33     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-06-06T19:30:33     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-06-06T19:31:08     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T19:31:09     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:31:09     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:31:09     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:02 
+2025-06-06T19:32:02     info       Parsing: survey object succesfully parsed
+2025-06-06T19:32:03     info       Params : survey object read, containing 282 parameters
+2025-06-06T19:32:26     info       Edited : survey object updated
+2025-06-06T19:32:35     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T19:32:35     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:32:35     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:35     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:32:44     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:09 
+2025-06-06T19:32:55     binning    Thread : started 'Bin from geometry', using 0 shot points
+2025-06-06T19:32:55     error      Thread : . . . aborted binning operation
+2025-06-06T19:32:55     error      Thread : . . . zero-size array to reduction operation minimum which has no identity
+2025-06-06T19:33:04     binning    Thread : started 'Bin from geometry', using 0 shot points
+2025-06-06T19:33:04     error      Thread : . . . aborted binning operation
+2025-06-06T19:33:04     error      Thread : . . . zero-size array to reduction operation minimum which has no identity
+2025-06-06T19:34:24     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T19:34:24     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T19:34:24     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T19:34:24     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T22:31:39     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:2:57:15 
+2025-06-06T22:35:52     info       Parsing: survey object succesfully parsed
+2025-06-06T22:35:53     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T22:36:39     info       Parsing: survey object succesfully parsed
+2025-06-06T22:36:40     info       Params : survey object read, containing 282 parameters
+2025-06-06T22:36:40     info       Plugin : Started
+2025-06-06T22:36:44     info       Parsing: survey object succesfully parsed
+2025-06-06T22:36:45     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T22:48:39     info       Parsing: survey object succesfully parsed
+2025-06-06T22:48:40     info       Params : survey object read, containing 282 parameters
+2025-06-06T22:48:40     info       Plugin : Started
+2025-06-06T22:49:21     info       Edited : survey object updated
+2025-06-06T22:49:30     info       Params : survey object read, containing 282 parameters
+2025-06-06T22:49:55     info       Edited : survey object updated
+2025-06-06T22:49:57     info       Edited : survey object updated
+2025-06-06T22:49:59     info       Params : survey object read, containing 282 parameters
+2025-06-06T22:50:04     info       Params : survey object read, containing 282 parameters
+2025-06-06T22:50:22     info       Parsing: survey object succesfully parsed
+2025-06-06T22:50:23     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T23:09:49     info       Parsing: survey object succesfully parsed
+2025-06-06T23:09:49     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:09:50     info       Plugin : Started
+2025-06-06T23:09:58     info       Parsing: survey object succesfully parsed
+2025-06-06T23:09:59     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T23:10:03     info       Parsing: survey object succesfully parsed
+2025-06-06T23:10:04     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:10:04     info       Plugin : Started
+2025-06-06T23:10:20     info       Edited : survey object updated
+2025-06-06T23:10:25     geometry   Thread : started 'Create Geometry from Templates', from 0 shot points
+2025-06-06T23:10:26     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T23:10:26     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:10:26     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:01 
+2025-06-06T23:13:17     info       Parsing: survey object succesfully parsed
+2025-06-06T23:13:18     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T23:13:22     info       Parsing: survey object succesfully parsed
+2025-06-06T23:13:23     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:13:23     info       Plugin : Started
+2025-06-06T23:13:28     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T23:13:32     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T23:13:32     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:13:32     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:04 
+2025-06-06T23:13:51     info       Edited : survey object updated
+2025-06-06T23:14:00     binning    Thread : started 'Bin from geometry', using 400 shot points
+2025-06-06T23:14:01     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T23:14:01     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-06-06T23:14:01     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-06-06T23:14:01     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-06-06T23:14:22     info       Parsing: survey object succesfully parsed
+2025-06-06T23:14:22     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T23:17:56     info       Parsing: survey object succesfully parsed
+2025-06-06T23:17:56     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:17:57     info       Plugin : Started
+2025-06-06T23:18:04     geometry   Thread : started 'Create Geometry from Templates', from 400 shot points
+2025-06-06T23:18:07     debug      Called : geometryFromTemplates() profiling information
+2025-06-06T23:18:07     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-06-06T23:18:07     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:04 
+2025-06-06T23:18:18     binning    Thread : started 'Bin from geometry', using 400 shot points
+2025-06-06T23:18:19     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-06-06T23:18:19     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-06-06T23:18:19     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-06-06T23:18:19     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-06-06T23:21:28     info       Parsing: survey object succesfully parsed
+2025-06-06T23:21:29     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T23:21:36     info       Parsing: survey object succesfully parsed
+2025-06-06T23:21:36     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:21:36     info       Plugin : Started
+2025-06-06T23:21:50     info       Parsing: survey object succesfully parsed
+2025-06-06T23:21:51     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T23:21:55     info       Parsing: survey object succesfully parsed
+2025-06-06T23:21:55     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:21:56     info       Plugin : Started
+2025-06-06T23:22:10     info       Edited : survey object updated
+2025-06-06T23:22:47     info       Parsing: survey object succesfully parsed
+2025-06-06T23:22:48     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:22:48     info       Created: new file
+2025-06-06T23:22:52     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:22:54     info       Edited : survey object updated
+2025-06-06T23:23:14     info       Edited : survey object updated
+2025-06-06T23:23:15     info       Edited : survey object updated
+2025-06-06T23:23:51     info       Parsing: survey object succesfully parsed
+2025-06-06T23:23:52     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:23:52     info       Created: new file
+2025-06-06T23:24:02     info       Parsing: survey object succesfully parsed
+2025-06-06T23:24:03     info       Params : survey object read, containing 282 parameters+++
+
+2025-06-06T23:24:09     info       Parsing: survey object succesfully parsed
+2025-06-06T23:24:10     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:24:10     info       Plugin : Started
+2025-06-06T23:24:30     info       Edited : survey object updated
+2025-06-06T23:24:37     info       Parsing: survey object succesfully parsed
+2025-06-06T23:24:38     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:24:38     info       Created: new file
+2025-06-06T23:24:59     info       Parsing: survey object succesfully parsed
+2025-06-06T23:24:59     info       Params : survey object read, containing 282 parameters
+2025-06-06T23:24:59     info       Created: new file
+2025-06-06T23:25:21     info       Opening: D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-06T23:25:21     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-06T23:25:21     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll survey object succesfully parsed
+2025-06-06T23:25:21     info       Reading: D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-06T23:25:21     info       Loading: D:/Roll/3d_TUDelft_Scheemda.roll analysis files
+2025-06-06T23:25:21     info       Loaded : . . . Fold map  : Min:0 - Max:2885 
+2025-06-06T23:25:21     info       Loaded : . . . Min-offset: Min:0.25m - Max:227.44m 
+2025-06-06T23:25:21     info       Loaded : . . . Max-offset: Min:35.54m - Max:450.42m 
+2025-06-06T23:25:22     info       Loaded : . . . read 1,953 rps-records
+2025-06-06T23:25:22     info       Loaded : . . . read 417 sps-records
+2025-06-06T23:25:22     info       Loaded : . . . read 417 xps-records
+2025-06-06T23:25:22     info       Params : D:/Roll/3d_TUDelft_Scheemda.roll survey object read, containing 282 parameters
+2025-06-06T23:25:35     info       Edited : D:/Roll/3d_TUDelft_Scheemda.roll survey object updated
+2025-06-06T23:25:37     info       Edited : D:/Roll/3d_TUDelft_Scheemda.roll survey object updated
+2025-06-06T23:25:58     info       Edited : D:/Roll/3d_TUDelft_Scheemda.roll survey object updated
+2025-06-06T23:26:37     info       Saved  : D:/Roll/3d_TUDelft_Scheemda.roll
+2025-06-06T23:27:32     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll survey object succesfully parsed
+2025-06-06T23:27:33     info       Params : D:/Roll/3d_TUDelft_Scheemda.roll survey object read, containing 282 parameters+++
+
+2025-08-26T10:25:00     info       Parsing: survey object succesfully parsed
+2025-08-26T10:25:01     info       Params : survey object read, containing 282 parameters
+2025-08-26T10:25:01     info       Plugin : Started
+2025-08-26T10:25:10     info       Parsing: survey object succesfully parsed
+2025-08-26T10:25:11     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T19:21:53     info       Parsing: survey object succesfully parsed
+2025-09-08T19:21:53     info       Params : survey object read, containing 282 parameters
+2025-09-08T19:21:54     info       Plugin : Started
+2025-09-08T19:22:04     info       Opening: D:/Roll/3d_TUDelft_Scheemda.roll
+2025-09-08T19:22:06     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll
+2025-09-08T19:22:06     info       Parsing: D:/Roll/3d_TUDelft_Scheemda.roll survey object succesfully parsed
+2025-09-08T19:22:06     info       Reading: D:/Roll/3d_TUDelft_Scheemda.roll
+2025-09-08T19:22:06     info       Loading: D:/Roll/3d_TUDelft_Scheemda.roll analysis files
+2025-09-08T19:22:06     info       Loaded : . . . Fold map  : Min:0 - Max:2885 
+2025-09-08T19:22:06     info       Loaded : . . . Min-offset: Min:0.25m - Max:227.44m 
+2025-09-08T19:22:06     info       Loaded : . . . Max-offset: Min:35.54m - Max:450.42m 
+2025-09-08T19:22:06     info       Loaded : . . . read 1,953 rps-records
+2025-09-08T19:22:06     info       Loaded : . . . read 417 sps-records
+2025-09-08T19:22:06     info       Loaded : . . . read 417 xps-records
+2025-09-08T19:22:07     info       Params : D:/Roll/3d_TUDelft_Scheemda.roll survey object read, containing 128 parameters
+2025-09-08T19:22:14     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-08T19:22:14     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-08T19:22:14     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-08T19:22:14     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-08T19:22:14     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-08T19:22:14     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-08T19:22:14     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-08T19:22:14     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-08T19:22:14     info       Loaded : . . . offset histogram
+2025-09-08T19:22:14     info       Loaded : . . . azi-offset histogram
+2025-09-08T19:22:14     info       Loaded : . . . read 161,894 rec-records
+2025-09-08T19:22:14     info       Loaded : . . . read 51,240 src-records
+2025-09-08T19:22:15     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-08T19:22:16     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-08T19:26:16     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-08T19:26:17     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-08T19:26:54     info       Parsing: survey object succesfully parsed
+2025-09-08T19:26:55     info       Params : survey object read, containing 282 parameters
+2025-09-08T19:26:55     info       Plugin : Started
+2025-09-08T19:27:46     info       Parsing: survey object succesfully parsed
+2025-09-08T19:27:46     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T19:27:53     info       Parsing: survey object succesfully parsed
+2025-09-08T19:27:54     info       Params : survey object read, containing 282 parameters
+2025-09-08T19:27:54     info       Plugin : Started
+2025-09-08T19:38:13     info       Parsing: survey object succesfully parsed
+2025-09-08T19:38:14     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T19:38:45     info       Parsing: survey object succesfully parsed
+2025-09-08T19:38:46     info       Params : survey object read, containing 282 parameters
+2025-09-08T19:38:46     info       Plugin : Started
+2025-09-08T21:42:29     info       Parsing: survey object succesfully parsed
+2025-09-08T21:42:29     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T21:52:02     info       Parsing: survey object succesfully parsed
+2025-09-08T21:52:02     info       Params : survey object read, containing 282 parameters
+2025-09-08T21:52:03     info       Plugin : Started
+2025-09-08T21:52:09     info       Parsing: survey object succesfully parsed
+2025-09-08T21:52:10     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T21:52:18     info       Parsing: survey object succesfully parsed
+2025-09-08T21:52:18     info       Params : survey object read, containing 282 parameters
+2025-09-08T21:52:18     info       Plugin : Started
+2025-09-08T21:53:10     info       Parsing: survey object succesfully parsed
+2025-09-08T21:53:10     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T21:53:28     info       Parsing: survey object succesfully parsed
+2025-09-08T21:53:28     info       Params : survey object read, containing 282 parameters
+2025-09-08T21:53:28     info       Plugin : Started
+2025-09-08T21:53:30     info       Parsing: survey object succesfully parsed
+2025-09-08T21:53:31     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T21:54:33     info       Parsing: survey object succesfully parsed
+2025-09-08T21:54:33     info       Params : survey object read, containing 282 parameters
+2025-09-08T21:54:33     info       Plugin : Started
+2025-09-08T21:54:39     info       Parsing: survey object succesfully parsed
+2025-09-08T21:54:40     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T22:01:22     info       Parsing: survey object succesfully parsed
+2025-09-08T22:01:23     info       Params : survey object read, containing 282 parameters
+2025-09-08T22:01:23     info       Plugin : Started
+2025-09-08T22:01:34     info       Parsing: survey object succesfully parsed
+2025-09-08T22:01:34     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T22:28:25     info       Parsing: survey object succesfully parsed
+2025-09-08T22:28:25     info       Params : survey object read, containing 282 parameters
+2025-09-08T22:28:25     info       Plugin : Started
+2025-09-08T22:28:42     info       Parsing: survey object succesfully parsed
+2025-09-08T22:28:43     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T22:45:28     info       Parsing: survey object succesfully parsed
+2025-09-08T22:45:29     info       Params : survey object read, containing 282 parameters
+2025-09-08T22:45:29     info       Plugin : Started
+2025-09-08T22:45:32     info       Parsing: survey object succesfully parsed
+2025-09-08T22:45:33     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T22:47:30     info       Parsing: survey object succesfully parsed
+2025-09-08T22:47:31     info       Params : survey object read, containing 282 parameters
+2025-09-08T22:47:31     info       Plugin : Started
+2025-09-08T22:47:33     info       Parsing: survey object succesfully parsed
+2025-09-08T22:47:33     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T23:05:56     info       Parsing: survey object succesfully parsed
+2025-09-08T23:05:57     info       Params : survey object read, containing 282 parameters
+2025-09-08T23:05:57     info       Plugin : Started
+2025-09-08T23:06:26     info       Parsing: survey object succesfully parsed
+2025-09-08T23:06:27     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-08T23:25:14     info       Parsing: survey object succesfully parsed
+2025-09-08T23:25:15     info       Params : survey object read, containing 282 parameters
+2025-09-08T23:25:15     info       Plugin : Started
+2025-09-08T23:32:38     info       Parsing: survey object succesfully parsed
+2025-09-08T23:32:39     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T11:10:33     info       Parsing: survey object succesfully parsed
+2025-09-09T11:10:33     info       Params : survey object read, containing 282 parameters
+2025-09-09T11:10:33     info       Plugin : Started
+2025-09-09T11:12:45     info       Parsing: survey object succesfully parsed
+2025-09-09T11:12:46     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T11:37:34     info       Parsing: survey object succesfully parsed
+2025-09-09T11:37:34     info       Params : survey object read, containing 282 parameters
+2025-09-09T11:37:34     info       Plugin : Started
+2025-09-09T11:37:57     info       Parsing: survey object succesfully parsed
+2025-09-09T11:37:57     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T11:39:36     info       Parsing: survey object succesfully parsed
+2025-09-09T11:39:37     info       Params : survey object read, containing 282 parameters
+2025-09-09T11:39:37     info       Plugin : Started
+2025-09-09T11:40:05     info       Parsing: survey object succesfully parsed
+2025-09-09T11:40:06     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T12:37:07     info       Parsing: survey object succesfully parsed
+2025-09-09T12:37:07     info       Params : survey object read, containing 282 parameters
+2025-09-09T12:37:07     info       Plugin : Started
+2025-09-09T12:37:14     info       Parsing: survey object succesfully parsed
+2025-09-09T12:37:15     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T15:24:09     info       Parsing: survey object succesfully parsed
+2025-09-09T15:24:10     info       Params : survey object read, containing 282 parameters
+2025-09-09T15:24:10     info       Plugin : Started
+2025-09-09T15:24:17     info       Parsing: survey object succesfully parsed
+2025-09-09T15:24:17     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T15:55:50     info       Parsing: survey object succesfully parsed
+2025-09-09T15:55:50     info       Params : survey object read, containing 282 parameters
+2025-09-09T15:55:51     info       Plugin : Started
+2025-09-09T15:55:55     info       Parsing: survey object succesfully parsed
+2025-09-09T15:55:56     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T15:56:27     info       Parsing: survey object succesfully parsed
+2025-09-09T15:56:28     info       Params : survey object read, containing 282 parameters
+2025-09-09T15:56:28     info       Plugin : Started
+2025-09-09T15:56:31     info       Parsing: survey object succesfully parsed
+2025-09-09T15:56:33     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T15:57:16     info       Parsing: survey object succesfully parsed
+2025-09-09T15:57:17     info       Params : survey object read, containing 282 parameters
+2025-09-09T15:57:17     info       Plugin : Started
+2025-09-09T15:57:24     info       Parsing: survey object succesfully parsed
+2025-09-09T15:57:25     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T15:57:44     info       Parsing: survey object succesfully parsed
+2025-09-09T15:57:45     info       Params : survey object read, containing 282 parameters
+2025-09-09T15:57:45     info       Plugin : Started
+2025-09-09T15:57:48     info       Parsing: survey object succesfully parsed
+2025-09-09T15:57:50     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T15:59:04     info       Parsing: survey object succesfully parsed
+2025-09-09T15:59:05     info       Params : survey object read, containing 282 parameters
+2025-09-09T15:59:05     info       Plugin : Started
+2025-09-09T15:59:44     info       Parsing: survey object succesfully parsed
+2025-09-09T15:59:44     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-09T16:02:10     info       Parsing: survey object succesfully parsed
+2025-09-09T16:02:10     info       Params : survey object read, containing 282 parameters
+2025-09-09T16:02:10     info       Plugin : Started
+2025-09-09T16:02:24     info       Parsing: survey object succesfully parsed
+2025-09-09T16:02:24     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T12:24:20     info       Parsing: survey object succesfully parsed
+2025-09-10T12:24:21     info       Params : survey object read, containing 282 parameters
+2025-09-10T12:24:21     info       Plugin : Started
+2025-09-10T12:25:03     info       Parsing: survey object succesfully parsed
+2025-09-10T12:25:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T12:30:14     info       Parsing: survey object succesfully parsed
+2025-09-10T12:30:15     info       Params : survey object read, containing 282 parameters
+2025-09-10T12:30:15     info       Plugin : Started
+2025-09-10T12:30:25     info       Parsing: survey object succesfully parsed
+2025-09-10T12:30:26     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T12:32:58     info       Parsing: survey object succesfully parsed
+2025-09-10T12:32:58     info       Params : survey object read, containing 282 parameters
+2025-09-10T12:32:59     info       Plugin : Started
+2025-09-10T12:33:04     info       Parsing: survey object succesfully parsed
+2025-09-10T12:33:05     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T13:09:46     info       Parsing: survey object succesfully parsed
+2025-09-10T13:09:46     info       Params : survey object read, containing 282 parameters
+2025-09-10T13:09:47     info       Plugin : Started
+2025-09-10T13:09:51     info       Parsing: survey object succesfully parsed
+2025-09-10T13:09:51     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T13:24:48     info       Parsing: survey object succesfully parsed
+2025-09-10T13:24:48     info       Params : survey object read, containing 282 parameters
+2025-09-10T13:24:49     info       Plugin : Started
+2025-09-10T13:25:04     info       Parsing: survey object succesfully parsed
+2025-09-10T13:25:05     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T13:37:49     info       Parsing: survey object succesfully parsed
+2025-09-10T13:37:50     info       Params : survey object read, containing 282 parameters
+2025-09-10T13:37:50     info       Plugin : Started
+2025-09-10T13:38:11     info       Parsing: survey object succesfully parsed
+2025-09-10T13:38:12     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T13:44:09     info       Parsing: survey object succesfully parsed
+2025-09-10T13:44:10     info       Params : survey object read, containing 282 parameters
+2025-09-10T13:44:10     info       Plugin : Started
+2025-09-10T13:44:14     info       Parsing: survey object succesfully parsed
+2025-09-10T13:44:15     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T13:51:14     info       Parsing: survey object succesfully parsed
+2025-09-10T13:51:14     info       Params : survey object read, containing 282 parameters
+2025-09-10T13:51:15     info       Plugin : Started
+2025-09-10T13:51:18     info       Parsing: survey object succesfully parsed
+2025-09-10T13:51:19     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T13:55:32     info       Parsing: survey object succesfully parsed
+2025-09-10T13:55:33     info       Params : survey object read, containing 282 parameters
+2025-09-10T13:55:33     info       Plugin : Started
+2025-09-10T13:55:37     info       Parsing: survey object succesfully parsed
+2025-09-10T13:55:38     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T13:59:58     info       Parsing: survey object succesfully parsed
+2025-09-10T13:59:59     info       Params : survey object read, containing 282 parameters
+2025-09-10T13:59:59     info       Plugin : Started
+2025-09-10T14:05:27     info       Parsing: survey object succesfully parsed
+2025-09-10T14:05:28     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T14:05:33     info       Parsing: survey object succesfully parsed
+2025-09-10T14:05:34     info       Params : survey object read, containing 282 parameters
+2025-09-10T14:05:34     info       Plugin : Started
+2025-09-10T14:05:39     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-10T14:05:39     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-10T14:05:39     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-10T14:05:39     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-10T14:05:39     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-10T14:05:39     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-10T14:05:39     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-10T14:05:39     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-10T14:05:39     info       Loaded : . . . offset histogram
+2025-09-10T14:05:40     info       Loaded : . . . azi-offset histogram
+2025-09-10T14:05:40     info       Loaded : . . . read 161,894 rec-records
+2025-09-10T14:05:40     info       Loaded : . . . read 51,240 src-records
+2025-09-10T14:05:40     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-10T14:05:44     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-10T14:18:27     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-10T14:18:39     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-10T13:55:50     info       Parsing: survey object succesfully parsed
+2025-09-10T13:55:51     info       Params : survey object read, containing 282 parameters
+2025-09-10T13:55:51     info       Plugin : Started
+2025-09-10T14:18:46     info       Parsing: survey object succesfully parsed
+2025-09-10T14:18:47     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T14:19:01     info       Parsing: survey object succesfully parsed
+2025-09-10T14:19:02     info       Params : survey object read, containing 282 parameters
+2025-09-10T14:19:02     info       Plugin : Started
+2025-09-10T14:19:07     info       Parsing: survey object succesfully parsed
+2025-09-10T14:19:08     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T14:21:19     info       Parsing: survey object succesfully parsed
+2025-09-10T14:21:20     info       Params : survey object read, containing 282 parameters
+2025-09-10T14:21:20     info       Plugin : Started
+2025-09-10T14:21:23     info       Parsing: survey object succesfully parsed
+2025-09-10T14:21:25     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T14:23:36     info       Parsing: survey object succesfully parsed
+2025-09-10T14:23:37     info       Params : survey object read, containing 282 parameters
+2025-09-10T14:23:37     info       Plugin : Started
+2025-09-10T14:24:18     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-09-10T14:29:55     info       Parsing: survey object succesfully parsed
+2025-09-10T14:29:57     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T14:30:02     info       Parsing: survey object succesfully parsed
+2025-09-10T14:30:03     info       Params : survey object read, containing 282 parameters
+2025-09-10T14:30:03     info       Plugin : Started
+2025-09-10T14:30:08     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-09-10T14:30:32     info       Parsing: survey object succesfully parsed
+2025-09-10T14:30:34     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T14:31:04     info       Parsing: survey object succesfully parsed
+2025-09-10T14:31:06     info       Params : survey object read, containing 282 parameters
+2025-09-10T14:31:06     info       Plugin : Started
+2025-09-10T14:31:11     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-09-10T14:31:11     error      Thread : . . . aborted binning operation
+2025-09-10T14:31:11     error      Thread : . . . closed
+2025-09-10T14:31:42     info       Parsing: survey object succesfully parsed
+2025-09-10T14:31:44     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T14:32:17     info       Parsing: survey object succesfully parsed
+2025-09-10T14:32:17     info       Params : survey object read, containing 282 parameters
+2025-09-10T14:32:17     info       Plugin : Started
+2025-09-10T14:32:28     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-09-10T14:32:29     binning    Thread : Binning completed. Elapsed time:0:00:02 
+2025-09-10T14:32:29     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-09-10T14:32:29     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-09-10T14:32:29     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-09-10T14:33:29     info       Parsing: survey object succesfully parsed
+2025-09-10T14:33:30     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T14:37:04     info       Parsing: survey object succesfully parsed
+2025-09-10T14:37:05     info       Params : survey object read, containing 282 parameters
+2025-09-10T14:37:05     info       Plugin : Started
+2025-09-10T14:40:58     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-09-10T14:53:52     info       Parsing: survey object succesfully parsed
+2025-09-10T14:53:53     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T15:48:00     info       Parsing: survey object succesfully parsed
+2025-09-10T15:48:01     info       Params : survey object read, containing 282 parameters
+2025-09-10T15:48:01     info       Plugin : Started
+2025-09-10T15:48:10     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T15:48:10     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T15:48:10     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T15:48:10     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T15:48:10     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-10T15:48:10     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-10T15:48:10     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-10T15:48:10     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-10T15:48:10     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-10T15:48:10     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-10T15:48:10     error      Loaded : . . . Analysis  : 53,887,680 traces; too large to display in Trace Table
+2025-09-10T15:48:14     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-10T15:48:15     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T15:48:18     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-10T15:48:19     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T15:48:22     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-10T15:50:05     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T15:50:06     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-10T16:10:18     info       Parsing: survey object succesfully parsed
+2025-09-10T16:10:19     info       Params : survey object read, containing 282 parameters
+2025-09-10T16:10:19     info       Plugin : Started
+2025-09-10T16:10:27     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:10:27     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:10:27     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:10:27     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:10:27     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-10T16:10:27     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-10T16:10:27     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-10T16:10:27     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-10T16:10:27     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-10T16:10:27     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-10T16:10:27     error      Loaded : . . . Analysis  : 53,887,680 traces; too large to display in Trace Table
+2025-09-10T16:10:27     info       Loaded : . . . read 13,485 rec-records
+2025-09-10T16:10:27     info       Loaded : . . . read 13,824 src-records
+2025-09-10T16:10:27     info       Loaded : . . . read 110,592 rel-records
+2025-09-10T16:10:32     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-10T16:11:12     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:11:13     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-10T16:11:21     info       Parsing: survey object succesfully parsed
+2025-09-10T16:11:21     info       Params : survey object read, containing 282 parameters
+2025-09-10T16:11:22     info       Plugin : Started
+2025-09-10T16:11:26     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:11:26     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:11:26     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:11:26     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:11:26     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-10T16:11:26     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-10T16:11:26     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-10T16:11:26     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-10T16:11:26     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-10T16:11:27     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-10T16:11:27     error      Loaded : . . . Analysis  : 53,887,680 traces; too large to display in Trace Table
+2025-09-10T16:11:27     info       Loaded : . . . read 13,485 rec-records
+2025-09-10T16:11:27     info       Loaded : . . . read 13,824 src-records
+2025-09-10T16:11:27     info       Loaded : . . . read 110,592 rel-records
+2025-09-10T16:11:31     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-10T16:11:31     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:11:34     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-10T16:11:35     info       Saved  : D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:13:44     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:13:45     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-10T16:14:08     info       Parsing: survey object succesfully parsed
+2025-09-10T16:14:08     info       Params : survey object read, containing 282 parameters
+2025-09-10T16:14:08     info       Plugin : Started
+2025-09-10T16:14:14     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:14:14     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:14:14     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:14:14     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:14:14     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-10T16:14:14     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-10T16:14:14     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-10T16:14:14     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-10T16:14:14     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-10T16:14:14     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-10T16:14:14     error      Loaded : . . . Analysis  : 53,887,680 traces; too large to display in Trace Table
+2025-09-10T16:14:14     info       Loaded : . . . read 13,485 rec-records
+2025-09-10T16:14:14     info       Loaded : . . . read 13,824 src-records
+2025-09-10T16:14:14     info       Loaded : . . . read 110,592 rel-records
+2025-09-10T16:14:18     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-10T16:18:02     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:18:03     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-10T16:18:07     info       Parsing: survey object succesfully parsed
+2025-09-10T16:18:08     info       Params : survey object read, containing 282 parameters
+2025-09-10T16:18:08     info       Plugin : Started
+2025-09-10T16:18:13     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:18:13     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:18:13     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:18:13     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:18:13     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-10T16:18:13     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-10T16:18:13     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-10T16:18:13     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-10T16:18:13     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-10T16:18:13     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-10T16:18:13     error      Loaded : . . . Analysis  : 53,887,680 traces; too large to display in Trace Table
+2025-09-10T16:18:13     info       Loaded : . . . read 13,485 rec-records
+2025-09-10T16:18:13     info       Loaded : . . . read 13,824 src-records
+2025-09-10T16:18:13     info       Loaded : . . . read 110,592 rel-records
+2025-09-10T16:18:17     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-10T16:21:28     info       Edited : D:/roll_samples/other/TripleZigzag_001.roll survey object updated
+2025-09-10T16:57:53     info       Saved  : D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:57:53     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:57:54     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-10T16:58:01     info       Parsing: survey object succesfully parsed
+2025-09-10T16:58:02     info       Params : survey object read, containing 282 parameters
+2025-09-10T16:58:02     info       Plugin : Started
+2025-09-10T16:58:07     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:58:07     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:58:07     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T16:58:07     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-10T16:58:07     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-10T16:58:07     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-10T16:58:07     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-10T16:58:07     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-10T16:58:07     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-10T16:58:07     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-10T16:58:07     error      Loaded : . . . Analysis  : 53,887,680 traces; too large to display in Trace Table
+2025-09-10T16:58:07     info       Loaded : . . . read 13,485 rec-records
+2025-09-10T16:58:07     info       Loaded : . . . read 13,824 src-records
+2025-09-10T16:58:07     info       Loaded : . . . read 110,592 rel-records
+2025-09-10T16:58:11     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-10T16:59:53     info       Export : exported fold map to D:/roll_samples/other/TripleZigzag_001.roll.bin.tif
+2025-09-10T17:00:21     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-10T17:00:22     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters
+2025-09-10T17:01:33     info       Parsing: survey object succesfully parsed
+2025-09-10T17:01:34     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T17:01:39     info       Parsing: survey object succesfully parsed
+2025-09-10T17:01:39     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:01:39     info       Plugin : Started
+2025-09-10T17:01:42     info       Parsing: survey object succesfully parsed
+2025-09-10T17:01:43     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:01:43     info       Created: new file
+2025-09-10T17:01:52     info       Parsing: survey object succesfully parsed
+2025-09-10T17:01:52     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:02:08     info       Parsing: survey object succesfully parsed
+2025-09-10T17:02:09     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T17:02:18     info       Parsing: survey object succesfully parsed
+2025-09-10T17:02:19     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:02:19     info       Plugin : Started
+2025-09-10T17:02:24     info       Parsing: survey object succesfully parsed
+2025-09-10T17:02:25     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:04:45     info       Parsing: survey object succesfully parsed
+2025-09-10T17:04:46     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:04:58     info       Parsing: survey object succesfully parsed
+2025-09-10T17:04:59     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T17:05:03     info       Parsing: survey object succesfully parsed
+2025-09-10T17:05:03     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:05:03     info       Plugin : Started
+2025-09-10T17:05:06     info       Parsing: survey object succesfully parsed
+2025-09-10T17:05:07     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:07:08     info       Parsing: survey object succesfully parsed
+2025-09-10T17:07:08     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T17:07:27     info       Parsing: survey object succesfully parsed
+2025-09-10T17:07:27     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:07:27     info       Plugin : Started
+2025-09-10T17:07:30     info       Parsing: survey object succesfully parsed
+2025-09-10T17:07:31     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:08:33     info       Parsing: survey object succesfully parsed
+2025-09-10T17:08:34     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T17:08:41     info       Parsing: survey object succesfully parsed
+2025-09-10T17:08:41     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:08:41     info       Plugin : Started
+2025-09-10T17:08:45     info       Parsing: survey object succesfully parsed
+2025-09-10T17:08:45     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:09:08     info       Parsing: survey object succesfully parsed
+2025-09-10T17:09:09     info       Params : survey object read, containing 282 parameters
+2025-09-10T17:09:09     info       Wizard : created land survey: Orthogonal_001
+2025-09-10T17:09:22     info       Parsing: survey object succesfully parsed
+2025-09-10T17:09:24     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T22:21:39     info       Parsing: survey object succesfully parsed
+2025-09-10T22:21:39     info       Params : survey object read, containing 282 parameters
+2025-09-10T22:21:39     info       Plugin : Started
+2025-09-10T22:21:43     info       Parsing: survey object succesfully parsed
+2025-09-10T22:21:44     info       Params : survey object read, containing 282 parameters
+2025-09-10T22:22:11     info       Parsing: survey object succesfully parsed
+2025-09-10T22:22:12     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-10T22:22:20     info       Parsing: survey object succesfully parsed
+2025-09-10T22:22:21     info       Params : survey object read, containing 282 parameters
+2025-09-10T22:22:21     info       Plugin : Started
+2025-09-10T22:22:26     info       Parsing: survey object succesfully parsed
+2025-09-10T22:22:27     info       Params : survey object read, containing 282 parameters
+2025-09-10T22:23:25     info       Parsing: survey object succesfully parsed
+2025-09-10T22:23:28     info       Params : survey object read, containing 720 parameters
+2025-09-10T22:23:28     info       Wizard : created streamer survey: Streamer_001
+2025-09-10T22:31:49     info       Parsing: survey object succesfully parsed
+2025-09-10T22:31:50     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T08:13:51     info       Parsing: survey object succesfully parsed
+2025-09-11T08:13:51     info       Params : survey object read, containing 282 parameters
+2025-09-11T08:13:52     info       Plugin : Started
+2025-09-11T11:03:19     info       Parsing: survey object succesfully parsed
+2025-09-11T11:03:20     info       Params : survey object read, containing 282 parameters
+2025-09-11T11:05:42     info       Parsing: survey object succesfully parsed
+2025-09-11T11:05:42     info       Params : survey object read, containing 282 parameters
+2025-09-11T11:05:42     info       Wizard : created land survey: Orthogonal_001
+2025-09-11T11:27:28     info       Opening: D:/roll_samples/other/DoubleZigzag_001.roll
+2025-09-11T11:27:28     info       Parsing: D:/roll_samples/other/DoubleZigzag_001.roll
+2025-09-11T11:27:28     info       Parsing: D:/roll_samples/other/DoubleZigzag_001.roll survey object succesfully parsed
+2025-09-11T11:27:28     info       Reading: D:/roll_samples/other/DoubleZigzag_001.roll
+2025-09-11T11:27:28     info       Loading: D:/roll_samples/other/DoubleZigzag_001.roll analysis files
+2025-09-11T11:27:31     info       Params : D:/roll_samples/other/DoubleZigzag_001.roll survey object read, containing 718 parameters
+2025-09-11T11:29:21     info       Parsing: D:/roll_samples/other/DoubleZigzag_001.roll survey object succesfully parsed
+2025-09-11T11:29:22     info       Params : D:/roll_samples/other/DoubleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-11T12:16:22     info       Parsing: survey object succesfully parsed
+2025-09-11T12:16:23     info       Params : survey object read, containing 282 parameters
+2025-09-11T12:16:23     info       Plugin : Started
+2025-09-11T12:16:40     info       Opening: D:/roll_samples/other/Orthogonal_001.roll
+2025-09-11T12:16:40     info       Parsing: D:/roll_samples/other/Orthogonal_001.roll
+2025-09-11T12:16:40     info       Parsing: D:/roll_samples/other/Orthogonal_001.roll survey object succesfully parsed
+2025-09-11T12:16:40     info       Reading: D:/roll_samples/other/Orthogonal_001.roll
+2025-09-11T12:16:40     info       Loading: D:/roll_samples/other/Orthogonal_001.roll analysis files
+2025-09-11T12:16:43     info       Params : D:/roll_samples/other/Orthogonal_001.roll survey object read, containing 222 parameters
+2025-09-11T16:17:46     info       Parsing: D:/roll_samples/other/Orthogonal_001.roll survey object succesfully parsed
+2025-09-11T16:17:48     info       Params : D:/roll_samples/other/Orthogonal_001.roll survey object read, containing 282 parameters+++
+
+2025-09-11T16:18:41     info       Parsing: survey object succesfully parsed
+2025-09-11T16:18:42     info       Params : survey object read, containing 282 parameters
+2025-09-11T16:18:42     info       Plugin : Started
+2025-09-11T16:21:03     info       Parsing: survey object succesfully parsed
+2025-09-11T16:21:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:14:39     info       Parsing: survey object succesfully parsed
+2025-09-11T17:14:39     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:14:39     info       Plugin : Started
+2025-09-11T17:15:04     info       Parsing: survey object succesfully parsed
+2025-09-11T17:15:05     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:15:09     info       Parsing: survey object succesfully parsed
+2025-09-11T17:15:09     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:15:09     info       Plugin : Started
+2025-09-11T17:15:32     info       Parsing: survey object succesfully parsed
+2025-09-11T17:15:33     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:15:36     info       Parsing: survey object succesfully parsed
+2025-09-11T17:15:37     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:15:37     info       Plugin : Started
+2025-09-11T17:16:03     info       Parsing: survey object succesfully parsed
+2025-09-11T17:16:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:16:53     info       Parsing: survey object succesfully parsed
+2025-09-11T17:16:54     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:16:54     info       Plugin : Started
+2025-09-11T17:17:03     info       Parsing: survey object succesfully parsed
+2025-09-11T17:17:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:17:09     info       Parsing: survey object succesfully parsed
+2025-09-11T17:17:10     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:17:10     info       Plugin : Started
+2025-09-11T17:17:19     info       Parsing: survey object succesfully parsed
+2025-09-11T17:17:20     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:17:27     info       Parsing: survey object succesfully parsed
+2025-09-11T17:17:28     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:17:28     info       Plugin : Started
+2025-09-11T17:17:34     info       Parsing: survey object succesfully parsed
+2025-09-11T17:17:35     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:17:40     info       Parsing: survey object succesfully parsed
+2025-09-11T17:17:41     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:17:41     info       Plugin : Started
+2025-09-11T17:17:52     info       Parsing: survey object succesfully parsed
+2025-09-11T17:17:52     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:17:57     info       Parsing: survey object succesfully parsed
+2025-09-11T17:17:57     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:17:58     info       Plugin : Started
+2025-09-11T17:18:10     info       Parsing: survey object succesfully parsed
+2025-09-11T17:18:11     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:18:17     info       Parsing: survey object succesfully parsed
+2025-09-11T17:18:18     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:18:18     info       Plugin : Started
+2025-09-11T17:19:03     info       Parsing: survey object succesfully parsed
+2025-09-11T17:19:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:19:21     info       Parsing: survey object succesfully parsed
+2025-09-11T17:19:22     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:19:22     info       Plugin : Started
+2025-09-11T17:20:00     info       Parsing: survey object succesfully parsed
+2025-09-11T17:20:01     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:22:05     info       Parsing: survey object succesfully parsed
+2025-09-11T17:22:06     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:22:06     info       Plugin : Started
+2025-09-11T17:22:18     info       Parsing: survey object succesfully parsed
+2025-09-11T17:22:19     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:22:30     info       Parsing: survey object succesfully parsed
+2025-09-11T17:22:31     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:22:31     info       Plugin : Started
+2025-09-11T17:22:59     info       Parsing: survey object succesfully parsed
+2025-09-11T17:23:00     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:24:17     info       Parsing: survey object succesfully parsed
+2025-09-11T17:24:18     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:24:18     info       Plugin : Started
+2025-09-11T17:24:32     info       Parsing: survey object succesfully parsed
+2025-09-11T17:24:33     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:24:45     info       Parsing: survey object succesfully parsed
+2025-09-11T17:24:45     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:24:45     info       Plugin : Started
+2025-09-11T17:24:55     info       Parsing: survey object succesfully parsed
+2025-09-11T17:24:56     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:34:15     info       Parsing: survey object succesfully parsed
+2025-09-11T17:34:16     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:34:16     info       Plugin : Started
+2025-09-11T17:34:33     info       Parsing: survey object succesfully parsed
+2025-09-11T17:34:34     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:34:43     info       Parsing: survey object succesfully parsed
+2025-09-11T17:34:43     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:34:44     info       Plugin : Started
+2025-09-11T17:34:59     info       Parsing: survey object succesfully parsed
+2025-09-11T17:35:00     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:35:04     info       Parsing: survey object succesfully parsed
+2025-09-11T17:35:04     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:35:04     info       Plugin : Started
+2025-09-11T17:35:09     info       Parsing: survey object succesfully parsed
+2025-09-11T17:35:10     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:38:14     info       Parsing: survey object succesfully parsed
+2025-09-11T17:38:14     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:38:15     info       Plugin : Started
+2025-09-11T17:38:19     info       Parsing: survey object succesfully parsed
+2025-09-11T17:38:20     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:41:17     info       Parsing: survey object succesfully parsed
+2025-09-11T17:41:17     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:41:17     info       Plugin : Started
+2025-09-11T17:41:44     info       Parsing: survey object succesfully parsed
+2025-09-11T17:41:45     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:42:01     info       Parsing: survey object succesfully parsed
+2025-09-11T17:42:02     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:42:02     info       Plugin : Started
+2025-09-11T17:42:12     info       Parsing: survey object succesfully parsed
+2025-09-11T17:42:13     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:42:56     info       Parsing: survey object succesfully parsed
+2025-09-11T17:42:57     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:42:57     info       Plugin : Started
+2025-09-11T17:43:09     info       Parsing: survey object succesfully parsed
+2025-09-11T17:43:09     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:43:42     info       Parsing: survey object succesfully parsed
+2025-09-11T17:43:44     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:43:44     info       Plugin : Started
+2025-09-11T17:43:58     info       Parsing: survey object succesfully parsed
+2025-09-11T17:44:00     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:48:13     info       Parsing: survey object succesfully parsed
+2025-09-11T17:48:13     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:48:14     info       Plugin : Started
+2025-09-11T17:48:51     info       Parsing: survey object succesfully parsed
+2025-09-11T17:48:52     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T17:51:22     info       Parsing: survey object succesfully parsed
+2025-09-11T17:51:22     info       Params : survey object read, containing 282 parameters
+2025-09-11T17:51:23     info       Plugin : Started
+2025-09-11T17:51:52     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-09-11T17:52:16     binning    Thread : Binning completed. Elapsed time:0:00:24 
+2025-09-11T17:52:16     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-09-11T17:52:16     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-09-11T17:52:16     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-09-11T17:55:51     info       Parsing: survey object succesfully parsed
+2025-09-11T17:55:52     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-11T18:01:21     info       Parsing: survey object succesfully parsed
+2025-09-11T18:01:22     info       Params : survey object read, containing 282 parameters
+2025-09-11T18:01:22     info       Plugin : Started
+2025-09-11T18:01:44     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-09-11T18:01:54     binning    Thread : Binning completed. Elapsed time:0:00:10 
+2025-09-11T18:01:54     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-09-11T18:01:54     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-09-11T18:01:54     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-09-11T18:02:06     info       Parsing: survey object succesfully parsed
+2025-09-11T18:02:07     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T11:46:02     info       Parsing: survey object succesfully parsed
+2025-09-12T11:46:03     info       Params : survey object read, containing 282 parameters
+2025-09-12T11:46:03     info       Plugin : Started
+2025-09-12T11:46:14     info       Parsing: survey object succesfully parsed
+2025-09-12T11:46:15     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T12:50:16     info       Parsing: survey object succesfully parsed
+2025-09-12T12:50:17     info       Params : survey object read, containing 282 parameters
+2025-09-12T12:50:17     info       Plugin : Started
+2025-09-12T13:06:48     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T13:06:48     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T13:06:48     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-12T13:06:48     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T13:06:48     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-12T13:06:48     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-12T13:06:48     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-12T13:06:48     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-12T13:06:48     info       Loaded : . . . offset histogram
+2025-09-12T13:06:48     info       Loaded : . . . azi-offset histogram
+2025-09-12T13:07:57     geometry   Thread : started 'Create Geometry from Templates', from 51,240 shot points
+2025-09-12T13:24:23     debug      Called : geometryFromTemplates() profiling information
+2025-09-12T13:24:23     debug      Called : 00: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 01: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 02: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 03: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 04: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 05: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 06: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 07: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 08: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 09: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 10: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 11: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 12: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 13: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 14: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 15: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 16: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 17: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 18: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     debug      Called : 19: min:0000000.000, max:0000000.000, tot:0000000.000, avr:0000000.000, freq:0000000
+2025-09-12T13:24:23     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:16:26 
+2025-09-12T14:24:19     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-12T14:24:20     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-12T14:24:38     info       Parsing: survey object succesfully parsed
+2025-09-12T14:24:38     info       Params : survey object read, containing 282 parameters
+2025-09-12T14:24:38     info       Plugin : Started
+2025-09-12T14:24:50     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:24:50     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:24:50     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-12T14:24:50     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:24:50     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-12T14:24:50     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-12T14:24:50     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-12T14:24:50     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-12T14:24:50     info       Loaded : . . . offset histogram
+2025-09-12T14:24:50     info       Loaded : . . . azi-offset histogram
+2025-09-12T14:24:55     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-12T14:24:55     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-12T14:24:55     info       Loaded : . . . read 161,894 rec-records
+2025-09-12T14:24:55     info       Loaded : . . . read 51,240 src-records
+2025-09-12T14:24:56     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-12T14:24:59     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-12T14:30:03     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-12T14:30:04     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-12T14:30:14     info       Parsing: survey object succesfully parsed
+2025-09-12T14:30:14     info       Params : survey object read, containing 282 parameters
+2025-09-12T14:30:15     info       Plugin : Started
+2025-09-12T14:30:20     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:30:20     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:30:20     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-12T14:30:20     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:30:20     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-12T14:30:20     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-12T14:30:20     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-12T14:30:20     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-12T14:30:20     info       Loaded : . . . offset histogram
+2025-09-12T14:30:20     info       Loaded : . . . azi-offset histogram
+2025-09-12T14:30:25     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-12T14:30:25     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-12T14:30:26     info       Loaded : . . . read 161,894 rec-records
+2025-09-12T14:30:26     info       Loaded : . . . read 51,240 src-records
+2025-09-12T14:30:26     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-12T14:30:28     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-12T14:37:50     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-12T14:37:51     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-12T14:37:57     info       Parsing: survey object succesfully parsed
+2025-09-12T14:37:57     info       Params : survey object read, containing 282 parameters
+2025-09-12T14:37:58     info       Plugin : Started
+2025-09-12T14:38:32     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:38:32     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:38:32     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-12T14:38:32     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:38:32     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-12T14:38:32     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-12T14:38:32     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-12T14:38:32     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-12T14:38:32     info       Loaded : . . . offset histogram
+2025-09-12T14:38:32     info       Loaded : . . . azi-offset histogram
+2025-09-12T14:38:37     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-12T14:38:37     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-12T14:38:38     info       Loaded : . . . read 161,894 rec-records
+2025-09-12T14:38:38     info       Loaded : . . . read 51,240 src-records
+2025-09-12T14:38:39     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-12T14:38:41     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-12T14:38:57     info       Import : SRC-records containing 36,741 live records
+2025-09-12T14:38:57     info       Import : SRC-records containing 14,499 dead records
+2025-09-12T14:39:14     info       Import : REC-records containing 117,398 live records
+2025-09-12T14:39:14     info       Import : REC-records containing 44,496 dead records
+2025-09-12T14:42:44     info       Saved  : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T14:43:23     binning    Thread : started 'Bin from geometry', using 51,240 shot points
+2025-09-12T15:19:17     binning    Thread : Binning completed. Elapsed time:0:35:54 
+2025-09-12T15:19:17     binning    Thread : . . . Fold       : Min:0 - Max:209 
+2025-09-12T15:19:17     binning    Thread : . . . Min-offsets: Min:22.36m - Max:4998.13m 
+2025-09-12T15:19:17     binning    Thread : . . . Max-offsets: Min:22.36m - Max:5158.34m 
+2025-09-12T15:28:58     info       Export : incorporated fold map in QGIS
+2025-09-12T15:29:23     info       Export : incorporated min-offset map in QGIS
+2025-09-12T15:30:01     info       Export : incorporated max-offset map in QGIS
+2025-09-12T15:46:04     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-12T15:46:05     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-12T15:46:12     info       Parsing: survey object succesfully parsed
+2025-09-12T15:46:13     info       Params : survey object read, containing 282 parameters
+2025-09-12T15:46:13     info       Plugin : Started on Windows11 v(10.0.26100)
+2025-09-12T15:46:32     info       Parsing: survey object succesfully parsed
+2025-09-12T15:46:33     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:22:13     info       Parsing: survey object succesfully parsed
+2025-09-12T16:22:14     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:22:14     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-12T16:22:18     info       Parsing: survey object succesfully parsed
+2025-09-12T16:22:19     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:24:09     info       Parsing: survey object succesfully parsed
+2025-09-12T16:24:10     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:27:40     info       Parsing: survey object succesfully parsed
+2025-09-12T16:27:41     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:27:41     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-12T16:29:22     info       Parsing: survey object succesfully parsed
+2025-09-12T16:29:24     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:36:05     info       Parsing: survey object succesfully parsed
+2025-09-12T16:36:07     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:36:07     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-12T16:36:11     info       Parsing: survey object succesfully parsed
+2025-09-12T16:36:13     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:36:32     info       Parsing: survey object succesfully parsed
+2025-09-12T16:36:34     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:36:34     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-12T16:36:47     info       Parsing: survey object succesfully parsed
+2025-09-12T16:36:48     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:36:58     info       Parsing: survey object succesfully parsed
+2025-09-12T16:36:59     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:36:59     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-12T16:37:02     info       Parsing: survey object succesfully parsed
+2025-09-12T16:37:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:37:58     info       Parsing: survey object succesfully parsed
+2025-09-12T16:37:59     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:37:59     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-12T16:38:12     info       Parsing: survey object succesfully parsed
+2025-09-12T16:38:12     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:38:37     info       Parsing: survey object succesfully parsed
+2025-09-12T16:38:39     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:38:39     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-12T16:39:08     info       Parsing: survey object succesfully parsed
+2025-09-12T16:39:10     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:48:36     info       Parsing: survey object succesfully parsed
+2025-09-12T16:48:37     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:48:37     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-12T16:48:59     info       Parsing: survey object succesfully parsed
+2025-09-12T16:49:01     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:54:28     info       Parsing: survey object succesfully parsed
+2025-09-12T16:54:29     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:54:29     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-12T16:56:42     info       Parsing: survey object succesfully parsed
+2025-09-12T16:56:44     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T16:56:56     info       Parsing: survey object succesfully parsed
+2025-09-12T16:56:56     info       Params : survey object read, containing 282 parameters
+2025-09-12T16:56:56     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-12T16:58:20     info       Parsing: survey object succesfully parsed
+2025-09-12T16:58:21     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T17:01:15     info       Parsing: survey object succesfully parsed
+2025-09-12T17:01:16     info       Params : survey object read, containing 282 parameters
+2025-09-12T17:01:16     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-12T17:02:13     info       Parsing: survey object succesfully parsed
+2025-09-12T17:02:15     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-12T19:29:09     info       Parsing: survey object succesfully parsed
+2025-09-12T19:29:10     info       Params : survey object read, containing 282 parameters
+2025-09-12T19:29:11     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-12T19:29:16     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T19:29:16     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T19:29:16     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-12T19:29:16     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-12T19:29:16     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-12T19:29:16     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-12T19:29:17     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2025-09-12T19:29:17     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-12T19:29:17     info       Loaded : . . . offset histogram
+2025-09-12T19:29:17     info       Loaded : . . . azi-offset histogram
+2025-09-12T19:29:21     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-12T19:29:21     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-12T19:29:22     info       Loaded : . . . read 161,894 rec-records
+2025-09-12T19:29:22     info       Loaded : . . . read 51,240 src-records
+2025-09-12T19:29:23     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-12T19:29:26     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-12T19:29:29     binning    Thread : prepare memory mapped file for 671,044,500 traces, with nx=2630, ny=1215, fold=210
+2025-09-12T19:36:12     binning    Thread : started 'Bin from geometry', using 51,240 shot points
+2025-09-12T19:36:14     error      Thread : . . . aborted binning operation
+2025-09-12T19:36:14     error      Thread : . . . closed
+2025-09-13T00:05:33     binning    Thread : prepare memory mapped file for 671,044,500 traces, with nx=2630, ny=1215, fold=210
+2025-09-13T00:12:10     binning    Thread : started 'Bin from geometry', using 51,240 shot points
+2025-09-13T00:12:12     error      Thread : . . . aborted binning operation
+2025-09-13T00:12:12     error      Thread : . . . closed
+2025-09-13T10:38:49     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-13T10:38:51     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-13T10:39:28     info       Parsing: survey object succesfully parsed
+2025-09-13T10:39:28     info       Params : survey object read, containing 282 parameters
+2025-09-13T10:39:28     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-13T10:39:40     info       Opening: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-13T10:39:40     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-13T10:39:40     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-13T10:39:40     info       Reading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-13T10:39:40     info       Loading: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-13T10:39:40     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-13T10:39:40     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2025-09-13T10:39:40     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-13T10:39:40     info       Loaded : . . . offset histogram
+2025-09-13T10:39:40     info       Loaded : . . . azi-offset histogram
+2025-09-13T10:39:45     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-13T10:39:45     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-13T10:39:45     info       Loaded : . . . read 161,894 rec-records
+2025-09-13T10:39:45     info       Loaded : . . . read 51,240 src-records
+2025-09-13T10:39:46     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-13T10:39:49     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-13T10:43:04     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-13T10:43:05     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+

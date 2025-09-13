@@ -17,21 +17,21 @@
     </surveyCrs>
     <limits>
         <output xmax="18625.0" xmin="2875.0" ymax="11400.0" ymin="600.0"/>
-        <angles refmin="0.0" refmax="45.0" azimax="360.0" azimin="0.0"/>
-        <offset xmax="6176.0" xmin="-5776.0" ymax="1576.0" ymin="-1576.0" rmax="6374.0" rmin="0.0"/>
-        <unique apply="False" deltaoff="200.0" deltaazi="5.0"/>
+        <angles azimax="360.0" azimin="0.0" refmax="45.0" refmin="0.0"/>
+        <offset rmax="6374.0" rmin="0.0" xmax="6176.0" xmin="-5776.0" ymax="1576.0" ymin="-1576.0"/>
+        <unique apply="False" deltaazi="5.0" deltaoff="200.0" write="False"/>
         <binning method="cmp" vint="2000.0"/>
     </limits>
     <reflectors>
-        <plane y0="0.0" z0="-2000.0" dip="0.0" x0="0.0" azi="0.0"/>
-        <!--Plane equation: -0.000000·x + -0.000000·y + 1.000000·z + 2000.000000 = 0  -->
+        <plane azi="0.0" dip="0.0" x0="0.0" y0="0.0" z0="-2000.0"/>
+        <!--Plane equation: -0.000000Â·x + -0.000000Â·y + 1.000000Â·z + 2000.000000 = 0  -->
         <!--Plane is defined in global coordinates. Subsurface corresponds with negative z-values-->
-        <sphere radius="2000.0" y0="0.0" z0="-4000.0" x0="0.0"/>
+        <sphere radius="2000.0" x0="0.0" y0="0.0" z0="-4000.0"/>
         <!--Sphere is defined in global coordinates. Subsurface corresponds with negative z-values-->
     </reflectors>
     <grid>
-        <local dx="25.0" y0="12.5" l0="1000.0" dy="25.0" fold="198" x0="12.5" s0="1000.0"/>
-        <global y0="450000.0" sx="1.0" x0="150000.0" azi="45.0" sy="1.0"/>
+        <local dl="25.0" ds="25.0" dx="25.0" dy="25.0" fold="198" l0="1000.0" s0="1000.0" x0="12.5" y0="12.5"/>
+        <global azi="45.0" sx="1.0" sy="1.0" x0="150000.0" y0="450000.0"/>
         <!--Forward transform: A0=150000.000, B0=450000.000, A1=0.707107, B1=0.707107, A2=-0.707107, B2=0.707107-->
         <!--Inverse transform: A0=-424264.069, B0=-212132.034, A1=0.707107, B1=-0.707107, A2=0.707107, B2=0.707107-->
         <!--See EPSG:9624 (https://epsg.io/9624-method) for the affine parametric transform definition-->
@@ -47,65 +47,65 @@
                 <template>
                     <name>template-1</name>
                     <roll_list>
-                        <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                        <translate dx="0.0" dy="800.0" dz="0.0" n="12"/>
-                        <translate dx="800.0" dy="0.0" dz="0.0" n="12"/>
+                        <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                        <translate azim="90.0" dx="0.0" dy="800.0" dz="0.0" n="12" tilt="0.0"/>
+                        <translate azim="0.0" dx="800.0" dy="0.0" dz="0.0" n="12" tilt="0.0"/>
                     </roll_list>
                     <seed_list>
-                        <seed patno="0" y0="1225.0" z0="0.0" argb="#ffff00ff" x0="5775.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff00ff" azi="False" patno="0" src="True" typno="0" x0="5775.0" y0="1225.0" z0="0.0">
                             <name>src-1</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="45.0" dx="50.0" dy="50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1575.0" z0="0.0" argb="#ffff0000" x0="6175.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="6175.0" y0="1575.0" z0="0.0">
                             <name>src-2</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="-50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="-45.0" dx="50.0" dy="-50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1225.0" z0="0.0" argb="#ffff0000" x0="5875.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="5875.0" y0="1225.0" z0="0.0">
                             <name>src-3</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="45.0" dx="50.0" dy="50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1575.0" z0="0.0" argb="#ffff0000" x0="6275.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="6275.0" y0="1575.0" z0="0.0">
                             <name>src-4</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="-50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="-45.0" dx="50.0" dy="-50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1225.0" z0="0.0" argb="#ffff0000" x0="5975.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="5975.0" y0="1225.0" z0="0.0">
                             <name>src-5</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="45.0" dx="50.0" dy="50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1575.0" z0="0.0" argb="#ffff0000" x0="6375.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="6375.0" y0="1575.0" z0="0.0">
                             <name>src-6</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="-50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="-45.0" dx="50.0" dy="-50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="1" y0="0.0" z0="0.0" argb="#7700b0f0" x0="0.0" src="False" azi="False" typno="0">
+                        <seed argb="#7700b0f0" azi="False" patno="1" src="False" typno="0" x0="0.0" y0="0.0" z0="0.0">
                             <name>rec-1</name>
                             <grid points="2072" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="400.0" dz="0.0" n="8"/>
-                                <translate dx="50.0" dy="0.0" dz="0.0" n="259"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="90.0" dx="0.0" dy="400.0" dz="0.0" n="8" tilt="0.0"/>
+                                <translate azim="0.0" dx="50.0" dy="0.0" dz="0.0" n="259" tilt="0.0"/>
                             </grid>
                         </seed>
                     </seed_list>
@@ -113,65 +113,65 @@
                 <template>
                     <name>template-2</name>
                     <roll_list>
-                        <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                        <translate dx="0.0" dy="800.0" dz="0.0" n="12"/>
-                        <translate dx="800.0" dy="0.0" dz="0.0" n="12"/>
+                        <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                        <translate azim="90.0" dx="0.0" dy="800.0" dz="0.0" n="12" tilt="0.0"/>
+                        <translate azim="0.0" dx="800.0" dy="0.0" dz="0.0" n="12" tilt="0.0"/>
                     </roll_list>
                     <seed_list>
-                        <seed patno="0" y0="1975.0" z0="0.0" argb="#ffff0000" x0="5775.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="5775.0" y0="1975.0" z0="0.0">
                             <name>src-1</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="-50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="-45.0" dx="50.0" dy="-50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1625.0" z0="0.0" argb="#ffff0000" x0="6175.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="6175.0" y0="1625.0" z0="0.0">
                             <name>src-2</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="45.0" dx="50.0" dy="50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1975.0" z0="0.0" argb="#ffff0000" x0="5875.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="5875.0" y0="1975.0" z0="0.0">
                             <name>src-3</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="-50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="-45.0" dx="50.0" dy="-50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1625.0" z0="0.0" argb="#ffff0000" x0="6275.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="6275.0" y0="1625.0" z0="0.0">
                             <name>src-4</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="45.0" dx="50.0" dy="50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1975.0" z0="0.0" argb="#ffff0000" x0="5975.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="5975.0" y0="1975.0" z0="0.0">
                             <name>src-5</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="-50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="-45.0" dx="50.0" dy="-50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="0" y0="1625.0" z0="0.0" argb="#ffff0000" x0="6375.0" src="True" azi="False" typno="0">
+                        <seed argb="#ffff0000" azi="False" patno="0" src="True" typno="0" x0="6375.0" y0="1625.0" z0="0.0">
                             <name>src-6</name>
                             <grid points="8" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="50.0" dy="50.0" dz="0.0" n="8"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="45.0" dx="50.0" dy="50.0" dz="0.0" n="8" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed patno="1" y0="400.0" z0="0.0" argb="#7700b0f0" x0="0.0" src="False" azi="False" typno="0">
+                        <seed argb="#7700b0f0" azi="False" patno="1" src="False" typno="0" x0="0.0" y0="400.0" z0="0.0">
                             <name>rec-1</name>
                             <grid points="2072" roll="False">
-                                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                                <translate dx="0.0" dy="400.0" dz="0.0" n="8"/>
-                                <translate dx="50.0" dy="0.0" dz="0.0" n="259"/>
+                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                                <translate azim="90.0" dx="0.0" dy="400.0" dz="0.0" n="8" tilt="0.0"/>
+                                <translate azim="0.0" dx="50.0" dy="0.0" dz="0.0" n="259" tilt="0.0"/>
                             </grid>
                         </seed>
                     </seed_list>
@@ -180,21 +180,31 @@
         </block>
     </block_list>
     <pattern_list>
-        <pattern y0="-0.0" z0="0.0" argb="#ffff0000" x0="-15.0">
+        <pattern>
             <name>src-array</name>
-            <grow_list>
-                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                <translate dx="0.0" dy="0.0" dz="0.0" n="1"/>
-                <translate dx="15.0" dy="0.0" dz="0.0" n="3"/>
-            </grow_list>
+            <seed_list>
+                <seed argb="#ffff0000" azi="False" x0="-15.0" y0="-0.0" z0="0.0">
+                    <name>seed-1</name>
+                    <grid points="3" roll="True">
+                        <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                        <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
+                        <translate azim="0.0" dx="15.0" dy="0.0" dz="0.0" n="3" tilt="0.0"/>
+                    </grid>
+                </seed>
+            </seed_list>
         </pattern>
-        <pattern y0="-20.825000762939453" z0="0.0" argb="#ff0000ff" x0="-20.83329963684082">
+        <pattern>
             <name>rec-array</name>
-            <grow_list>
-                <translate dx="16.66670036315918" dy="0.0" dz="0.0" n="3"/>
-                <translate dx="8.333000183105469" dy="8.333000183105469" dz="0.0" n="2"/>
-                <translate dx="0.0" dy="16.66699981689453" dz="0.0" n="3"/>
-            </grow_list>
+            <seed_list>
+                <seed argb="#ff0000ff" azi="False" x0="-20.83" y0="-20.83" z0="0.0">
+                    <name>seed-1</name>
+                    <grid points="18" roll="True">
+                        <translate azim="0.0" dx="16.66670036315918" dy="0.0" dz="0.0" n="3" tilt="0.0"/>
+                        <translate azim="45.0" dx="8.333000183105469" dy="8.333000183105469" dz="0.0" n="2" tilt="0.0"/>
+                        <translate azim="90.0" dx="0.0" dy="16.66699981689453" dz="0.0" n="3" tilt="0.0"/>
+                    </grid>
+                </seed>
+            </seed_list>
         </pattern>
     </pattern_list>
 </survey>
