@@ -1,0 +1,307 @@
+2025-09-19T11:18:00     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T11:18:00     info       Parsing: survey object succesfully parsed
+2025-09-19T11:18:00     info       Params : survey object read, containing 282 parameters
+2025-09-19T11:18:17     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T11:18:17     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T11:18:17     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T11:18:17     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T11:18:17     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-19T11:18:17     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-19T11:18:17     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-19T11:18:17     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-19T11:18:17     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-19T11:18:17     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-19T11:18:17     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-09-19T11:18:17     info       Loaded : . . . read 13,485 rec-records
+2025-09-19T11:18:17     info       Loaded : . . . read 13,824 src-records
+2025-09-19T11:18:17     info       Loaded : . . . read 110,592 rel-records
+2025-09-19T11:18:20     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-19T11:35:18     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:35:18     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:35:18     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T11:35:18     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:35:18     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T11:35:22     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-19T11:35:28     binning    Thread : prepare memory mapped file for 5,744,000 traces, with nx=718, ny=80, fold=100
+2025-09-19T11:35:28     binning    Thread : started 'Bin from templates', using 8,364 shot points
+2025-09-19T11:36:21     info       Loaded : . . . Analysis: 5,744,000 traces available (showing 1,000,000 at a time)
+2025-09-19T11:36:21     binning    Thread : Binning completed. Elapsed time:0:00:54 
+2025-09-19T11:36:21     binning    Thread : . . . Fold       : Min:0 - Max:96 
+2025-09-19T11:36:21     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-19T11:36:21     binning    Thread : . . . Max-offsets: Min:5541.32m - Max:6025.05m 
+2025-09-19T11:36:21     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:229.83m 
+2025-09-19T11:37:39     info       Edited : Closing memory mapped file D:/roll_samples/other/Abtswoudsebrug_001.roll.ana.npy
+2025-09-19T11:37:39     info       Can't delete file, [WinError 32] The process cannot access the file because it is being used by another process: 'D:/roll_samples/other/Abtswoudsebrug_001.roll.ana.npy'
+2025-09-19T11:37:39     info       Edited : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object updated
+2025-09-19T11:37:44     binning    Thread : prepare memory mapped file for 640,000 traces, with nx=80, ny=80, fold=100
+2025-09-19T11:37:44     binning    Thread : started 'Bin from templates', using 8,364 shot points
+2025-09-19T11:37:56     info       Loaded : . . . Analysis: 640,000 traces displayed in Trace Table
+2025-09-19T11:37:56     binning    Thread : Binning completed. Elapsed time:0:00:12 
+2025-09-19T11:37:56     binning    Thread : . . . Fold       : Min:24 - Max:96 
+2025-09-19T11:37:56     binning    Thread : . . . Min-offsets: Min:35.36m - Max:617.45m 
+2025-09-19T11:37:56     binning    Thread : . . . Max-offsets: Min:5790.62m - Max:6025.05m 
+2025-09-19T11:37:56     binning    Thread : . . . Rms-offsets: Min:27.65m - Max:193.59m 
+2025-09-19T11:51:49     info       Saved  : D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:51:49     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T11:51:50     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T11:52:13     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T11:52:13     info       Parsing: survey object succesfully parsed
+2025-09-19T11:52:14     info       Params : survey object read, containing 282 parameters
+2025-09-19T11:52:20     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:52:20     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:52:20     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T11:52:20     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:52:20     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T11:52:20     info       Loaded : . . . Fold map  : Min:24 - Max:96 
+2025-09-19T11:52:20     info       Loaded : . . . Min-offset: Min:35.36m - Max:617.45m 
+2025-09-19T11:52:20     info       Loaded : . . . Max-offset: Min:5790.62m - Max:6025.05m 
+2025-09-19T11:52:20     info       Loaded : . . . Rms-offset: Min:27.65m - Max:193.59m 
+2025-09-19T11:52:20     info       Loaded : . . . offset histogram
+2025-09-19T11:52:20     info       Loaded : . . . azi-offset histogram
+2025-09-19T11:52:20     info       Loaded : . . . Analysis  : 640,000 traces (reserved space)
+2025-09-19T11:52:20     info       Loaded : . . . Analysis: 640,000 traces displayed in Trace Table
+2025-09-19T11:52:22     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-19T11:52:48     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T11:52:48     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T11:52:48     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T11:52:48     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T11:52:48     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-19T11:52:48     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-19T11:52:48     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-19T11:52:48     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-19T11:52:48     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-19T11:52:48     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-19T11:52:48     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-09-19T11:52:48     info       Loaded : . . . read 13,485 rec-records
+2025-09-19T11:52:48     info       Loaded : . . . read 13,824 src-records
+2025-09-19T11:52:48     info       Loaded : . . . read 110,592 rel-records
+2025-09-19T11:52:52     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-19T11:53:05     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:53:05     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:53:05     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T11:53:05     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T11:53:05     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T11:53:05     info       Loaded : . . . Fold map  : Min:24 - Max:96 
+2025-09-19T11:53:05     info       Loaded : . . . Min-offset: Min:35.36m - Max:617.45m 
+2025-09-19T11:53:05     info       Loaded : . . . Max-offset: Min:5790.62m - Max:6025.05m 
+2025-09-19T11:53:05     info       Loaded : . . . Rms-offset: Min:27.65m - Max:193.59m 
+2025-09-19T11:53:05     info       Loaded : . . . offset histogram
+2025-09-19T11:53:05     info       Loaded : . . . azi-offset histogram
+2025-09-19T11:53:05     info       Loaded : . . . Analysis  : 640,000 traces (reserved space)
+2025-09-19T11:53:05     info       Loaded : . . . Analysis: 640,000 traces displayed in Trace Table
+2025-09-19T11:53:07     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-19T11:54:01     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T11:54:01     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T11:54:01     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T11:54:01     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T11:54:01     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-19T11:54:01     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-19T11:54:01     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-19T11:54:01     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-19T11:54:01     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-19T11:54:01     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-19T11:54:01     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-09-19T11:54:01     info       Loaded : . . . read 13,485 rec-records
+2025-09-19T11:54:01     info       Loaded : . . . read 13,824 src-records
+2025-09-19T11:54:01     info       Loaded : . . . read 110,592 rel-records
+2025-09-19T11:54:05     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-19T11:55:34     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T11:55:35     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T12:01:59     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T12:01:59     info       Parsing: survey object succesfully parsed
+2025-09-19T12:02:00     info       Params : survey object read, containing 282 parameters
+2025-09-19T12:02:09     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:02:09     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:02:09     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T12:02:09     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:02:09     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T12:02:09     info       Loaded : . . . Fold map  : Min:24 - Max:96 
+2025-09-19T12:02:09     info       Loaded : . . . Min-offset: Min:35.36m - Max:617.45m 
+2025-09-19T12:02:09     info       Loaded : . . . Max-offset: Min:5790.62m - Max:6025.05m 
+2025-09-19T12:02:09     info       Loaded : . . . Rms-offset: Min:27.65m - Max:193.59m 
+2025-09-19T12:02:09     info       Loaded : . . . offset histogram
+2025-09-19T12:02:09     info       Loaded : . . . azi-offset histogram
+2025-09-19T12:02:09     info       Loaded : . . . Analysis  : 640,000 traces (reserved space)
+2025-09-19T12:02:09     info       Loaded : . . . Analysis: 640,000 traces displayed in Trace Table
+2025-09-19T12:02:11     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-19T12:02:43     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T12:02:43     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T12:02:43     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T12:02:43     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T12:02:43     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-19T12:02:43     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-19T12:02:43     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-19T12:02:43     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-19T12:02:43     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-19T12:02:43     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-19T12:02:43     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-09-19T12:02:43     info       Loaded : . . . read 13,485 rec-records
+2025-09-19T12:02:43     info       Loaded : . . . read 13,824 src-records
+2025-09-19T12:02:43     info       Loaded : . . . read 110,592 rel-records
+2025-09-19T12:02:46     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-19T12:09:40     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T12:09:41     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T12:09:47     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T12:09:47     info       Parsing: survey object succesfully parsed
+2025-09-19T12:09:47     info       Params : survey object read, containing 282 parameters
+2025-09-19T12:10:07     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:10:07     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:10:07     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T12:10:07     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:10:07     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T12:10:07     info       Loaded : . . . Fold map  : Min:24 - Max:96 
+2025-09-19T12:10:07     info       Loaded : . . . Min-offset: Min:35.36m - Max:617.45m 
+2025-09-19T12:10:07     info       Loaded : . . . Max-offset: Min:5790.62m - Max:6025.05m 
+2025-09-19T12:10:07     info       Loaded : . . . Rms-offset: Min:27.65m - Max:193.59m 
+2025-09-19T12:10:07     info       Loaded : . . . offset histogram
+2025-09-19T12:10:07     info       Loaded : . . . azi-offset histogram
+2025-09-19T12:10:07     info       Loaded : . . . Analysis  : 640,000 traces (reserved space)
+2025-09-19T12:10:07     info       Loaded : . . . Analysis: 640,000 traces displayed in Trace Table
+2025-09-19T12:14:17     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T12:14:18     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T12:15:42     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T12:15:42     info       Parsing: survey object succesfully parsed
+2025-09-19T12:15:43     info       Params : survey object read, containing 282 parameters
+2025-09-19T12:15:58     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:15:58     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:15:58     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T12:15:58     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:15:58     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T12:15:58     info       Loaded : . . . Fold map  : Min:24 - Max:96 
+2025-09-19T12:15:58     info       Loaded : . . . Min-offset: Min:35.36m - Max:617.45m 
+2025-09-19T12:15:58     info       Loaded : . . . Max-offset: Min:5790.62m - Max:6025.05m 
+2025-09-19T12:15:58     info       Loaded : . . . Rms-offset: Min:27.65m - Max:193.59m 
+2025-09-19T12:15:58     info       Loaded : . . . offset histogram
+2025-09-19T12:15:58     info       Loaded : . . . azi-offset histogram
+2025-09-19T12:15:58     info       Loaded : . . . Analysis  : 640,000 traces (reserved space)
+2025-09-19T12:15:58     info       Loaded : . . . Analysis: 640,000 traces displayed in Trace Table
+2025-09-19T12:18:54     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T12:18:55     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T12:19:01     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T12:19:01     info       Parsing: survey object succesfully parsed
+2025-09-19T12:19:02     info       Params : survey object read, containing 282 parameters
+2025-09-19T12:19:18     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:19:18     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:19:18     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T12:19:18     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:19:18     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T12:19:18     info       Loaded : . . . Fold map  : Min:24 - Max:96 
+2025-09-19T12:19:18     info       Loaded : . . . Min-offset: Min:35.36m - Max:617.45m 
+2025-09-19T12:19:18     info       Loaded : . . . Max-offset: Min:5790.62m - Max:6025.05m 
+2025-09-19T12:19:18     info       Loaded : . . . Rms-offset: Min:27.65m - Max:193.59m 
+2025-09-19T12:19:18     info       Loaded : . . . offset histogram
+2025-09-19T12:19:18     info       Loaded : . . . azi-offset histogram
+2025-09-19T12:19:18     info       Loaded : . . . Analysis  : 640,000 traces (reserved space)
+2025-09-19T12:19:18     info       Loaded : . . . Analysis: 640,000 traces displayed in Trace Table
+2025-09-19T12:20:41     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T12:20:42     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T12:20:47     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T12:20:47     info       Parsing: survey object succesfully parsed
+2025-09-19T12:20:47     info       Params : survey object read, containing 282 parameters
+2025-09-19T12:20:57     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:20:57     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:20:57     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T12:20:57     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:20:57     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T12:20:57     info       Loaded : . . . Fold map  : Min:24 - Max:96 
+2025-09-19T12:20:57     info       Loaded : . . . Min-offset: Min:35.36m - Max:617.45m 
+2025-09-19T12:20:57     info       Loaded : . . . Max-offset: Min:5790.62m - Max:6025.05m 
+2025-09-19T12:20:57     info       Loaded : . . . Rms-offset: Min:27.65m - Max:193.59m 
+2025-09-19T12:20:57     info       Loaded : . . . offset histogram
+2025-09-19T12:20:57     info       Loaded : . . . azi-offset histogram
+2025-09-19T12:20:57     info       Loaded : . . . Analysis  : 640,000 traces (reserved space)
+2025-09-19T12:20:57     info       Loaded : . . . Analysis: 640,000 traces displayed in Trace Table
+2025-09-19T12:20:59     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-19T12:21:13     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T12:21:13     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T12:21:13     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T12:21:13     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T12:21:13     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-19T12:21:13     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-19T12:21:13     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-19T12:21:13     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-19T12:21:13     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-19T12:21:13     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-19T12:21:13     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-09-19T12:21:13     info       Loaded : . . . read 13,485 rec-records
+2025-09-19T12:21:13     info       Loaded : . . . read 13,824 src-records
+2025-09-19T12:21:13     info       Loaded : . . . read 110,592 rel-records
+2025-09-19T12:21:17     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-19T12:25:16     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T12:25:17     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T12:25:23     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T12:25:23     info       Parsing: survey object succesfully parsed
+2025-09-19T12:25:24     info       Params : survey object read, containing 282 parameters
+2025-09-19T12:25:53     info       Opening: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:25:53     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:25:53     info       Parsing: D:/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T12:25:53     info       Reading: D:/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T12:25:53     info       Loading: D:/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T12:25:53     info       Loaded : . . . Fold map  : Min:24 - Max:96 
+2025-09-19T12:25:53     info       Loaded : . . . Min-offset: Min:35.36m - Max:617.45m 
+2025-09-19T12:25:53     info       Loaded : . . . Max-offset: Min:5790.62m - Max:6025.05m 
+2025-09-19T12:25:53     info       Loaded : . . . Rms-offset: Min:27.65m - Max:193.59m 
+2025-09-19T12:25:53     info       Loaded : . . . offset histogram
+2025-09-19T12:25:53     info       Loaded : . . . azi-offset histogram
+2025-09-19T12:25:53     info       Loaded : . . . Analysis  : 640,000 traces (reserved space)
+2025-09-19T12:25:53     info       Loaded : . . . Analysis: 640,000 traces displayed in Trace Table
+2025-09-19T12:25:56     info       Params : D:/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-19T12:26:07     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T12:26:07     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T12:26:07     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T12:26:07     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T12:26:08     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-19T12:26:08     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-19T12:26:08     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-19T12:26:08     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-19T12:26:08     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-19T12:26:08     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-19T12:26:08     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-09-19T12:26:08     info       Loaded : . . . read 13,485 rec-records
+2025-09-19T12:26:08     info       Loaded : . . . read 13,824 src-records
+2025-09-19T12:26:08     info       Loaded : . . . read 110,592 rel-records
+2025-09-19T12:26:11     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-19T12:26:40     error      Input  : Please enter a valid trace number
+2025-09-19T12:26:52     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T12:26:53     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T16:43:06     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T16:43:06     info       Parsing: survey object succesfully parsed
+2025-09-19T16:43:07     info       Params : survey object read, containing 282 parameters
+2025-09-19T16:48:49     info       Parsing: survey object succesfully parsed
+2025-09-19T16:48:50     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-19T17:01:23     info       Plugin : Started on Windows 10 v(10.0.26100)
+2025-09-19T17:01:23     info       Parsing: survey object succesfully parsed
+2025-09-19T17:01:23     info       Params : survey object read, containing 282 parameters
+2025-09-19T17:01:36     info       Parsing: survey object succesfully parsed
+2025-09-19T17:01:37     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-19T17:03:01     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T17:03:01     info       Parsing: survey object succesfully parsed
+2025-09-19T17:03:02     info       Params : survey object read, containing 282 parameters
+2025-09-19T17:03:24     info       Opening: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T17:03:24     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T17:03:24     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T17:03:24     info       Reading: D:/roll_samples/other/TripleZigzag_001.roll
+2025-09-19T17:03:24     info       Loading: D:/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-19T17:03:24     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-09-19T17:03:24     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-09-19T17:03:24     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-09-19T17:03:24     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-09-19T17:03:24     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-09-19T17:03:25     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-09-19T17:03:25     info       Loaded : . . . read 13,485 rec-records
+2025-09-19T17:03:25     info       Loaded : . . . read 13,824 src-records
+2025-09-19T17:03:25     info       Loaded : . . . read 110,592 rel-records
+2025-09-19T17:03:29     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-19T17:08:17     info       Parsing: D:/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-19T17:08:18     info       Params : D:/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
