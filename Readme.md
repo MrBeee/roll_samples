@@ -34,7 +34,7 @@ The **OpendTect** (x, y, z) format is first converted into a deviation format, b
 
 Upon loading a Roll project, the **well files** are checked for having a 'relative' well path' (instead of an 'absolute path'). These relative paths are then converted to an absolute path, to access the information in the well files. When saving the edited project, the well files are included in the project file using a relative path. This makes it easier to move the roll project file and its associated well files into a different folder. Note: In Roll's settings dialog, there is an option to always use absolute paths when saving a project file. 
 
-At present two exmple projects are available:
+At present two example projects are available:
 
 - Wells-well.roll   (This sample uses wells in the *.well format)
 - Wells-wws.roll  (This sample uses wells in the *.wws format)
