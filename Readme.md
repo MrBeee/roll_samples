@@ -32,7 +32,7 @@ The **OpendTect** (x, y, z) format is first converted into a deviation format, b
 
 #### 3	Well File locations
 
-At the moment, the **well files** are imported using 'absolute paths' instead of 'relative paths'. This means that you'll have to update the location of the well files, when using the following examples for the first time:
+Upon loading a Roll project, the **well files** are checked for having a 'relative' well path' (*instead of an 'absolute path'*). Upon import of these relative paths are converted to an absolute path, for access to the information in trhe well files. When saving the edited project, the well files are included in the project file using a relative path. This makes it easier to move the roll project file and its associated well files into a different folder. At present two exmple projects are available:
 
 - Wells-well.roll   (This sample uses wells in the *.well format)
 - Wells-wws.roll  (This sample uses wells in the *.wws format)
