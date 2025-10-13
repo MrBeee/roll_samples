@@ -83,3 +83,112 @@
 2025-06-01T13:05:26     info       Parsing: D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
 2025-06-01T13:05:27     info       Params : D:/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
 
+2025-08-27T16:40:31     info       Parsing: survey object succesfully parsed
+2025-08-27T16:40:32     info       Params : survey object read, containing 282 parameters
+2025-08-27T16:40:32     info       Plugin : Started
+2025-08-27T16:41:03     info       Parsing: survey object succesfully parsed
+2025-08-27T16:41:03     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-13T17:49:00     info       Parsing: survey object succesfully parsed
+2025-09-13T17:49:01     info       Params : survey object read, containing 282 parameters
+2025-09-13T17:49:01     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-13T17:51:19     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-13T17:51:19     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-13T17:51:19     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-13T17:51:19     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-13T17:51:19     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-13T17:51:19     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-13T17:51:19     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-13T17:51:19     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-13T17:51:19     info       Loaded : . . . offset histogram
+2025-09-13T17:51:19     info       Loaded : . . . azi-offset histogram
+2025-09-13T17:51:19     info       Loaded : . . . read 161,894 rec-records
+2025-09-13T17:51:19     info       Loaded : . . . read 51,240 src-records
+2025-09-13T17:51:19     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-13T17:51:19     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-13T17:51:48     binning    Thread : started 'Bin from geometry', using 51,240 shot points
+2025-09-13T17:51:53     error      Thread : . . . aborted binning operation
+2025-09-13T17:51:53     error      Thread : . . . file: roll_survey.py, function: binFromGeometry4(), line: 1306, error: 'function' object has no attribute 'get_call_template'
+2025-09-13T18:00:43     binning    Thread : started 'Bin from geometry', using 51,240 shot points
+2025-09-13T18:00:48     error      Thread : . . . aborted binning operation
+2025-09-13T18:00:48     error      Thread : . . . file: roll_survey.py, function: binFromGeometry4(), line: 1306, error: 'function' object has no attribute 'get_call_template'
+2025-09-13T18:04:42     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-13T18:04:43     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-15T14:45:11     info       Parsing: survey object succesfully parsed
+2025-09-15T14:45:11     info       Params : survey object read, containing 282 parameters
+2025-09-15T14:45:12     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-15T14:45:45     info       Parsing: survey object succesfully parsed
+2025-09-15T14:45:45     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-15T14:48:16     info       Parsing: survey object succesfully parsed
+2025-09-15T14:48:17     info       Params : survey object read, containing 282 parameters
+2025-09-15T14:48:17     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-15T14:48:40     info       Parsing: survey object succesfully parsed
+2025-09-15T14:48:40     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-15T16:10:25     info       Parsing: survey object succesfully parsed
+2025-09-15T16:10:25     info       Params : survey object read, containing 282 parameters
+2025-09-15T16:10:25     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-15T16:10:32     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-15T16:10:32     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-15T16:10:32     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-15T16:10:32     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-15T16:10:32     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-15T16:10:32     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-15T16:10:32     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-15T16:10:32     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-15T16:10:32     info       Loaded : . . . offset histogram
+2025-09-15T16:10:32     info       Loaded : . . . azi-offset histogram
+2025-09-15T16:10:32     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-15T16:10:32     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-15T16:10:32     info       Loaded : . . . read 161,894 rec-records
+2025-09-15T16:10:32     info       Loaded : . . . read 51,240 src-records
+2025-09-15T16:10:32     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-15T16:10:33     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-15T16:11:54     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-15T16:11:54     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-15T18:15:17     info       Parsing: survey object succesfully parsed
+2025-09-15T18:15:18     info       Params : survey object read, containing 282 parameters
+2025-09-15T18:15:18     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-15T18:16:00     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-15T18:16:00     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-15T18:16:00     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-15T18:16:00     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-15T18:16:00     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-15T18:16:00     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-15T18:16:00     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-15T18:16:00     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-15T18:16:00     info       Loaded : . . . offset histogram
+2025-09-15T18:16:00     info       Loaded : . . . azi-offset histogram
+2025-09-15T18:16:39     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-15T18:18:00     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-15T18:18:00     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-15T18:18:37     info       Parsing: survey object succesfully parsed
+2025-09-15T18:18:38     info       Params : survey object read, containing 282 parameters
+2025-09-15T18:18:38     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-15T18:18:44     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-15T18:18:44     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-15T18:18:44     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-15T18:18:44     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-15T18:18:44     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-15T18:18:44     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-15T18:18:44     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-15T18:18:44     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-15T18:18:44     info       Loaded : . . . offset histogram
+2025-09-15T18:18:44     info       Loaded : . . . azi-offset histogram
+2025-09-15T18:19:30     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-15T18:19:38     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-15T18:19:53     info       Loaded : . . . read 161,894 rec-records
+2025-09-15T18:19:53     info       Loaded : . . . read 51,240 src-records
+2025-09-15T18:19:54     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-15T18:19:54     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-15T18:20:47     binning    Thread : prepare memory mapped file for 671,044,500 traces, with nx=2630, ny=1215, fold=210
+2025-09-15T18:20:57     binning    Thread : started 'Bin from geometry', using 51,240 shot points
+2025-09-15T18:25:11     error      Thread : . . . aborted binning operation
+2025-09-15T18:25:11     error      Thread : . . . file: roll_survey.py, function: binFromGeometry4(), line: 1306, error: 'function' object has no attribute 'get_call_template'
+2025-09-15T18:27:06     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-15T18:27:07     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+

@@ -99,3 +99,1305 @@
 2025-06-01T12:58:51     info       Parsing: D:/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
 2025-06-01T12:58:52     info       Params : D:/roll_samples/wells/Wells-wws.roll survey object read, containing 282 parameters+++
 
+2025-10-06T17:57:47     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-06T17:57:47     info       Parsing: survey object succesfully parsed
+2025-10-06T17:57:47     info       Params : survey object read, containing 282 parameters
+2025-10-06T17:58:06     info       Opening: D:/Roll/roll_testing/Kees/Carpet-3.roll
+2025-10-06T17:58:06     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-3.roll
+2025-10-06T17:58:06     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-3.roll survey object succesfully parsed
+2025-10-06T17:58:06     info       Reading: D:/Roll/roll_testing/Kees/Carpet-3.roll
+2025-10-06T17:58:06     info       Loading: D:/Roll/roll_testing/Kees/Carpet-3.roll analysis files
+2025-10-06T17:58:06     info       Loaded : . . . Fold map  : Min:100 - Max:100 
+2025-10-06T17:58:06     info       Loaded : . . . Min-offset: Min:17.68m - Max:265.17m 
+2025-10-06T17:58:06     info       Loaded : . . . Max-offset: Min:2563.26m - Max:2810.75m 
+2025-10-06T17:58:06     info       Loaded : . . . Rms-offset: Min:23.62m - Max:61.84m 
+2025-10-06T17:58:06     info       Loaded : . . . offset histogram
+2025-10-06T17:58:06     info       Loaded : . . . azi-offset histogram
+2025-10-06T17:58:06     info       Loaded : . . . Analysis  : 2,560,000 traces (reserved space)
+2025-10-06T17:58:06     info       Loaded : . . . Analysis: 2,560,000 traces available (showing 1,000,000 at a time)
+2025-10-06T17:58:06     info       Loaded : . . . read 4,845 rec-records
+2025-10-06T17:58:06     info       Loaded : . . . read 400 src-records
+2025-10-06T17:58:06     info       Loaded : . . . read 3,200 rel-records
+2025-10-06T17:58:07     info       Params : D:/Roll/roll_testing/Kees/Carpet-3.roll survey object read, containing 282 parameters
+2025-10-06T17:58:19     info       Opening: D:/Roll/roll_testing/Kees/Carpet-2.roll
+2025-10-06T17:58:19     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-2.roll
+2025-10-06T17:58:19     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-2.roll survey object succesfully parsed
+2025-10-06T17:58:19     info       Reading: D:/Roll/roll_testing/Kees/Carpet-2.roll
+2025-10-06T17:58:19     info       Loading: D:/Roll/roll_testing/Kees/Carpet-2.roll analysis files
+2025-10-06T17:58:20     info       Loaded : . . . Fold map  : Min:100 - Max:100 
+2025-10-06T17:58:20     info       Loaded : . . . Min-offset: Min:17.68m - Max:265.17m 
+2025-10-06T17:58:20     info       Loaded : . . . Max-offset: Min:2563.26m - Max:2810.75m 
+2025-10-06T17:58:20     info       Loaded : . . . read 4,845 rec-records
+2025-10-06T17:58:20     info       Loaded : . . . read 400 src-records
+2025-10-06T17:58:20     info       Loaded : . . . read 3,200 rel-records
+2025-10-06T17:58:20     info       Params : D:/Roll/roll_testing/Kees/Carpet-2.roll survey object read, containing 282 parameters
+2025-10-06T17:58:48     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T17:58:48     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T17:59:59     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T17:59:59     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T18:00:45     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T18:00:46     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 282 parameters+++
+
+2025-10-06T21:39:56     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-06T21:39:56     info       Parsing: survey object succesfully parsed
+2025-10-06T21:39:56     info       Params : survey object read, containing 282 parameters
+2025-10-06T21:40:03     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T21:40:03     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T21:40:03     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T21:40:03     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T21:40:03     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-06T21:40:04     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-06T21:47:59     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T21:48:00     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-06T21:51:13     info       Saved  : D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T21:51:17     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T21:51:17     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 282 parameters+++
+
+2025-10-06T21:51:23     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-06T21:51:23     info       Parsing: survey object succesfully parsed
+2025-10-06T21:51:23     info       Params : survey object read, containing 282 parameters
+2025-10-06T21:51:31     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T21:51:31     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T21:51:31     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T21:51:31     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T21:51:31     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-06T21:51:32     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-06T21:57:34     info       Saved  : D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T21:58:07     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T21:58:07     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 282 parameters+++
+
+2025-10-06T22:02:58     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-06T22:02:58     info       Parsing: survey object succesfully parsed
+2025-10-06T22:02:58     info       Params : survey object read, containing 282 parameters
+2025-10-06T22:03:06     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:03:06     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:03:06     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T22:03:06     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:03:06     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-06T22:03:07     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-06T22:03:40     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:03:40     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:03:40     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-06T22:03:40     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:03:40     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-06T22:03:41     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-06T22:08:18     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2025-10-06T22:09:17     info       Saved  : D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:09:17     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-06T22:09:17     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-06T22:11:37     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-06T22:11:37     info       Parsing: survey object succesfully parsed
+2025-10-06T22:11:38     info       Params : survey object read, containing 282 parameters
+2025-10-06T22:11:44     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:11:44     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:11:44     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-06T22:11:44     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:11:44     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-06T22:11:45     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-06T22:11:53     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:11:53     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:11:53     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T22:11:53     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:11:53     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-06T22:11:54     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-06T22:12:14     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T22:12:15     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 282 parameters+++
+
+2025-10-06T22:29:32     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-06T22:29:32     info       Parsing: survey object succesfully parsed
+2025-10-06T22:29:32     info       Params : survey object read, containing 282 parameters
+2025-10-06T22:29:42     info       Opening: D:/Roll/roll_testing/Kees/Carpet-2.roll
+2025-10-06T22:29:42     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-2.roll
+2025-10-06T22:29:42     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-2.roll survey object succesfully parsed
+2025-10-06T22:29:42     info       Reading: D:/Roll/roll_testing/Kees/Carpet-2.roll
+2025-10-06T22:29:42     info       Loading: D:/Roll/roll_testing/Kees/Carpet-2.roll analysis files
+2025-10-06T22:29:42     info       Loaded : . . . Fold map  : Min:100 - Max:100 
+2025-10-06T22:29:42     info       Loaded : . . . Min-offset: Min:17.68m - Max:265.17m 
+2025-10-06T22:29:42     info       Loaded : . . . Max-offset: Min:2563.26m - Max:2810.75m 
+2025-10-06T22:29:42     info       Loaded : . . . read 4,845 rec-records
+2025-10-06T22:29:42     info       Loaded : . . . read 400 src-records
+2025-10-06T22:29:42     info       Loaded : . . . read 3,200 rel-records
+2025-10-06T22:29:43     info       Params : D:/Roll/roll_testing/Kees/Carpet-2.roll survey object read, containing 282 parameters
+2025-10-06T22:29:54     info       Opening: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-06T22:29:54     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-06T22:29:54     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-10-06T22:29:54     info       Reading: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-06T22:29:54     info       Loading: D:/Roll/roll_samples/brick/Brick_001.roll analysis files
+2025-10-06T22:29:54     info       Loaded : . . . Fold map  : Min:1 - Max:40 
+2025-10-06T22:29:54     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-10-06T22:29:54     info       Loaded : . . . Max-offset: Min:2113.35m - Max:6038.73m 
+2025-10-06T22:29:54     info       Loaded : . . . Rms-offset: Min:0.00m - Max:99.91m 
+2025-10-06T22:29:54     info       Loaded : . . . offset histogram
+2025-10-06T22:29:54     info       Loaded : . . . azi-offset histogram
+2025-10-06T22:29:54     info       Loaded : . . . Analysis  : 948,000 traces (reserved space)
+2025-10-06T22:29:54     info       Loaded : . . . Analysis: 948,000 traces displayed in Trace Table
+2025-10-06T22:29:54     info       Loaded : . . . read 7,506 rec-records
+2025-10-06T22:29:54     info       Loaded : . . . read 1,200 src-records
+2025-10-06T22:29:54     info       Loaded : . . . read 9,600 rel-records
+2025-10-06T22:29:54     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 364 parameters
+2025-10-06T22:30:04     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-06T22:30:04     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-06T22:30:04     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-06T22:30:04     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-06T22:30:05     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-06T22:30:06     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-06T22:30:58     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:30:58     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:30:59     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T22:30:59     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:30:59     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-06T22:31:00     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-06T22:31:12     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:31:12     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:31:12     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-06T22:31:12     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:31:12     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-06T22:31:13     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-06T22:32:28     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:32:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:32:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-06T22:32:28     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-06T22:32:28     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-06T22:32:29     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-06T22:32:41     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:32:41     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:32:41     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-06T22:32:41     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-06T22:32:41     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-06T22:32:42     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-06T22:32:59     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-06T22:33:00     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-07T10:00:00     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T10:00:00     info       Parsing: survey object succesfully parsed
+2025-10-07T10:00:00     info       Params : survey object read, containing 282 parameters
+2025-10-07T10:00:09     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:00:09     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:00:09     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:00:09     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:00:09     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T10:00:11     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T10:00:28     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-07T10:00:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-07T10:00:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-07T10:00:28     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-07T10:00:28     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-07T10:00:29     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-07T10:00:49     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-07T10:00:50     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 282 parameters+++
+
+2025-10-07T10:14:53     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T10:14:53     info       Parsing: survey object succesfully parsed
+2025-10-07T10:14:53     info       Params : survey object read, containing 282 parameters
+2025-10-07T10:15:04     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-07T10:15:04     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-07T10:15:04     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-07T10:15:04     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-07T10:15:04     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-07T10:15:06     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-07T10:16:04     info       Opening: D:/Roll/roll_testing/Kees/Carpet-2.roll
+2025-10-07T10:16:04     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-2.roll
+2025-10-07T10:16:04     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-2.roll survey object succesfully parsed
+2025-10-07T10:16:04     info       Reading: D:/Roll/roll_testing/Kees/Carpet-2.roll
+2025-10-07T10:16:04     info       Loading: D:/Roll/roll_testing/Kees/Carpet-2.roll analysis files
+2025-10-07T10:16:04     info       Loaded : . . . Fold map  : Min:100 - Max:100 
+2025-10-07T10:16:04     info       Loaded : . . . Min-offset: Min:17.68m - Max:265.17m 
+2025-10-07T10:16:04     info       Loaded : . . . Max-offset: Min:2563.26m - Max:2810.75m 
+2025-10-07T10:16:04     info       Loaded : . . . read 4,845 rec-records
+2025-10-07T10:16:04     info       Loaded : . . . read 400 src-records
+2025-10-07T10:16:04     info       Loaded : . . . read 3,200 rel-records
+2025-10-07T10:16:05     info       Params : D:/Roll/roll_testing/Kees/Carpet-2.roll survey object read, containing 282 parameters
+2025-10-07T10:16:15     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-10-07T10:16:15     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-10-07T10:16:15     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-10-07T10:16:15     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-10-07T10:16:15     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-10-07T10:16:15     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-10-07T10:16:15     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-10-07T10:16:15     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-10-07T10:16:15     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1416.25m 
+2025-10-07T10:16:15     info       Loaded : . . . offset histogram
+2025-10-07T10:16:15     info       Loaded : . . . azi-offset histogram
+2025-10-07T10:16:15     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-10-07T10:16:15     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2025-10-07T10:16:15     info       Loaded : . . . read 161,894 rec-records
+2025-10-07T10:16:15     info       Loaded : . . . read 51,240 src-records
+2025-10-07T10:16:15     info       Loaded : . . . read 1,795,499 rel-records
+2025-10-07T10:16:15     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-10-07T10:16:51     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-07T10:16:51     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-07T10:16:51     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-07T10:16:51     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-07T10:16:51     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-07T10:16:51     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-07T10:16:51     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-07T10:16:51     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-07T10:16:51     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-07T10:16:51     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-07T10:16:53     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-07T10:17:26     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-07T10:17:26     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-07T10:17:26     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-07T10:17:26     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-07T10:17:26     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-07T10:17:27     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-07T10:17:42     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:17:42     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:17:42     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:17:42     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:17:42     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T10:17:43     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T10:18:01     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:18:01     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-07T10:22:34     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T10:22:34     info       Parsing: survey object succesfully parsed
+2025-10-07T10:22:34     info       Params : survey object read, containing 282 parameters
+2025-10-07T10:22:41     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:22:41     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:22:42     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:22:42     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:22:42     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T10:22:43     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T10:23:01     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:23:01     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-07T10:31:50     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T10:31:50     info       Parsing: survey object succesfully parsed
+2025-10-07T10:31:50     info       Params : survey object read, containing 282 parameters
+2025-10-07T10:31:58     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:31:58     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:31:58     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:31:58     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:31:58     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T10:31:59     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T10:33:05     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:33:05     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-07T10:50:37     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T10:50:37     info       Parsing: survey object succesfully parsed
+2025-10-07T10:50:37     info       Params : survey object read, containing 282 parameters
+2025-10-07T10:50:43     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:50:43     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:50:43     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:50:43     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:50:43     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T10:50:45     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T10:50:55     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:50:55     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-07T10:56:57     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T10:56:57     info       Parsing: survey object succesfully parsed
+2025-10-07T10:56:57     info       Params : survey object read, containing 282 parameters
+2025-10-07T10:57:11     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:57:11     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:57:11     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:57:11     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T10:57:11     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T10:57:13     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T10:57:41     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T10:57:41     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-07T11:14:08     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T11:14:08     info       Parsing: survey object succesfully parsed
+2025-10-07T11:14:08     info       Params : survey object read, containing 282 parameters
+2025-10-07T11:14:14     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T11:14:14     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T11:14:14     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T11:14:14     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T11:14:14     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T11:14:15     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T11:14:31     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T11:14:32     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-07T11:24:06     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T11:24:06     info       Parsing: survey object succesfully parsed
+2025-10-07T11:24:06     info       Params : survey object read, containing 282 parameters
+2025-10-07T11:24:19     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T11:24:19     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T11:24:19     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T11:24:19     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T11:24:19     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T11:24:21     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T11:24:39     info       Opening: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-07T11:24:39     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-07T11:24:39     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-10-07T11:24:39     info       Reading: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-07T11:24:39     info       Loading: D:/Roll/roll_samples/brick/Brick_001.roll analysis files
+2025-10-07T11:24:39     info       Loaded : . . . Fold map  : Min:1 - Max:40 
+2025-10-07T11:24:39     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-10-07T11:24:39     info       Loaded : . . . Max-offset: Min:2113.35m - Max:6038.73m 
+2025-10-07T11:24:39     info       Loaded : . . . Rms-offset: Min:0.00m - Max:99.91m 
+2025-10-07T11:24:39     info       Loaded : . . . offset histogram
+2025-10-07T11:24:39     info       Loaded : . . . azi-offset histogram
+2025-10-07T11:24:39     info       Loaded : . . . Analysis  : 948,000 traces (reserved space)
+2025-10-07T11:24:39     info       Loaded : . . . Analysis: 948,000 traces displayed in Trace Table
+2025-10-07T11:24:39     info       Loaded : . . . read 7,506 rec-records
+2025-10-07T11:24:39     info       Loaded : . . . read 1,200 src-records
+2025-10-07T11:24:39     info       Loaded : . . . read 9,600 rel-records
+2025-10-07T11:24:39     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 364 parameters
+2025-10-07T12:02:52     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-10-07T12:02:52     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 282 parameters+++
+
+2025-10-07T12:30:20     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T12:30:20     info       Parsing: survey object succesfully parsed
+2025-10-07T12:30:20     info       Params : survey object read, containing 282 parameters
+2025-10-07T12:30:34     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T12:30:34     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T12:30:34     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T12:30:34     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T12:30:34     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T12:30:35     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T12:42:06     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T12:42:07     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-07T12:48:11     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T12:48:11     info       Parsing: survey object succesfully parsed
+2025-10-07T12:48:11     info       Params : survey object read, containing 282 parameters
+2025-10-07T12:48:23     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T12:48:23     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T12:48:23     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T12:48:23     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T12:48:23     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T12:48:24     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T12:48:33     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-07T12:48:33     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-07T12:48:33     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-07T12:48:33     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-07T12:48:33     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-07T12:48:33     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-07T12:48:33     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-07T12:48:33     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-07T12:48:33     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-07T12:48:33     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-07T12:48:35     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-07T12:48:39     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-07T12:48:40     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-10-07T14:44:33     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T14:44:33     info       Parsing: survey object succesfully parsed
+2025-10-07T14:44:33     info       Params : survey object read, containing 282 parameters
+2025-10-07T14:44:45     info       Parsing: survey object succesfully parsed
+2025-10-07T14:44:46     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-07T16:28:03     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T16:28:03     info       Parsing: survey object succesfully parsed
+2025-10-07T16:28:03     info       Params : survey object read, containing 282 parameters
+2025-10-07T16:28:30     info       Opening: D:/Roll/roll_testing/Kees/Carpet-3.roll
+2025-10-07T16:28:30     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-3.roll
+2025-10-07T16:28:30     info       Parsing: D:/Roll/roll_testing/Kees/Carpet-3.roll survey object succesfully parsed
+2025-10-07T16:28:30     info       Reading: D:/Roll/roll_testing/Kees/Carpet-3.roll
+2025-10-07T16:28:30     info       Loading: D:/Roll/roll_testing/Kees/Carpet-3.roll analysis files
+2025-10-07T16:28:30     info       Loaded : . . . Fold map  : Min:100 - Max:100 
+2025-10-07T16:28:30     info       Loaded : . . . Min-offset: Min:17.68m - Max:265.17m 
+2025-10-07T16:28:30     info       Loaded : . . . Max-offset: Min:2563.26m - Max:2810.75m 
+2025-10-07T16:28:30     info       Loaded : . . . Rms-offset: Min:23.62m - Max:61.84m 
+2025-10-07T16:28:30     info       Loaded : . . . offset histogram
+2025-10-07T16:28:30     info       Loaded : . . . azi-offset histogram
+2025-10-07T16:28:30     info       Loaded : . . . Analysis  : 2,560,000 traces (reserved space)
+2025-10-07T16:28:30     info       Loaded : . . . Analysis: 2,560,000 traces available (showing 1,000,000 at a time)
+2025-10-07T16:28:30     info       Loaded : . . . read 4,845 rec-records
+2025-10-07T16:28:30     info       Loaded : . . . read 400 src-records
+2025-10-07T16:28:30     info       Loaded : . . . read 3,200 rel-records
+2025-10-07T16:28:31     info       Params : D:/Roll/roll_testing/Kees/Carpet-3.roll survey object read, containing 282 parameters
+2025-10-07T16:28:46     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-07T16:28:46     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-07T16:28:46     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-07T16:28:46     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-07T16:28:46     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-07T16:28:48     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-07T16:31:51     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T16:31:51     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T16:31:51     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T16:31:51     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-07T16:31:51     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-07T16:31:52     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-07T16:53:22     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-07T16:53:22     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-07T17:03:53     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T17:03:53     info       Parsing: survey object succesfully parsed
+2025-10-07T17:03:53     info       Params : survey object read, containing 282 parameters
+2025-10-07T17:04:12     info       Parsing: survey object succesfully parsed
+2025-10-07T17:04:13     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-07T18:00:34     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T18:00:34     info       Parsing: survey object succesfully parsed
+2025-10-07T18:00:34     info       Params : survey object read, containing 282 parameters
+2025-10-07T18:00:52     info       Parsing: survey object succesfully parsed
+2025-10-07T18:00:52     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-07T18:01:45     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T18:01:45     info       Parsing: survey object succesfully parsed
+2025-10-07T18:01:45     info       Params : survey object read, containing 282 parameters
+2025-10-07T18:01:57     info       Parsing: survey object succesfully parsed
+2025-10-07T18:01:58     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-07T18:02:33     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T18:02:33     info       Parsing: survey object succesfully parsed
+2025-10-07T18:02:33     info       Params : survey object read, containing 282 parameters
+2025-10-07T18:02:54     info       Parsing: survey object succesfully parsed
+2025-10-07T18:02:54     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-07T19:00:27     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-07T19:00:27     info       Parsing: survey object succesfully parsed
+2025-10-07T19:00:28     info       Params : survey object read, containing 282 parameters
+2025-10-07T20:17:28     info       Parsing: survey object succesfully parsed
+2025-10-07T20:17:28     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-08T12:10:22     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-08T12:10:22     info       Parsing: survey object succesfully parsed
+2025-10-08T12:10:22     info       Params : survey object read, containing 282 parameters
+2025-10-08T12:10:38     info       Parsing: survey object succesfully parsed
+2025-10-08T12:10:38     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-08T12:13:52     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-08T12:13:52     info       Parsing: survey object succesfully parsed
+2025-10-08T12:13:52     info       Params : survey object read, containing 282 parameters
+2025-10-08T12:14:09     info       Parsing: survey object succesfully parsed
+2025-10-08T12:14:10     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-08T12:20:58     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-08T12:20:58     info       Parsing: survey object succesfully parsed
+2025-10-08T12:20:58     info       Params : survey object read, containing 282 parameters
+2025-10-08T12:23:03     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-10-08T12:23:04     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-10-08T12:23:04     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-10-08T12:23:04     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-10-08T12:23:04     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-10-08T12:23:22     info       Parsing: survey object succesfully parsed
+2025-10-08T12:23:49     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-08T12:28:49     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-08T12:28:49     info       Parsing: survey object succesfully parsed
+2025-10-08T12:28:49     info       Params : survey object read, containing 282 parameters
+2025-10-08T12:29:02     info       Parsing: survey object succesfully parsed
+2025-10-08T12:29:03     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-09T13:50:09     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T13:50:09     info       Parsing: survey object succesfully parsed
+2025-10-09T13:50:09     info       Params : survey object read, containing 282 parameters
+2025-10-09T13:50:30     info       Parsing: survey object succesfully parsed
+2025-10-09T13:50:31     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-09T13:51:20     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T13:51:20     info       Parsing: survey object succesfully parsed
+2025-10-09T13:51:20     info       Params : survey object read, containing 282 parameters
+2025-10-09T13:51:31     info       Parsing: survey object succesfully parsed
+2025-10-09T13:51:31     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-09T14:01:12     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T14:01:12     info       Parsing: survey object succesfully parsed
+2025-10-09T14:01:12     info       Params : survey object read, containing 282 parameters
+2025-10-09T14:01:17     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-10-09T14:01:19     error      Thread : . . . aborted binning operation
+2025-10-09T14:01:19     error      Thread : . . . file: worker_threads.py, function: run(), line: 139, error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-10-09T14:01:36     info       Parsing: survey object succesfully parsed
+2025-10-09T14:01:37     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-09T14:10:59     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T14:10:59     info       Parsing: survey object succesfully parsed
+2025-10-09T14:11:05     info       Params : survey object read, containing 282 parameters
+2025-10-09T14:11:24     info       Parsing: survey object succesfully parsed
+2025-10-09T14:11:48     info       Parsing: survey object succesfully parsed
+2025-10-09T14:12:01     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-09T14:35:51     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T14:35:51     info       Parsing: survey object succesfully parsed
+2025-10-09T14:35:51     info       Params : survey object read, containing 282 parameters
+2025-10-09T14:36:06     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T14:36:06     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T14:36:08     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T14:36:08     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T14:36:08     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-09T14:36:13     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-09T14:38:19     binning    Thread : started 'Bin from templates', using 200 shot points
+2025-10-09T14:38:44     error      Thread : . . . aborted binning operation
+2025-10-09T14:38:44     error      Thread : . . . file: roll_survey.py, function: binFromTemplates(), line: 1643, error: != 
+2025-10-09T14:41:30     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T14:41:31     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters
+2025-10-09T14:41:31     info       Created: new file
+2025-10-09T14:48:15     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T14:48:15     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T14:48:17     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T14:48:17     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T14:48:17     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-09T14:48:23     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-09T14:48:58     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T14:48:58     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters
+2025-10-09T14:48:58     info       Created: new file
+2025-10-09T14:49:28     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-10-09T14:49:39     binning    Thread : Binning completed. Elapsed time:0:00:11 
+2025-10-09T14:49:39     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-10-09T14:49:39     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-10-09T14:49:39     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-10-09T15:18:05     info       Parsing: survey object succesfully parsed
+2025-10-09T15:18:05     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-09T16:11:21     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T16:11:21     info       Parsing: survey object succesfully parsed
+2025-10-09T16:11:21     info       Params : survey object read, containing 282 parameters
+2025-10-09T16:11:49     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T16:11:49     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T16:12:01     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T16:12:01     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-09T16:12:01     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-09T16:12:08     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-09T16:13:42     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T16:13:43     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-09T16:13:53     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T16:13:53     info       Parsing: survey object succesfully parsed
+2025-10-09T16:13:53     info       Params : survey object read, containing 282 parameters
+2025-10-09T16:14:00     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T16:14:00     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T16:21:41     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T16:21:41     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-09T16:21:41     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-09T16:21:50     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-09T17:29:24     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T17:29:24     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-09T17:29:41     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T17:29:41     info       Parsing: survey object succesfully parsed
+2025-10-09T17:29:42     info       Params : survey object read, containing 282 parameters
+2025-10-09T17:29:59     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T17:29:59     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T17:30:02     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T17:30:02     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-09T17:30:02     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-09T17:30:10     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-09T17:31:57     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T17:31:57     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-09T17:32:03     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T17:32:03     info       Parsing: survey object succesfully parsed
+2025-10-09T17:32:03     info       Params : survey object read, containing 282 parameters
+2025-10-09T17:32:08     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T17:32:08     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T17:32:11     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T17:32:11     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-09T17:32:11     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-09T17:32:20     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-09T18:37:25     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T18:37:26     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-09T19:10:02     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T19:10:02     info       Parsing: survey object succesfully parsed
+2025-10-09T19:10:02     info       Params : survey object read, containing 282 parameters
+2025-10-09T19:10:07     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T19:10:07     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T19:10:08     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T19:10:08     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-09T19:10:08     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-09T19:10:12     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-09T19:11:48     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T19:11:48     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-09T19:13:03     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-09T19:13:03     info       Parsing: survey object succesfully parsed
+2025-10-09T19:13:03     info       Params : survey object read, containing 282 parameters
+2025-10-09T19:13:10     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T19:13:10     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-09T19:13:11     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-09T19:13:11     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-09T19:13:11     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-09T19:13:15     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-09T19:15:00     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2025-10-09T19:16:35     info       Saved  : D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-09T19:16:43     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-09T19:16:43     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-09T19:16:43     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-09T19:16:43     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-09T19:16:43     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-09T19:16:47     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-09T19:17:52     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-09T19:17:52     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T10:31:36     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T10:31:36     info       Parsing: survey object succesfully parsed
+2025-10-11T10:31:37     info       Params : survey object read, containing 282 parameters
+2025-10-11T10:31:51     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T10:31:51     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T10:31:51     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-11T10:31:51     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-11T10:31:51     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-11T10:31:51     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-11T10:31:51     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-11T10:31:51     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-11T10:31:51     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-11T10:31:51     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-11T10:31:53     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-11T10:32:06     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T10:32:06     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T10:34:30     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T10:34:30     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T10:34:31     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T10:34:40     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T10:36:09     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T10:36:10     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T10:38:20     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T10:38:20     info       Parsing: survey object succesfully parsed
+2025-10-11T10:38:20     info       Params : survey object read, containing 282 parameters
+2025-10-11T10:38:26     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T10:38:26     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T10:38:26     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T10:38:26     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T10:38:26     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T10:38:31     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T10:39:40     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T10:39:46     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T10:41:29     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T10:41:29     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T10:41:33     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T10:41:33     info       Parsing: survey object succesfully parsed
+2025-10-11T10:41:33     info       Params : survey object read, containing 282 parameters
+2025-10-11T10:41:37     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T10:41:37     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T10:41:37     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T10:41:37     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T10:41:37     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T10:41:43     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T10:55:19     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T10:55:20     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T10:55:25     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T10:55:25     info       Parsing: survey object succesfully parsed
+2025-10-11T10:55:25     info       Params : survey object read, containing 282 parameters
+2025-10-11T10:55:30     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T10:55:30     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T10:55:30     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T10:55:30     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T10:55:30     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T10:55:37     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T11:11:05     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:11:05     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:20:15     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T11:20:15     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T11:20:15     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T11:20:30     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T11:20:55     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T11:20:55     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T11:21:00     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T11:21:00     info       Parsing: survey object succesfully parsed
+2025-10-11T11:21:00     info       Params : survey object read, containing 282 parameters
+2025-10-11T11:21:07     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:21:07     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:25:57     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T11:25:57     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T11:25:57     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T11:26:06     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T11:26:14     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T11:26:15     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T11:26:19     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T11:26:19     info       Parsing: survey object succesfully parsed
+2025-10-11T11:26:19     info       Params : survey object read, containing 282 parameters
+2025-10-11T11:27:00     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:27:00     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:27:04     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T11:27:04     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T11:27:04     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T11:27:12     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T11:33:16     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T11:33:16     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T11:33:23     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T11:33:23     info       Parsing: survey object succesfully parsed
+2025-10-11T11:33:23     info       Params : survey object read, containing 282 parameters
+2025-10-11T11:33:27     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:33:27     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:33:31     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T11:33:31     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T11:33:31     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T11:33:41     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T11:37:45     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:37:45     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T11:39:14     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T11:39:14     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T11:39:14     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T11:54:02     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T11:54:07     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T11:54:11     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T11:54:16     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T11:54:16     info       Parsing: survey object succesfully parsed
+2025-10-11T11:57:58     info       Params : survey object read, containing 282 parameters
+2025-10-11T11:58:04     info       Parsing: survey object succesfully parsed
+2025-10-11T11:58:09     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-11T12:33:50     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T12:33:50     info       Parsing: survey object succesfully parsed
+2025-10-11T12:34:21     info       Params : survey object read, containing 282 parameters
+2025-10-11T12:35:23     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T12:35:23     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T12:35:41     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T12:35:41     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T12:35:41     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T12:37:09     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T13:10:06     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T13:10:25     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T13:10:45     info       Saved  : D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T13:11:01     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T13:11:01     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T13:11:06     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-11T13:11:06     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-11T13:11:06     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-11T13:13:03     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-11T13:23:58     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-11T13:23:58     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-11T13:24:07     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-11T13:33:56     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T13:33:56     info       Parsing: survey object succesfully parsed
+2025-10-11T13:33:56     info       Params : survey object read, containing 282 parameters
+2025-10-11T13:34:01     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T13:34:01     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T13:34:07     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T13:34:07     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T13:34:07     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T13:34:20     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T13:35:46     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T13:39:09     info       Edited : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object updated
+2025-10-11T13:39:37     info       Edited : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object updated
+2025-10-11T13:41:26     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-11T13:41:26     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-11T13:41:26     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-11T13:41:26     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll, success: True
+2025-10-11T13:41:26     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-11T13:41:27     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-11T13:49:54     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T13:49:54     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T13:50:00     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T13:50:00     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T13:50:00     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T13:50:15     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T13:51:16     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T13:51:16     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T13:52:52     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T13:52:52     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T13:52:52     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T13:56:58     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T14:46:55     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T14:46:56     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T14:48:09     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T14:48:09     info       Parsing: survey object succesfully parsed
+2025-10-11T14:48:10     info       Params : survey object read, containing 282 parameters
+2025-10-11T14:48:15     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T14:48:15     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T14:48:15     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-11T14:48:15     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-11T14:48:15     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-11T14:48:15     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-11T14:48:15     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-11T14:48:15     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-11T14:48:15     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-11T14:48:15     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-11T14:48:16     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-11T14:48:20     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T14:48:20     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T14:48:26     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T14:48:26     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T14:48:26     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T14:48:41     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T14:51:17     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T14:51:18     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T14:51:21     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T14:51:21     info       Parsing: survey object succesfully parsed
+2025-10-11T14:51:21     info       Params : survey object read, containing 282 parameters
+2025-10-11T14:51:26     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T14:51:26     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T14:51:32     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T14:51:32     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T14:51:32     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T14:51:48     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T14:58:49     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T14:58:49     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T15:02:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T15:02:28     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T15:02:28     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T15:08:52     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T15:08:54     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T20:51:29     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T20:51:29     info       Parsing: survey object succesfully parsed
+2025-10-11T20:51:29     info       Params : survey object read, containing 282 parameters
+2025-10-11T20:51:39     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T20:51:39     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T20:51:39     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-11T20:51:39     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-11T20:51:39     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-11T20:51:39     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-11T20:51:39     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-11T20:51:39     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-11T20:51:39     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-11T20:51:39     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-11T20:51:40     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-11T20:52:37     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T20:52:37     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T20:52:39     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-11T20:52:39     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-11T20:52:39     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-11T20:52:45     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-11T20:54:27     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-11T20:54:34     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-11T21:01:34     info       Saved  : D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T21:01:43     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-11T21:01:55     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2025-10-11T22:07:51     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T22:07:51     info       Parsing: survey object succesfully parsed
+2025-10-11T22:07:51     info       Params : survey object read, containing 282 parameters
+2025-10-11T22:07:56     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T22:07:56     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T22:08:42     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-11T22:08:42     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-11T22:08:42     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-11T22:08:53     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-11T22:12:02     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2025-10-11T22:12:22     info       Saved  : D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T22:14:02     info       Opening: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T22:14:02     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T22:14:05     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T22:14:05     info       Reading: D:/Roll/roll_samples/wells/Wells-well-2.roll, success: True
+2025-10-11T22:14:05     info       Loading: D:/Roll/roll_samples/wells/Wells-well-2.roll analysis files
+2025-10-11T22:14:17     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 636 parameters
+2025-10-11T22:15:10     info       Edited : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object updated
+2025-10-11T22:15:11     info       Edited : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object updated
+2025-10-11T22:15:14     info       Edited : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object updated
+2025-10-11T22:15:20     info       Saved  : D:/Roll/roll_samples/wells/Wells-well-2.roll
+2025-10-11T22:41:12     info       Parsing: D:/Roll/roll_samples/wells/Wells-well-2.roll survey object succesfully parsed
+2025-10-11T22:41:18     info       Params : D:/Roll/roll_samples/wells/Wells-well-2.roll survey object read, containing 282 parameters+++
+
+2025-10-11T22:41:33     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T22:41:33     info       Parsing: survey object succesfully parsed
+2025-10-11T22:41:40     info       Params : survey object read, containing 282 parameters
+2025-10-11T22:43:31     info       Parsing: survey object succesfully parsed
+2025-10-11T22:43:32     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-11T22:43:36     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T22:43:36     info       Parsing: survey object succesfully parsed
+2025-10-11T22:43:36     info       Params : survey object read, containing 282 parameters
+2025-10-11T22:44:09     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T22:44:09     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2025-10-11T22:44:09     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2025-10-11T22:44:09     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2025-10-11T22:44:09     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2025-10-11T22:44:10     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2025-10-11T22:44:28     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-11T22:44:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-11T22:44:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-11T22:44:28     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll, success: True
+2025-10-11T22:44:28     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-11T22:44:29     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-11T22:44:55     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-11T22:44:55     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-11T22:44:55     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-11T22:44:55     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll, success: True
+2025-10-11T22:44:55     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-11T22:44:56     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-11T23:38:56     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-11T23:38:56     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 282 parameters+++
+
+2025-10-11T23:39:02     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T23:39:02     info       Parsing: survey object succesfully parsed
+2025-10-11T23:39:02     info       Params : survey object read, containing 282 parameters
+2025-10-11T23:39:08     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-11T23:39:08     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-11T23:39:08     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-11T23:39:08     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll, success: True
+2025-10-11T23:39:08     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-11T23:39:10     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-11T23:41:21     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T23:41:21     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T23:41:21     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-11T23:41:21     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-11T23:41:21     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-11T23:41:21     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-11T23:41:21     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-11T23:41:21     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-11T23:41:21     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-11T23:41:21     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-11T23:41:22     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-11T23:42:10     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-11T23:42:10     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-11T23:42:10     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-11T23:42:10     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll, success: True
+2025-10-11T23:42:10     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-11T23:42:11     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-11T23:42:18     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-11T23:42:18     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-11T23:42:18     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-11T23:42:18     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll, success: True
+2025-10-11T23:42:18     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-11T23:42:19     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-11T23:42:43     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-11T23:42:45     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-11T23:42:49     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-11T23:42:50     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-11T23:43:10     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-11T23:43:12     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-11T23:47:02     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-11T23:47:02     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 282 parameters
+2025-10-11T23:47:02     info       Created: new file
+2025-10-11T23:47:07     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-10-11T23:47:08     error      Thread : . . . aborted binning operation
+2025-10-11T23:47:08     error      Thread : . . . file: roll_survey.py, function: binFromTemplates(), line: 1643, error: != 
+2025-10-11T23:47:31     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-10-11T23:47:31     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-10-11T23:47:31     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-10-11T23:47:31     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-10-11T23:47:31     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-10-11T23:50:00     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T23:50:00     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T23:50:00     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-11T23:50:00     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-11T23:50:00     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-11T23:50:00     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-11T23:50:00     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-11T23:50:00     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-11T23:50:00     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-11T23:50:00     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-11T23:50:02     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-11T23:51:36     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-11T23:51:37     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-10-11T23:51:42     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T23:51:42     info       Parsing: survey object succesfully parsed
+2025-10-11T23:51:42     info       Params : survey object read, containing 282 parameters
+2025-10-11T23:51:48     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T23:51:48     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-11T23:51:48     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-11T23:51:48     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-11T23:51:48     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-11T23:51:48     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-11T23:51:48     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-11T23:51:48     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-11T23:51:48     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-11T23:51:48     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-11T23:51:49     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-11T23:53:18     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-11T23:53:18     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters
+2025-10-11T23:53:18     info       Created: new file
+2025-10-11T23:53:21     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-10-11T23:53:21     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-10-11T23:53:21     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-10-11T23:53:21     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-10-11T23:53:21     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-10-11T23:55:03     info       Parsing: survey object succesfully parsed
+2025-10-11T23:55:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-11T23:55:08     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T23:55:08     info       Parsing: survey object succesfully parsed
+2025-10-11T23:55:08     info       Params : survey object read, containing 282 parameters
+2025-10-11T23:57:04     info       Parsing: survey object succesfully parsed
+2025-10-11T23:57:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-11T23:57:52     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T23:57:52     info       Parsing: survey object succesfully parsed
+2025-10-11T23:57:52     info       Params : survey object read, containing 282 parameters
+2025-10-11T23:59:41     info       Parsing: survey object succesfully parsed
+2025-10-11T23:59:41     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-11T23:59:46     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-11T23:59:46     info       Parsing: survey object succesfully parsed
+2025-10-11T23:59:46     info       Params : survey object read, containing 282 parameters
+2025-10-12T00:00:00     binning    Thread : started 'Bin from templates', using 400 shot points
+2025-10-12T00:00:01     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2025-10-12T00:00:01     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2025-10-12T00:00:01     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2025-10-12T00:00:01     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2025-10-12T00:00:13     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-12T00:00:13     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-12T00:00:13     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-12T00:00:13     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-12T00:00:13     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-12T00:00:13     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-12T00:00:13     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-12T00:00:13     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-12T00:00:13     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-12T00:00:13     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-12T00:00:14     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-12T00:03:06     binning    Thread : prepare memory mapped file for 53,887,680 traces, with nx=630, ny=432, fold=198
+2025-10-12T00:03:06     binning    Thread : started 'Bin from templates', using 13,824 shot points
+2025-10-12T00:05:41     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-12T00:05:41     binning    Thread : Binning completed. Elapsed time:0:02:35 
+2025-10-12T00:05:41     binning    Thread : . . . Fold       : Min:0 - Max:180 
+2025-10-12T00:05:41     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6372.70m 
+2025-10-12T00:05:41     binning    Thread : . . . Max-offsets: Min:4796.48m - Max:6372.70m 
+2025-10-12T00:05:41     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:420.05m 
+2025-10-12T00:10:13     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-12T00:10:13     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-10-12T00:10:21     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T00:10:21     info       Parsing: survey object succesfully parsed
+2025-10-12T00:10:21     info       Params : survey object read, containing 282 parameters
+2025-10-12T00:10:28     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-12T00:10:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-12T00:10:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-12T00:10:28     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll, success: True
+2025-10-12T00:10:28     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-12T00:10:29     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-12T00:13:18     info       Edited : D:/Roll/roll_samples/wells/Wells-wws.roll survey object updated
+2025-10-12T00:13:23     info       Edited : D:/Roll/roll_samples/wells/Wells-wws.roll survey object updated
+2025-10-12T00:13:48     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-12T00:13:48     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 282 parameters+++
+
+2025-10-12T01:00:14     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:00:14     info       Parsing: survey object succesfully parsed
+2025-10-12T01:00:15     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:02:33     info       Parsing: survey object succesfully parsed
+2025-10-12T01:02:33     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T01:02:37     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:02:37     info       Numba : Numba version 0.62.1 available, running in JIT mode
+2025-10-12T01:02:37     info       Parsing: survey object succesfully parsed
+2025-10-12T01:02:38     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:05:30     info       Parsing: survey object succesfully parsed
+2025-10-12T01:05:31     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T01:05:35     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:05:35     info       Numba   : Numba version 0.62.1 available, running in JIT mode
+2025-10-12T01:05:35     info       Parsing: survey object succesfully parsed
+2025-10-12T01:05:35     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:06:02     info       Parsing: survey object succesfully parsed
+2025-10-12T01:06:02     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T01:06:25     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:06:25     info       Library : Numba version 0.62.1 available, running in JIT mode
+2025-10-12T01:06:25     info       Parsing: survey object succesfully parsed
+2025-10-12T01:06:25     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:06:34     info       Parsing: survey object succesfully parsed
+2025-10-12T01:06:34     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T01:09:39     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:09:39     info       Library: Numba version 0.62.1 available, running in JIT mode
+2025-10-12T01:09:39     info       Parsing: survey object succesfully parsed
+2025-10-12T01:09:39     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:10:19     info       Parsing: survey object succesfully parsed
+2025-10-12T01:10:20     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T01:10:24     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:10:24     info       Library: Numba version 0.62.1 available, running in JIT mode
+2025-10-12T01:10:24     error      Library: Numba version is rather old, consider upgrading to the latest version
+2025-10-12T01:10:24     info       Parsing: survey object succesfully parsed
+2025-10-12T01:10:24     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:10:47     info       Parsing: survey object succesfully parsed
+2025-10-12T01:10:47     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T01:10:51     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:10:51     info       Library: Numba version 0.62.1 available, running in JIT mode
+2025-10-12T01:10:51     info       Parsing: survey object succesfully parsed
+2025-10-12T01:10:51     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:11:14     info       Parsing: survey object succesfully parsed
+2025-10-12T01:11:15     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T01:11:17     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:11:17     info       Library: Numba version 0.62.1 available, running in JIT mode
+2025-10-12T01:11:17     error      Library: Numba version is rather old, consider upgrading to the latest version
+2025-10-12T01:11:17     info       Parsing: survey object succesfully parsed
+2025-10-12T01:11:18     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:11:43     info       Parsing: survey object succesfully parsed
+2025-10-12T01:11:43     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T01:15:01     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:15:01     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T01:15:01     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T01:15:01     info       Parsing: survey object succesfully parsed
+2025-10-12T01:15:01     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:15:29     info       Parsing: survey object succesfully parsed
+2025-10-12T01:15:29     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T01:28:12     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T01:28:12     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T01:28:12     warning    Library: Numba version is rather old, consider upgrading to the latest version
+2025-10-12T01:28:12     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T01:28:12     info       Parsing: survey object succesfully parsed
+2025-10-12T01:28:12     info       Params : survey object read, containing 282 parameters
+2025-10-12T01:29:41     info       Parsing: survey object succesfully parsed
+2025-10-12T01:29:41     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T10:41:19     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T10:41:19     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T10:41:19     warning    Library: Numba version is rather old, consider upgrading to the latest version
+2025-10-12T10:41:19     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T10:41:19     info       Parsing: survey object succesfully parsed
+2025-10-12T10:41:19     info       Params : survey object read, containing 282 parameters
+2025-10-12T10:41:28     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-12T10:41:28     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-12T10:41:28     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-12T10:41:28     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-12T10:41:28     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-12T10:41:28     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-12T10:41:28     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-12T10:41:28     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-12T10:41:28     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-10-12T10:41:28     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-12T10:41:28     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-12T10:41:29     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-12T10:44:32     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T10:44:32     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T10:44:32     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-12T10:44:32     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll, success: True
+2025-10-12T10:44:32     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-12T10:44:34     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-12T11:06:04     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-12T11:06:04     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 282 parameters+++
+
+2025-10-12T11:06:10     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T11:06:10     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T11:06:10     warning    Library: Numba version is rather old, consider upgrading to the latest version
+2025-10-12T11:06:10     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T11:06:10     info       Parsing: survey object succesfully parsed
+2025-10-12T11:06:10     info       Params : survey object read, containing 282 parameters
+2025-10-12T11:06:15     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T11:06:15     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T11:06:15     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-12T11:06:15     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll, success: True
+2025-10-12T11:06:15     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-12T11:06:17     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-12T11:10:27     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-12T11:10:27     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 282 parameters+++
+
+2025-10-12T11:11:50     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T11:11:50     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T11:11:50     warning    Library: Numba version is not the latest version, consider upgrading.
+2025-10-12T11:11:50     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T11:11:50     warning    Library: Pyqtgraph version 0.13.7 detected, consider upgrading to v0.15.0
+2025-10-12T11:11:50     info       Parsing: survey object succesfully parsed
+2025-10-12T11:11:51     info       Params : survey object read, containing 282 parameters
+2025-10-12T11:13:41     info       Parsing: survey object succesfully parsed
+2025-10-12T11:13:42     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T11:13:49     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T11:13:49     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T11:13:49     warning    Library: Numba version is not the latest version, consider upgrading to v0.62.4
+2025-10-12T11:13:49     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T11:13:49     warning    Library: Pyqtgraph version 0.13.7 detected, consider upgrading to v0.14.0
+2025-10-12T11:13:49     info       Parsing: survey object succesfully parsed
+2025-10-12T11:13:49     info       Params : survey object read, containing 282 parameters
+2025-10-12T11:14:32     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T11:14:32     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T11:14:32     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-12T11:14:32     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll, success: True
+2025-10-12T11:14:32     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-12T11:14:34     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-12T11:15:12     info       Opening: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-12T11:15:12     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll
+2025-10-12T11:15:12     info       Parsing: D:/Roll/roll_samples/wells/Wells-wws.roll survey object succesfully parsed
+2025-10-12T11:15:12     info       Reading: D:/Roll/roll_samples/wells/Wells-wws.roll, success: True
+2025-10-12T11:15:12     info       Loading: D:/Roll/roll_samples/wells/Wells-wws.roll analysis files
+2025-10-12T11:15:13     info       Params : D:/Roll/roll_samples/wells/Wells-wws.roll survey object read, containing 695 parameters
+2025-10-12T11:15:20     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-12T11:15:20     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-12T11:15:20     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-12T11:15:20     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-12T11:15:20     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-12T11:15:20     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-12T11:15:20     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-12T11:15:20     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-12T11:15:20     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-10-12T11:15:20     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-12T11:15:20     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-12T11:15:22     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-12T11:15:34     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T11:15:34     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T11:15:34     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-12T11:15:34     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll, success: True
+2025-10-12T11:15:34     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-12T11:15:36     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-12T11:17:34     info       Opening: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-12T11:17:34     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-12T11:17:34     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-10-12T11:17:34     info       Reading: D:/Roll/roll_samples/brick/Brick_001.roll, success: True
+2025-10-12T11:17:34     info       Loading: D:/Roll/roll_samples/brick/Brick_001.roll analysis files
+2025-10-12T11:17:34     info       Loaded : . . . Fold map  : Min:1 - Max:40 
+2025-10-12T11:17:34     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-10-12T11:17:34     info       Loaded : . . . Max-offset: Min:2113.35m - Max:6038.73m 
+2025-10-12T11:17:34     info       Loaded : . . . Rms-offset: Min:0.00m - Max:99.91m 
+2025-10-12T11:17:34     info       Loaded : . . . offset histogram
+2025-10-12T11:17:34     info       Loaded : . . . azi-offset histogram
+2025-10-12T11:17:34     info       Loaded : . . . Analysis  : 948,000 traces (reserved space)
+2025-10-12T11:17:34     info       Loaded : . . . Analysis: 948,000 traces displayed in Trace Table
+2025-10-12T11:17:34     info       Loaded : . . . read 7,506 rec-records
+2025-10-12T11:17:34     info       Loaded : . . . read 1,200 src-records
+2025-10-12T11:17:34     info       Loaded : . . . read 9,600 rel-records
+2025-10-12T11:17:35     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 364 parameters
+2025-10-12T11:18:06     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-10-12T11:18:06     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 282 parameters+++
+
+2025-10-12T11:18:35     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T11:18:35     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T11:18:35     warning    Library: Numba version is not the latest version, consider upgrading to v0.62.4
+2025-10-12T11:18:35     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T11:18:35     warning    Library: Pyqtgraph version 0.13.7 detected, consider upgrading to v0.14.0
+2025-10-12T11:18:35     info       Parsing: survey object succesfully parsed
+2025-10-12T11:18:35     info       Params : survey object read, containing 282 parameters
+2025-10-12T11:39:32     info       Parsing: survey object succesfully parsed
+2025-10-12T11:39:32     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T11:39:39     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T11:39:39     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T11:39:39     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T11:39:39     info       Parsing: survey object succesfully parsed
+2025-10-12T11:39:39     info       Params : survey object read, containing 282 parameters
+2025-10-12T11:40:03     info       Parsing: survey object succesfully parsed
+2025-10-12T11:40:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-10-12T12:37:36     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T12:37:36     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T12:37:36     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T12:37:36     info       Parsing: survey object succesfully parsed
+2025-10-12T12:37:36     info       Params : survey object read, containing 282 parameters
+2025-10-12T12:37:54     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-12T12:37:54     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-10-12T12:37:54     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-12T12:37:54     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll, success: True
+2025-10-12T12:37:54     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-10-12T12:37:54     info       Loaded : . . . Fold map  : Min:0 - Max:180 
+2025-10-12T12:37:54     info       Loaded : . . . Min-offset: Min:35.36m - Max:6372.70m 
+2025-10-12T12:37:54     info       Loaded : . . . Max-offset: Min:4796.48m - Max:6372.70m 
+2025-10-12T12:37:54     info       Loaded : . . . Rms-offset: Min:0.00m - Max:420.05m 
+2025-10-12T12:37:54     info       Loaded : . . . Analysis  : 53,887,680 traces (reserved space)
+2025-10-12T12:37:54     info       Loaded : . . . Analysis: 53,887,680 traces available (showing 1,000,000 at a time)
+2025-10-12T12:37:55     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-10-12T12:39:33     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-10-12T12:39:33     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 282 parameters+++
+
+2025-10-12T12:58:23     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-10-12T12:58:23     info       Library: Numba version 0.62.1 available for JIT acceleration
+2025-10-12T12:58:23     info       Library: Numba is enabled, running in JIT mode
+2025-10-12T12:58:23     info       Parsing: survey object succesfully parsed
+2025-10-12T12:58:23     info       Params : survey object read, containing 282 parameters
+2025-10-12T12:58:52     info       Opening: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T12:58:52     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll
+2025-10-12T12:58:52     info       Parsing: D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object succesfully parsed
+2025-10-12T12:58:52     info       Reading: D:/Roll/roll_testing/Marine/10x2x8000m.roll, success: True
+2025-10-12T12:58:52     info       Loading: D:/Roll/roll_testing/Marine/10x2x8000m.roll analysis files
+2025-10-12T12:58:53     info       Params : D:/Roll/roll_testing/Marine/10x2x8000m.roll survey object read, containing 1312 parameters
+2025-10-12T12:59:47     info       Opening: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-12T12:59:47     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-10-12T12:59:47     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-10-12T12:59:47     info       Reading: D:/Roll/roll_samples/brick/Brick_001.roll, success: True
+2025-10-12T12:59:47     info       Loading: D:/Roll/roll_samples/brick/Brick_001.roll analysis files
+2025-10-12T12:59:47     info       Loaded : . . . Fold map  : Min:1 - Max:40 
+2025-10-12T12:59:47     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-10-12T12:59:47     info       Loaded : . . . Max-offset: Min:2113.35m - Max:6038.73m 
+2025-10-12T12:59:47     info       Loaded : . . . Rms-offset: Min:0.00m - Max:99.91m 
+2025-10-12T12:59:47     info       Loaded : . . . offset histogram
+2025-10-12T12:59:47     info       Loaded : . . . azi-offset histogram
+2025-10-12T12:59:47     info       Loaded : . . . Analysis  : 948,000 traces (reserved space)
+2025-10-12T12:59:47     info       Loaded : . . . Analysis: 948,000 traces displayed in Trace Table
+2025-10-12T12:59:47     info       Loaded : . . . read 7,506 rec-records
+2025-10-12T12:59:47     info       Loaded : . . . read 1,200 src-records
+2025-10-12T12:59:47     info       Loaded : . . . read 9,600 rel-records
+2025-10-12T12:59:47     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 364 parameters
+2025-10-12T13:00:05     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-10-12T13:00:05     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 282 parameters+++
+

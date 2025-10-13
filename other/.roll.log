@@ -1,0 +1,436 @@
+2025-09-16T11:28:13     info       Parsing: survey object succesfully parsed
+2025-09-16T11:28:13     info       Params : survey object read, containing 282 parameters
+2025-09-16T11:28:13     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-16T11:28:29     info       Opening: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-09-16T11:28:29     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-09-16T11:28:29     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-09-16T11:28:29     info       Reading: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-09-16T11:28:29     info       Loading: D:/Roll/roll_samples/brick/Brick_001.roll analysis files
+2025-09-16T11:28:29     info       Loaded : . . . Fold map  : Min:1 - Max:40 
+2025-09-16T11:28:29     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-09-16T11:28:29     info       Loaded : . . . Max-offset: Min:2113.35m - Max:6038.73m 
+2025-09-16T11:28:29     info       Loaded : . . . Rms-offset: Min:0.00m - Max:99.91m 
+2025-09-16T11:28:29     info       Loaded : . . . Analysis  : 1,264,000 traces (reserved space)
+2025-09-16T11:28:29     info       Loaded : . . . read 7,506 rec-records
+2025-09-16T11:28:29     info       Loaded : . . . read 1,200 src-records
+2025-09-16T11:28:29     info       Loaded : . . . read 9,600 rel-records
+2025-09-16T11:28:30     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 364 parameters
+2025-09-16T11:28:52     binning    Thread : started 'Bin from geometry', using 1,200 shot points
+2025-09-16T11:28:52     error      Thread : . . . aborted binning operation
+2025-09-16T11:28:52     error      Thread : . . . file: roll_survey.py, function: binFromGeometry4(), line: 1194, error: no field of name InUse
+2025-09-16T11:29:17     geometry   Thread : started 'Create Geometry from Templates', from 1,200 shot points
+2025-09-16T11:29:19     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:02 
+2025-09-16T11:29:32     binning    Thread : started 'Bin from geometry', using 1,200 shot points
+2025-09-16T11:29:34     binning    Thread : Binning completed. Elapsed time:0:00:03 
+2025-09-16T11:29:34     binning    Thread : . . . Fold       : Min:1 - Max:40 
+2025-09-16T11:29:34     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-16T11:29:34     binning    Thread : . . . Max-offsets: Min:2113.35m - Max:6038.73m 
+2025-09-16T11:29:34     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:0.00m 
+2025-09-16T11:29:51     binning    Thread : prepare memory mapped file for 1,264,000 traces, with nx=316, ny=80, fold=50
+2025-09-16T11:29:51     binning    Thread : started 'Bin from geometry', using 1,200 shot points
+2025-09-16T11:29:57     binning    Thread : Binning completed. Elapsed time:0:00:07 
+2025-09-16T11:29:57     binning    Thread : . . . Fold       : Min:1 - Max:40 
+2025-09-16T11:29:57     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-16T11:29:57     binning    Thread : . . . Max-offsets: Min:2113.35m - Max:6038.73m 
+2025-09-16T11:29:57     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:99.91m 
+2025-09-16T11:30:30     info       Opening: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-16T11:30:30     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-16T11:30:30     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-16T11:30:30     info       Reading: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-16T11:30:30     info       Loading: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-16T11:30:30     info       Params : D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-16T11:30:52     binning    Thread : started 'Bin from templates', using 8,364 shot points
+2025-09-16T11:30:59     binning    Thread : Binning completed. Elapsed time:0:00:07 
+2025-09-16T11:30:59     binning    Thread : . . . Fold       : Min:0 - Max:96 
+2025-09-16T11:30:59     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-16T11:30:59     binning    Thread : . . . Max-offsets: Min:5541.32m - Max:6025.05m 
+2025-09-16T11:31:36     info       Edited : D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object updated
+2025-09-16T11:31:53     binning    Thread : started 'Bin from templates', using 8,364 shot points
+2025-09-16T11:32:31     binning    Thread : Binning completed. Elapsed time:0:00:39 
+2025-09-16T11:32:31     binning    Thread : . . . Fold       : Min:0 - Max:96 
+2025-09-16T11:32:31     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-16T11:32:31     binning    Thread : . . . Max-offsets: Min:5541.32m - Max:6025.05m 
+2025-09-16T11:32:41     info       Saved  : D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-16T11:32:44     binning    Thread : prepare memory mapped file for 30,443,200 traces, with nx=718, ny=424, fold=100
+2025-09-16T11:32:44     binning    Thread : started 'Bin from templates', using 8,364 shot points
+2025-09-16T11:34:38     binning    Thread : Binning completed. Elapsed time:0:01:54 
+2025-09-16T11:34:38     binning    Thread : . . . Fold       : Min:0 - Max:96 
+2025-09-16T11:34:38     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-16T11:34:38     binning    Thread : . . . Max-offsets: Min:5541.32m - Max:6025.05m 
+2025-09-16T11:34:38     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:229.83m 
+2025-09-16T11:35:39     geometry   Thread : started 'Create Geometry from Templates', from 8,364 shot points
+2025-09-16T11:35:55     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:16 
+2025-09-16T11:37:41     binning    Thread : prepare memory mapped file for 30,443,200 traces, with nx=718, ny=424, fold=100
+2025-09-16T11:37:41     binning    Thread : started 'Bin from geometry', using 8,364 shot points
+2025-09-16T11:39:40     binning    Thread : Binning completed. Elapsed time:0:01:59 
+2025-09-16T11:39:40     binning    Thread : . . . Fold       : Min:0 - Max:96 
+2025-09-16T11:39:40     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-16T11:39:40     binning    Thread : . . . Max-offsets: Min:5541.32m - Max:6025.05m 
+2025-09-16T11:39:40     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:229.83m 
+2025-09-16T11:41:55     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-16T11:41:55     info       Params : D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 282 parameters+++
+
+2025-09-16T11:47:31     info       Parsing: survey object succesfully parsed
+2025-09-16T11:47:31     info       Params : survey object read, containing 282 parameters
+2025-09-16T11:47:31     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-16T11:47:49     info       Opening: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-09-16T11:47:49     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-09-16T11:47:49     info       Parsing: D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object succesfully parsed
+2025-09-16T11:47:49     info       Reading: D:/Roll/roll_samples/other/TripleZigzag_001.roll
+2025-09-16T11:47:49     info       Loading: D:/Roll/roll_samples/other/TripleZigzag_001.roll analysis files
+2025-09-16T11:47:50     info       Params : D:/Roll/roll_samples/other/TripleZigzag_001.roll survey object read, containing 1014 parameters
+2025-09-16T11:48:15     binning    Thread : started 'Bin from templates', using 13,824 shot points
+2025-09-16T11:49:21     binning    Thread : Binning completed. Elapsed time:0:01:07 
+2025-09-16T11:49:21     binning    Thread : . . . Fold       : Min:0 - Max:180 
+2025-09-16T11:49:21     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6372.70m 
+2025-09-16T11:49:21     binning    Thread : . . . Max-offsets: Min:4796.48m - Max:6372.70m 
+2025-09-16T11:49:34     binning    Thread : prepare memory mapped file for 53,887,680 traces, with nx=630, ny=432, fold=198
+2025-09-16T11:49:35     binning    Thread : started 'Bin from templates', using 13,824 shot points
+2025-09-16T11:49:47     error      Thread : . . . aborted binning operation
+2025-09-16T11:49:47     error      Thread : . . . binning from templates cancelled by user
+2025-09-16T11:49:54     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-16T11:49:54     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-16T11:49:54     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-16T11:49:54     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-16T11:49:54     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-16T11:49:54     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-16T11:49:54     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-16T11:49:54     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-16T11:49:54     info       Loaded : . . . offset histogram
+2025-09-16T11:49:54     info       Loaded : . . . azi-offset histogram
+2025-09-16T11:49:54     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-16T11:49:54     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-16T11:49:54     info       Loaded : . . . read 161,894 rec-records
+2025-09-16T11:49:54     info       Loaded : . . . read 51,240 src-records
+2025-09-16T11:49:54     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-16T11:49:55     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-16T11:50:04     binning    Thread : prepare memory mapped file for 671,044,500 traces, with nx=2630, ny=1215, fold=210
+2025-09-16T11:50:14     binning    Thread : started 'Bin from templates', using 51,240 shot points
+2025-09-16T12:56:42     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-16T12:56:43     binning    Thread : Binning completed. Elapsed time:1:06:29 
+2025-09-16T12:56:43     binning    Thread : . . . Fold       : Min:1 - Max:209 
+2025-09-16T12:56:43     binning    Thread : . . . Min-offsets: Min:22.36m - Max:358.47m 
+2025-09-16T12:56:43     binning    Thread : . . . Max-offsets: Min:22.36m - Max:5158.34m 
+2025-09-16T12:56:43     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:309.82m 
+2025-09-16T12:58:27     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-16T12:58:28     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-16T16:25:15     info       Parsing: survey object succesfully parsed
+2025-09-16T16:25:15     info       Params : survey object read, containing 282 parameters
+2025-09-16T16:25:15     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-16T16:25:24     info       Opening: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-16T16:25:24     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-16T16:25:24     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-16T16:25:24     info       Reading: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-16T16:25:24     info       Loading: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-16T16:25:24     info       Loaded : . . . Fold map  : Min:0 - Max:96 
+2025-09-16T16:25:24     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-09-16T16:25:24     info       Loaded : . . . Max-offset: Min:5541.32m - Max:6025.05m 
+2025-09-16T16:25:24     info       Loaded : . . . Rms-offset: Min:0.00m - Max:229.83m 
+2025-09-16T16:25:24     info       Loaded : . . . Analysis  : 30,443,200 traces (reserved space)
+2025-09-16T16:25:24     info       Loaded : . . . read 25,520 rec-records
+2025-09-16T16:25:24     info       Loaded : . . . read 8,364 src-records
+2025-09-16T16:25:24     info       Loaded : . . . read 66,912 rel-records
+2025-09-16T16:25:25     info       Params : D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-16T16:25:33     binning    Thread : prepare memory mapped file for 30,443,200 traces, with nx=718, ny=424, fold=100
+2025-09-16T16:25:34     binning    Thread : started 'Bin from templates', using 8,364 shot points
+2025-09-16T16:27:28     binning    Thread : Binning completed. Elapsed time:0:01:54 
+2025-09-16T16:27:28     binning    Thread : . . . Fold       : Min:0 - Max:96 
+2025-09-16T16:27:28     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-16T16:27:28     binning    Thread : . . . Max-offsets: Min:5541.32m - Max:6025.05m 
+2025-09-16T16:27:28     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:229.83m 
+2025-09-16T16:33:57     geometry   Thread : started 'Create Geometry from Templates', from 8,364 shot points
+2025-09-16T16:34:13     geometry   Thread : completed 'Create Geometry from Templates'. Elapsed time:0:00:17 
+2025-09-16T16:34:22     binning    Thread : prepare memory mapped file for 30,443,200 traces, with nx=718, ny=424, fold=100
+2025-09-16T16:34:22     binning    Thread : started 'Bin from geometry', using 8,364 shot points
+2025-09-16T16:36:17     binning    Thread : Binning completed. Elapsed time:0:01:55 
+2025-09-16T16:36:17     binning    Thread : . . . Fold       : Min:0 - Max:96 
+2025-09-16T16:36:17     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-16T16:36:17     binning    Thread : . . . Max-offsets: Min:5541.32m - Max:6025.05m 
+2025-09-16T16:36:17     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:229.83m 
+2025-09-16T16:36:43     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-16T16:36:43     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-16T16:36:43     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-16T16:36:43     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-16T16:36:43     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-16T16:36:43     info       Loaded : . . . Fold map  : Min:1 - Max:209 
+2025-09-16T16:36:43     info       Loaded : . . . Min-offset: Min:22.36m - Max:358.47m 
+2025-09-16T16:36:43     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-16T16:36:43     info       Loaded : . . . Rms-offset: Min:0.00m - Max:309.82m 
+2025-09-16T16:36:43     info       Loaded : . . . offset histogram
+2025-09-16T16:36:43     info       Loaded : . . . azi-offset histogram
+2025-09-16T16:36:43     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-16T16:36:43     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-16T16:36:43     info       Loaded : . . . read 161,894 rec-records
+2025-09-16T16:36:43     info       Loaded : . . . read 51,240 src-records
+2025-09-16T16:36:43     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-16T16:36:43     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-16T16:36:50     binning    Thread : prepare memory mapped file for 671,044,500 traces, with nx=2630, ny=1215, fold=210
+2025-09-16T16:37:14     binning    Thread : started 'Bin from templates', using 51,240 shot points
+2025-09-16T17:45:18     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-16T17:45:18     binning    Thread : Binning completed. Elapsed time:1:08:05 
+2025-09-16T17:45:18     binning    Thread : . . . Fold       : Min:1 - Max:209 
+2025-09-16T17:45:18     binning    Thread : . . . Min-offsets: Min:22.36m - Max:358.47m 
+2025-09-16T17:45:18     binning    Thread : . . . Max-offsets: Min:22.36m - Max:5158.34m 
+2025-09-16T17:45:18     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:309.82m 
+2025-09-16T17:48:39     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-16T17:48:40     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-16T17:48:44     info       Parsing: survey object succesfully parsed
+2025-09-16T17:48:44     info       Params : survey object read, containing 282 parameters
+2025-09-16T17:48:44     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-16T17:48:50     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-16T17:48:50     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-16T17:48:50     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-16T17:48:50     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-16T17:48:50     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-16T17:48:50     info       Loaded : . . . Fold map  : Min:1 - Max:209 
+2025-09-16T17:48:50     info       Loaded : . . . Min-offset: Min:22.36m - Max:358.47m 
+2025-09-16T17:48:50     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-16T17:48:50     info       Loaded : . . . Rms-offset: Min:0.00m - Max:309.82m 
+2025-09-16T17:48:50     info       Loaded : . . . offset histogram
+2025-09-16T17:48:50     info       Loaded : . . . azi-offset histogram
+2025-09-16T17:48:50     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-16T17:48:50     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-16T17:48:50     info       Loaded : . . . read 161,894 rec-records
+2025-09-16T17:48:50     info       Loaded : . . . read 51,240 src-records
+2025-09-16T17:48:50     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-16T17:48:50     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-16T17:50:12     binning    Thread : prepare memory mapped file for 671,044,500 traces, with nx=2630, ny=1215, fold=210
+2025-09-16T17:50:19     binning    Thread : started 'Bin from geometry', using 51,240 shot points
+2025-09-16T18:37:52     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-16T18:37:53     binning    Thread : Binning completed. Elapsed time:0:47:34 
+2025-09-16T18:37:53     binning    Thread : . . . Fold       : Min:0 - Max:209 
+2025-09-16T18:37:53     binning    Thread : . . . Min-offsets: Min:22.36m - Max:4972.05m 
+2025-09-16T18:37:53     binning    Thread : . . . Max-offsets: Min:22.36m - Max:5158.34m 
+2025-09-16T18:37:53     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:1416.25m 
+2025-09-17T00:00:13     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-17T00:00:13     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-17T11:02:13     info       Parsing: survey object succesfully parsed
+2025-09-17T11:02:13     info       Params : survey object read, containing 282 parameters
+2025-09-17T11:02:13     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-17T11:02:25     info       Parsing: survey object succesfully parsed
+2025-09-17T11:02:25     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-17T12:36:32     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-17T12:36:32     info       Parsing: survey object succesfully parsed
+2025-09-17T12:36:32     info       Params : survey object read, containing 282 parameters
+2025-09-17T12:36:39     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-17T12:36:39     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-17T12:36:39     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-17T12:36:39     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-17T12:36:40     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-17T12:36:40     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-17T12:36:40     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-17T12:36:40     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-17T12:36:40     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1416.25m 
+2025-09-17T12:36:40     info       Loaded : . . . offset histogram
+2025-09-17T12:36:40     info       Loaded : . . . azi-offset histogram
+2025-09-17T12:36:40     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-17T12:36:40     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-17T12:36:40     info       Loaded : . . . read 161,894 rec-records
+2025-09-17T12:36:40     info       Loaded : . . . read 51,240 src-records
+2025-09-17T12:36:40     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-17T12:36:40     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-17T12:36:45     binning    Thread : prepare memory mapped file for 671,044,500 traces, with nx=2630, ny=1215, fold=210
+2025-09-17T12:37:10     binning    Thread : started 'Bin from geometry', using 51,240 shot points
+2025-09-17T13:26:32     error      Loaded : . . . Analysis  : 671,044,500 traces; too large to display in Trace Table
+2025-09-17T13:26:32     binning    Thread : Binning completed. Elapsed time:0:49:22 
+2025-09-17T13:26:32     binning    Thread : . . . Fold       : Min:0 - Max:209 
+2025-09-17T13:26:32     binning    Thread : . . . Min-offsets: Min:22.36m - Max:4972.05m 
+2025-09-17T13:26:32     binning    Thread : . . . Max-offsets: Min:22.36m - Max:5158.34m 
+2025-09-17T13:26:32     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:1416.25m 
+2025-09-17T15:06:35     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-17T15:06:36     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-19T16:58:07     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T16:58:07     info       Parsing: survey object succesfully parsed
+2025-09-19T16:58:08     info       Params : survey object read, containing 282 parameters
+2025-09-19T16:58:15     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T16:58:15     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T16:58:15     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-19T16:58:15     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T16:58:15     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-19T16:58:15     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-19T16:58:15     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-19T16:58:15     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-19T16:58:15     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1416.25m 
+2025-09-19T16:58:15     info       Loaded : . . . offset histogram
+2025-09-19T16:58:15     info       Loaded : . . . azi-offset histogram
+2025-09-19T16:58:15     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-19T16:58:15     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2025-09-19T16:58:15     info       Loaded : . . . read 161,894 rec-records
+2025-09-19T16:58:15     info       Loaded : . . . read 51,240 src-records
+2025-09-19T16:58:15     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-19T16:58:16     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-19T16:59:58     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-19T16:59:58     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-19T17:00:08     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T17:00:08     info       Parsing: survey object succesfully parsed
+2025-09-19T17:00:08     info       Params : survey object read, containing 282 parameters
+2025-09-19T17:00:36     info       Opening: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T17:00:36     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T17:00:36     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T17:00:36     info       Reading: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T17:00:36     info       Loading: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T17:00:36     info       Loaded : . . . Fold map  : Min:0 - Max:96 
+2025-09-19T17:00:36     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-09-19T17:00:36     info       Loaded : . . . Max-offset: Min:5541.32m - Max:6025.05m 
+2025-09-19T17:00:36     info       Loaded : . . . Rms-offset: Min:0.00m - Max:229.83m 
+2025-09-19T17:00:36     info       Loaded : . . . Analysis  : 30,443,200 traces (reserved space)
+2025-09-19T17:00:36     info       Loaded : . . . Analysis: 30,443,200 traces available (showing 1,000,000 at a time)
+2025-09-19T17:00:36     info       Loaded : . . . read 25,520 rec-records
+2025-09-19T17:00:36     info       Loaded : . . . read 8,364 src-records
+2025-09-19T17:00:36     info       Loaded : . . . read 66,912 rel-records
+2025-09-19T17:00:36     info       Params : D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-19T17:00:53     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T17:00:53     info       Params : D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T17:04:01     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T17:04:01     info       Parsing: survey object succesfully parsed
+2025-09-19T17:04:01     info       Params : survey object read, containing 282 parameters
+2025-09-19T17:04:18     info       Parsing: survey object succesfully parsed
+2025-09-19T17:04:18     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-19T17:04:21     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T17:04:21     info       Parsing: survey object succesfully parsed
+2025-09-19T17:04:21     info       Params : survey object read, containing 282 parameters
+2025-09-19T17:04:33     info       Opening: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T17:04:33     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T17:04:33     info       Parsing: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object succesfully parsed
+2025-09-19T17:04:33     info       Reading: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll
+2025-09-19T17:04:33     info       Loading: D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll analysis files
+2025-09-19T17:04:33     info       Loaded : . . . Fold map  : Min:0 - Max:96 
+2025-09-19T17:04:33     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-09-19T17:04:33     info       Loaded : . . . Max-offset: Min:5541.32m - Max:6025.05m 
+2025-09-19T17:04:33     info       Loaded : . . . Rms-offset: Min:0.00m - Max:229.83m 
+2025-09-19T17:04:33     info       Loaded : . . . Analysis  : 30,443,200 traces (reserved space)
+2025-09-19T17:04:33     info       Loaded : . . . Analysis: 30,443,200 traces available (showing 1,000,000 at a time)
+2025-09-19T17:04:33     info       Loaded : . . . read 25,520 rec-records
+2025-09-19T17:04:33     info       Loaded : . . . read 8,364 src-records
+2025-09-19T17:04:33     info       Loaded : . . . read 66,912 rel-records
+2025-09-19T17:04:34     info       Params : D:/Roll/roll_samples/other/Abtswoudsebrug_001.roll survey object read, containing 222 parameters
+2025-09-19T17:05:07     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T17:05:07     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T17:05:07     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-19T17:05:07     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T17:05:07     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-19T17:05:07     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-19T17:05:07     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-19T17:05:07     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-19T17:05:07     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1416.25m 
+2025-09-19T17:05:07     info       Loaded : . . . offset histogram
+2025-09-19T17:05:07     info       Loaded : . . . azi-offset histogram
+2025-09-19T17:05:07     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-19T17:05:07     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2025-09-19T17:05:07     info       Loaded : . . . read 161,894 rec-records
+2025-09-19T17:05:07     info       Loaded : . . . read 51,240 src-records
+2025-09-19T17:05:07     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-19T17:05:08     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-19T17:06:34     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-19T17:06:35     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-19T17:11:48     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T17:11:48     info       Parsing: survey object succesfully parsed
+2025-09-19T17:11:48     info       Params : survey object read, containing 282 parameters
+2025-09-19T17:12:03     info       Parsing: survey object succesfully parsed
+2025-09-19T17:12:04     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-19T17:12:06     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T17:12:06     info       Parsing: survey object succesfully parsed
+2025-09-19T17:12:06     info       Params : survey object read, containing 282 parameters
+2025-09-19T17:12:16     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T17:12:16     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T17:12:16     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-19T17:12:16     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T17:12:16     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-19T17:12:16     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-19T17:12:16     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-19T17:12:16     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-19T17:12:16     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1416.25m 
+2025-09-19T17:12:16     info       Loaded : . . . offset histogram
+2025-09-19T17:12:17     info       Loaded : . . . azi-offset histogram
+2025-09-19T17:12:17     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-19T17:12:17     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2025-09-19T17:12:17     info       Loaded : . . . read 161,894 rec-records
+2025-09-19T17:12:17     info       Loaded : . . . read 51,240 src-records
+2025-09-19T17:12:17     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-19T17:12:17     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-19T17:13:33     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-19T17:13:34     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
+2025-09-19T23:07:11     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T23:07:11     info       Parsing: survey object succesfully parsed
+2025-09-19T23:07:11     info       Params : survey object read, containing 282 parameters
+2025-09-19T23:07:20     info       Parsing: survey object succesfully parsed
+2025-09-19T23:07:20     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-19T23:07:52     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T23:07:52     info       Parsing: survey object succesfully parsed
+2025-09-19T23:07:52     info       Params : survey object read, containing 282 parameters
+2025-09-19T23:08:04     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T23:08:04     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T23:08:04     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2025-09-19T23:08:04     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2025-09-19T23:08:04     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2025-09-19T23:08:04     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2025-09-19T23:08:04     info       Loaded : . . . Min-offset: Min:22.36m - Max:4972.05m 
+2025-09-19T23:08:04     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2025-09-19T23:08:05     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1416.25m 
+2025-09-19T23:08:05     info       Loaded : . . . offset histogram
+2025-09-19T23:08:05     info       Loaded : . . . azi-offset histogram
+2025-09-19T23:08:05     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2025-09-19T23:08:05     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2025-09-19T23:08:05     info       Loaded : . . . read 161,894 rec-records
+2025-09-19T23:08:05     info       Loaded : . . . read 51,240 src-records
+2025-09-19T23:08:05     info       Loaded : . . . read 1,795,499 rel-records
+2025-09-19T23:08:05     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2025-09-19T23:11:20     info       Opening: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-09-19T23:11:20     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-09-19T23:11:20     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-09-19T23:11:20     info       Reading: D:/Roll/roll_samples/brick/Brick_001.roll
+2025-09-19T23:11:20     info       Loading: D:/Roll/roll_samples/brick/Brick_001.roll analysis files
+2025-09-19T23:11:20     info       Loaded : . . . Fold map  : Min:1 - Max:40 
+2025-09-19T23:11:20     info       Loaded : . . . Min-offset: Min:35.36m - Max:6002.60m 
+2025-09-19T23:11:20     info       Loaded : . . . Max-offset: Min:2113.35m - Max:6038.73m 
+2025-09-19T23:11:20     info       Loaded : . . . Rms-offset: Min:0.00m - Max:99.91m 
+2025-09-19T23:11:20     info       Loaded : . . . Analysis  : 1,264,000 traces (reserved space)
+2025-09-19T23:11:21     info       Loaded : . . . Analysis: 1,264,000 traces available (showing 1,000,000 at a time)
+2025-09-19T23:11:21     info       Loaded : . . . read 7,506 rec-records
+2025-09-19T23:11:21     info       Loaded : . . . read 1,200 src-records
+2025-09-19T23:11:21     info       Loaded : . . . read 9,600 rel-records
+2025-09-19T23:11:21     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 364 parameters
+2025-09-19T23:12:20     info       Edited : Closing memory mapped file D:/Roll/roll_samples/brick/Brick_001.roll.ana.npy
+2025-09-19T23:12:20     info       Edited : D:/Roll/roll_samples/brick/Brick_001.roll survey object updated
+2025-09-19T23:12:30     binning    Thread : prepare memory mapped file for 948,000 traces, with nx=316, ny=60, fold=50
+2025-09-19T23:12:30     binning    Thread : started 'Bin from geometry', using 1,200 shot points
+2025-09-19T23:12:35     info       Loaded : . . . Analysis: 948,000 traces displayed in Trace Table
+2025-09-19T23:12:35     binning    Thread : Binning completed. Elapsed time:0:00:05 
+2025-09-19T23:12:35     binning    Thread : . . . Fold       : Min:1 - Max:40 
+2025-09-19T23:12:35     binning    Thread : . . . Min-offsets: Min:35.36m - Max:6002.60m 
+2025-09-19T23:12:35     binning    Thread : . . . Max-offsets: Min:2113.35m - Max:6038.73m 
+2025-09-19T23:12:35     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:99.91m 
+2025-09-19T23:13:49     info       Saved  : D:/Roll/roll_samples/brick/Brick_001.roll
+2025-09-19T23:13:49     info       Parsing: D:/Roll/roll_samples/brick/Brick_001.roll survey object succesfully parsed
+2025-09-19T23:13:50     info       Params : D:/Roll/roll_samples/brick/Brick_001.roll survey object read, containing 282 parameters+++
+
+2025-09-19T23:13:56     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-19T23:13:56     info       Parsing: survey object succesfully parsed
+2025-09-19T23:13:56     info       Params : survey object read, containing 282 parameters
+2025-09-19T23:14:46     info       Parsing: survey object succesfully parsed
+2025-09-19T23:14:46     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-26T17:45:45     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-26T17:45:45     info       Parsing: survey object succesfully parsed
+2025-09-26T17:45:46     info       Params : survey object read, containing 282 parameters
+2025-09-26T17:46:15     info       Parsing: survey object succesfully parsed
+2025-09-26T17:46:15     info       Params : survey object read, containing 282 parameters+++
+
+2025-09-27T14:40:07     info       Plugin : Started on Windows 11 v(10.0.26100)
+2025-09-27T14:40:07     info       Parsing: survey object succesfully parsed
+2025-09-27T14:40:07     info       Params : survey object read, containing 282 parameters
+2025-09-27T14:40:57     info       Parsing: survey object succesfully parsed
+2025-09-27T14:40:57     info       Params : survey object read, containing 282 parameters+++
+
