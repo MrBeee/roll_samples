@@ -24,7 +24,7 @@
     </limits>
     <reflectors>
         <plane azi="0.0" x0="150000.0" y0="450000.0" z0="-2000.0" dip="0.0"/>
-        <!--Plane equation: -0.000000·x + -0.000000·y + 1.000000·z + 2000.000000 = 0  -->
+        <!--Plane equation: -0.000000ï¿½x + -0.000000ï¿½y + 1.000000ï¿½z + 2000.000000 = 0  -->
         <!--Plane is defined in global coordinates. Subsurface corresponds with negative z-values-->
         <sphere radius="2000.0" x0="153900.0" y0="456100.0" z0="-4000.0"/>
         <!--Sphere is defined in global coordinates. Subsurface corresponds with negative z-values-->
