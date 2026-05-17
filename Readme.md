@@ -75,7 +75,7 @@ See example figure below for usage of the interaction between Roll and QGis.
 
 
 
-![](D:\Roll\roll_samples\images\foldmap.png)
+![](images\foldmap.png)
 
 Figure 1. Noordoostpolder fold map, displayed in Roll
 
