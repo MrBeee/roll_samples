@@ -3642,3 +3642,42 @@
 2026-05-06T15:03:25     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
 2026-05-06T15:03:25     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
 
+2026-05-17T13:09:10     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-17T13:09:10     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-17T13:09:10     info       Library: Numba is enabled, running in JIT mode
+2026-05-17T13:09:10     info       Parsing: survey object succesfully parsed
+2026-05-17T13:09:10     info       Params : survey object read, containing 282 parameters
+2026-05-17T13:14:50     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-05-17T13:14:50     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-05-17T13:14:50     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-05-17T13:14:50     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll, success: True
+2026-05-17T13:14:50     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2026-05-17T13:14:50     info       Loading: . . . Analysis dims: nx=2630, ny=1215, binSize=(10.000,20.000)
+2026-05-17T13:14:50     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-17T13:14:50     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-17T13:14:50     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-17T13:14:50     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-17T13:14:50     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-17T13:14:50     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-17T13:14:50     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-17T13:14:50     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-17T13:14:50     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2026-05-17T13:14:50     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2026-05-17T13:14:50     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2026-05-17T13:14:50     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1376.98m 
+2026-05-17T13:14:50     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3274.95m 
+2026-05-17T13:14:50     info       Loaded : . . . offset histogram
+2026-05-17T13:14:50     info       Loaded : . . . azi-offset histogram
+2026-05-17T13:14:50     info       Analysis load: fold=210, maxFold=209
+2026-05-17T13:14:50     info       Analysis load: nT=10736712000, expected=10736712000, delta=0
+2026-05-17T13:14:50     info       Analysis load: an2Output.shape=(671044500, 16)
+2026-05-17T13:14:50     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2026-05-17T13:14:50     info       Loaded : . . . read 161,894 rec-records
+2026-05-17T13:14:50     info       Loaded : . . . read 51,240 src-records
+2026-05-17T13:14:50     info       Loaded : . . . read 1,795,499 rel-records
+2026-05-17T13:14:50     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2026-05-17T13:14:51     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2026-05-17T13:27:47     info       Edited : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object updated
+2026-05-17T13:46:58     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-05-17T13:46:58     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters+++
+
