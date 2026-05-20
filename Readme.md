@@ -59,11 +59,11 @@ The  wells projects listed above, not only contain well-based seeds but also con
 
 
 
-#### 4.	Survey wizards
+#### 3.	Survey wizards
 
 **Land** and **marine** surveys can be created using two separate wizards, that takes you through the different steps of defining the block(s), template(s) and grow factors. 
 
-##### 4.1 Land surveys
+##### 3.1 Land surveys
 
 The land survey wizard supports various types of survey geometries. Some designs are no longer in use (e.g. brick and zigzag) but these are included for completeness.  The different types that are supported are:
 
@@ -73,7 +73,7 @@ The land survey wizard supports various types of survey geometries. Some designs
 4. Brick
 5. Zigzag
 
-##### 4.2.	Marine surveys
+##### 3.2.	Marine surveys
 
 The marine survey wizard honours minimal turning radius for the inner streamers (*using a minimal towing speed to keep the spread stable*) and a maximal turning radius for the outer streamer(s) (*based on maximum allowed towing forces the streamers can handle*).  Theory for this was developed in the thesis `Simplified Modeling of Seimic Survey Vessels to Determine Optimaal Maneuver Patterns` by Caio de Araujo Ferraz de Carvalho. Where formulas were not explicitly given, they have been reversed engineered, and checked against the numerous figures present in the thesis.
 
@@ -81,9 +81,7 @@ In a towed marine survey, there is only one shot per template as the vessel move
 
 
 
-
-
-#### 5	Noordoostpolder example
+#### 4	Noordoostpolder example
 
 This example starts with defining an orthogonal template that is converted into geometry files. These geometry files are then exported to QGIS for further editing (enabling / disabling / deletion / move points around). 
 
