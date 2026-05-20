@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<survey version="1.0">
+    <type>Marine</type>
+    <name>Marine_001</name>
+    <surveyCrs>
+        <spatialrefsys nativeFormat="Wkt">
+            <wkt>PROJCRS["ETRS89 / UTM zone 32N",BASEGEOGCRS["ETRS89",ENSEMBLE["European Terrestrial Reference System 1989 ensemble",MEMBER["European Terrestrial Reference Frame 1989"],MEMBER["European Terrestrial Reference Frame 1990"],MEMBER["European Terrestrial Reference Frame 1991"],MEMBER["European Terrestrial Reference Frame 1992"],MEMBER["European Terrestrial Reference Frame 1993"],MEMBER["European Terrestrial Reference Frame 1994"],MEMBER["European Terrestrial Reference Frame 1996"],MEMBER["European Terrestrial Reference Frame 1997"],MEMBER["European Terrestrial Reference Frame 2000"],MEMBER["European Terrestrial Reference Frame 2005"],MEMBER["European Terrestrial Reference Frame 2014"],MEMBER["European Terrestrial Reference Frame 2020"],ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[0.1]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4258]],CONVERSION["UTM zone 32N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",9,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Europe between 6°E and 12°E: Austria; Denmark - onshore and offshore; Germany - onshore and offshore; Italy - onshore and offshore; Norway including Svalbard - onshore and offshore; Spain - offshore."],BBOX[36.53,6,84.01,12.01]],USAGE[SCOPE["Pan-European conformal mapping at scales larger than 1:500,000."],AREA["Europe between 6°E and 12°E and approximately 36°30'N to 84°N."],BBOX[36.53,6,84.01,12.01]],ID["EPSG",25832]]</wkt>
+            <proj4>+proj=utm +zone=32 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+            <srsid>2105</srsid>
+            <srid>25832</srid>
+            <authid>EPSG:25832</authid>
+            <description>ETRS89 / UTM zone 32N</description>
+            <projectionacronym>utm</projectionacronym>
+            <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+        </spatialrefsys>
+    </surveyCrs>
+    <limits>
+        <output ymax="11000.0" ymin="9000.0" xmax="22500.0" xmin="20500.0"/>
+        <angles azimax="360.0" refmin="0.0" azimin="0.0" refmax="45.0"/>
+        <offset ymax="9000.0" ymin="-9000.0" xmax="9000.0" xmin="-9000.0" rmin="0.0" rmax="15000.0"/>
+        <unique apply="False" deltaoff="200.0" deltaazi="5.0" write="False"/>
+        <binning method="cmp" vint="2000.0"/>
+    </limits>
+    <reflectors>
+        <plane y0="450000.0" dip="0.0" x0="150000.0" azi="0.0" z0="-2000.0"/>
+        <!--Plane equation: -0.000000·x + -0.000000·y + 1.000000·z + 2000.000000 = 0  -->
+        <!--Plane is defined in global coordinates. Subsurface corresponds with negative z-values-->
+        <sphere radius="2000.0" y0="456100.0" x0="153900.0" z0="-4000.0"/>
+        <!--Sphere is defined in global coordinates. Subsurface corresponds with negative z-values-->
+    </reflectors>
+    <grid>
+        <local s0="1000.0" y0="12.5" ds="6.25" x0="3.125" dx="6.25" dy="25.0" l0="1000.0" dl="25.0" fold="90"/>
+        <global sy="1.0" sx="1.0" y0="0.0" x0="0.0" azi="0.0"/>
+        <!--Forward transform: A0=0.000, B0=0.000, A1=1.000000, B1=0.000000, A2=0.000000, B2=1.000000-->
+        <!--Inverse transform: A0=0.000, B0=0.000, A1=1.000000, B1=0.000000, A2=0.000000, B2=1.000000-->
+        <!--See EPSG:9624 (https://epsg.io/9624-method) for the affine parametric transform definition-->
+    </grid>
+    <block_list>
+        <block>
+            <name>Sailing Fwd-1</name>
+            <borders>
+                <src_border ymax="0.0" ymin="0.0" xmax="0.0" xmin="0.0"/>
+                <rec_border ymax="0.0" ymin="0.0" xmax="0.0" xmin="0.0"/>
+            </borders>
+            <template_list>
+                <template>
+                    <name>Tpl Fwd-1</name>
+                    <roll_list>
+                        <translate azim="90.0" n="13" dz="0.0" dx="0.0" dy="400.0" tilt="0.0"/>
+                        <translate azim="0.0" n="860" dz="0.0" dx="50.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </roll_list>
+                    <seed_list>
+                        <seed argb="#77ff8989" y0="-25.0" src="True" patno="0" typno="0" x0="200.0" azi="False" z0="-10.0">
+                            <name>Src Fwd-1</name>
+                            <grid roll="True" points="1">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                            </grid>
+                        </seed>
+                        <seed argb="#7787a4d9" y0="-350.0" src="False" patno="1" typno="0" x0="0.0" azi="False" z0="-8.0">
+                            <name>Rec Fwd</name>
+                            <grid roll="True" points="3840">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="90.0" n="8" dz="0.0" dx="0.0" dy="100.0" tilt="0.0"/>
+                                <translate azim="180.0" n="480" dz="0.004166666883975267" dx="-12.499999046325684" dy="0.0" tilt="0.019098594916848375"/>
+                            </grid>
+                        </seed>
+                    </seed_list>
+                </template>
+                <template>
+                    <name>Tpl Fwd-2</name>
+                    <roll_list>
+                        <translate azim="90.0" n="13" dz="0.0" dx="0.0" dy="400.0" tilt="0.0"/>
+                        <translate azim="0.0" n="860" dz="0.0" dx="50.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </roll_list>
+                    <seed_list>
+                        <seed argb="#77ff8989" y0="25.0" src="True" patno="0" typno="0" x0="225.0" azi="False" z0="-10.0">
+                            <name>Src Fwd-2</name>
+                            <grid roll="True" points="1">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                            </grid>
+                        </seed>
+                        <seed argb="#7787a4d9" y0="-350.0" src="False" patno="1" typno="0" x0="25.0" azi="False" z0="-8.0">
+                            <name>Rec Fwd</name>
+                            <grid roll="True" points="3840">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="90.0" n="8" dz="0.0" dx="0.0" dy="100.0" tilt="0.0"/>
+                                <translate azim="180.0" n="480" dz="0.004166666883975267" dx="-12.499999046325684" dy="0.0" tilt="0.019098594916848375"/>
+                            </grid>
+                        </seed>
+                    </seed_list>
+                </template>
+            </template_list>
+        </block>
+        <block>
+            <name>Sailing Bwd-1</name>
+            <borders>
+                <src_border ymax="0.0" ymin="0.0" xmax="0.0" xmin="0.0"/>
+                <rec_border ymax="0.0" ymin="0.0" xmax="0.0" xmin="0.0"/>
+            </borders>
+            <template_list>
+                <template>
+                    <name>Tpl Bwd-1</name>
+                    <roll_list>
+                        <translate azim="90.0" n="12" dz="0.0" dx="0.0" dy="400.0" tilt="0.0"/>
+                        <translate azim="180.0" n="860" dz="0.0" dx="-50.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </roll_list>
+                    <seed_list>
+                        <seed argb="#77ff8989" y0="5175.0" src="True" patno="0" typno="0" x0="39975.0" azi="False" z0="-10.0">
+                            <name>Src Bwd-1</name>
+                            <grid roll="True" points="1">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                            </grid>
+                        </seed>
+                        <seed argb="#7787a4d9" y0="4850.0" src="False" patno="1" typno="0" x0="40175.0" azi="False" z0="-8.0">
+                            <name>Rec Bwd</name>
+                            <grid roll="True" points="3840">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="90.0" n="8" dz="0.0" dx="0.0" dy="100.0" tilt="0.0"/>
+                                <translate azim="0.0" n="480" dz="0.004166666883975267" dx="12.499999046325684" dy="0.0" tilt="0.019098594916848375"/>
+                            </grid>
+                        </seed>
+                    </seed_list>
+                </template>
+                <template>
+                    <name>Tpl Bwd-2</name>
+                    <roll_list>
+                        <translate azim="90.0" n="12" dz="0.0" dx="0.0" dy="400.0" tilt="0.0"/>
+                        <translate azim="180.0" n="860" dz="0.0" dx="-50.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </roll_list>
+                    <seed_list>
+                        <seed argb="#77ff8989" y0="5225.0" src="True" patno="0" typno="0" x0="39950.0" azi="False" z0="-10.0">
+                            <name>Src Bwd-2</name>
+                            <grid roll="True" points="1">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                            </grid>
+                        </seed>
+                        <seed argb="#7787a4d9" y0="4850.0" src="False" patno="1" typno="0" x0="40150.0" azi="False" z0="-8.0">
+                            <name>Rec Bwd</name>
+                            <grid roll="True" points="3840">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="90.0" n="8" dz="0.0" dx="0.0" dy="100.0" tilt="0.0"/>
+                                <translate azim="0.0" n="480" dz="0.004166666883975267" dx="12.499999046325684" dy="0.0" tilt="0.019098594916848375"/>
+                            </grid>
+                        </seed>
+                    </seed_list>
+                </template>
+            </template_list>
+        </block>
+        <block>
+            <name>Sailing Bwd-2</name>
+            <borders>
+                <src_border ymax="0.0" ymin="0.0" xmax="0.0" xmin="0.0"/>
+                <rec_border ymax="0.0" ymin="0.0" xmax="0.0" xmin="0.0"/>
+            </borders>
+            <template_list>
+                <template>
+                    <name>Tpl Bwd-1</name>
+                    <roll_list>
+                        <translate azim="90.0" n="13" dz="0.0" dx="0.0" dy="400.0" tilt="0.0"/>
+                        <translate azim="180.0" n="860" dz="0.0" dx="-50.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </roll_list>
+                    <seed_list>
+                        <seed argb="#77ff8989" y0="9975.0" src="True" patno="0" typno="0" x0="39975.0" azi="False" z0="-10.0">
+                            <name>Src Bwd-1</name>
+                            <grid roll="True" points="1">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                            </grid>
+                        </seed>
+                        <seed argb="#7787a4d9" y0="9650.0" src="False" patno="1" typno="0" x0="40175.0" azi="False" z0="-8.0">
+                            <name>Rec Bwd</name>
+                            <grid roll="True" points="3840">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="90.0" n="8" dz="0.0" dx="0.0" dy="100.0" tilt="0.0"/>
+                                <translate azim="0.0" n="480" dz="0.004166666883975267" dx="12.499999046325684" dy="0.0" tilt="0.019098594916848375"/>
+                            </grid>
+                        </seed>
+                    </seed_list>
+                </template>
+                <template>
+                    <name>Tpl Bwd-2</name>
+                    <roll_list>
+                        <translate azim="90.0" n="13" dz="0.0" dx="0.0" dy="400.0" tilt="0.0"/>
+                        <translate azim="180.0" n="860" dz="0.0" dx="-50.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </roll_list>
+                    <seed_list>
+                        <seed argb="#77ff8989" y0="10025.0" src="True" patno="0" typno="0" x0="39950.0" azi="False" z0="-10.0">
+                            <name>Src Bwd-2</name>
+                            <grid roll="True" points="1">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                            </grid>
+                        </seed>
+                        <seed argb="#7787a4d9" y0="9650.0" src="False" patno="1" typno="0" x0="40150.0" azi="False" z0="-8.0">
+                            <name>Rec Bwd</name>
+                            <grid roll="True" points="3840">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="90.0" n="8" dz="0.0" dx="0.0" dy="100.0" tilt="0.0"/>
+                                <translate azim="0.0" n="480" dz="0.004166666883975267" dx="12.499999046325684" dy="0.0" tilt="0.019098594916848375"/>
+                            </grid>
+                        </seed>
+                    </seed_list>
+                </template>
+            </template_list>
+        </block>
+        <block>
+            <name>Sailing Fwd-2</name>
+            <borders>
+                <src_border ymax="0.0" ymin="0.0" xmax="0.0" xmin="0.0"/>
+                <rec_border ymax="0.0" ymin="0.0" xmax="0.0" xmin="0.0"/>
+            </borders>
+            <template_list>
+                <template>
+                    <name>Tpl Fwd-1</name>
+                    <roll_list>
+                        <translate azim="90.0" n="12" dz="0.0" dx="0.0" dy="400.0" tilt="0.0"/>
+                        <translate azim="0.0" n="860" dz="0.0" dx="50.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </roll_list>
+                    <seed_list>
+                        <seed argb="#77ff8989" y0="15175.0" src="True" patno="0" typno="0" x0="200.0" azi="False" z0="-10.0">
+                            <name>Src Fwd-1</name>
+                            <grid roll="True" points="1">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                            </grid>
+                        </seed>
+                        <seed argb="#7787a4d9" y0="14850.0" src="False" patno="1" typno="0" x0="0.0" azi="False" z0="-8.0">
+                            <name>Rec Fwd</name>
+                            <grid roll="True" points="3840">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="90.0" n="8" dz="0.0" dx="0.0" dy="100.0" tilt="0.0"/>
+                                <translate azim="180.0" n="480" dz="0.004166666883975267" dx="-12.499999046325684" dy="0.0" tilt="0.019098594916848375"/>
+                            </grid>
+                        </seed>
+                    </seed_list>
+                </template>
+                <template>
+                    <name>Tpl Fwd-2</name>
+                    <roll_list>
+                        <translate azim="90.0" n="12" dz="0.0" dx="0.0" dy="400.0" tilt="0.0"/>
+                        <translate azim="0.0" n="860" dz="0.0" dx="50.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </roll_list>
+                    <seed_list>
+                        <seed argb="#77ff8989" y0="15225.0" src="True" patno="0" typno="0" x0="225.0" azi="False" z0="-10.0">
+                            <name>Src Fwd-2</name>
+                            <grid roll="True" points="1">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                            </grid>
+                        </seed>
+                        <seed argb="#7787a4d9" y0="14850.0" src="False" patno="1" typno="0" x0="25.0" azi="False" z0="-8.0">
+                            <name>Rec Fwd</name>
+                            <grid roll="True" points="3840">
+                                <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                                <translate azim="90.0" n="8" dz="0.0" dx="0.0" dy="100.0" tilt="0.0"/>
+                                <translate azim="180.0" n="480" dz="0.004166666883975267" dx="-12.499999046325684" dy="0.0" tilt="0.019098594916848375"/>
+                            </grid>
+                        </seed>
+                    </seed_list>
+                </template>
+            </template_list>
+        </block>
+    </block_list>
+    <pattern_list>
+        <pattern>
+            <name>airgun-array</name>
+            <seed_list>
+                <seed argb="#ffff0000" y0="-15.0" x0="-6.0" azi="False" z0="0.0">
+                    <name>seed-1</name>
+                    <grid roll="True" points="15">
+                        <translate azim="0.0" n="5" dz="0.0" dx="3.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="90.0" n="3" dz="0.0" dx="0.0" dy="15.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </grid>
+                </seed>
+            </seed_list>
+        </pattern>
+        <pattern>
+            <name>streamer-group</name>
+            <seed_list>
+                <seed argb="#ff0000ff" y0="-0.0" x0="-5.2" azi="False" z0="0.0">
+                    <name>seed-1</name>
+                    <grid roll="True" points="6">
+                        <translate azim="0.0" n="6" dz="0.0" dx="2.0799999237060547" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                        <translate azim="0.0" n="1" dz="0.0" dx="0.0" dy="0.0" tilt="0.0"/>
+                    </grid>
+                </seed>
+            </seed_list>
+        </pattern>
+    </pattern_list>
+</survey>

@@ -7518,3 +7518,776 @@
 2026-05-16T15:10:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
 2026-05-16T15:10:29     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
 
+2026-05-18T10:28:45     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-18T10:28:45     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-18T10:28:45     info       Library: Numba is enabled, running in JIT mode
+2026-05-18T10:28:45     info       Parsing: survey object succesfully parsed
+2026-05-18T10:28:45     info       Params : survey object read, containing 282 parameters
+2026-05-18T10:44:45     info       Opening: D:/Roll/roll_samples/wells/VSP-spiral-well.roll
+2026-05-18T10:44:45     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll
+2026-05-18T10:44:45     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object succesfully parsed
+2026-05-18T10:44:45     info       Reading: D:/Roll/roll_samples/wells/VSP-spiral-well.roll, success: True
+2026-05-18T10:44:45     info       Loading: D:/Roll/roll_samples/wells/VSP-spiral-well.roll analysis files
+2026-05-18T10:44:45     info       Loading: . . . Analysis dims: nx=124, ny=100, binSize=(25.000,25.000)
+2026-05-18T10:44:45     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T10:44:45     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T10:44:45     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T10:44:45     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T10:44:45     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T10:44:45     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T10:44:45     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T10:44:45     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T10:44:45     info       Loaded : . . . Fold map  : Min:0 - Max:49 
+2026-05-18T10:44:45     info       Loaded : . . . Min-offset: Min:10.07m - Max:2560.83m 
+2026-05-18T10:44:45     info       Loaded : . . . Max-offset: Min:168.09m - Max:2839.45m 
+2026-05-18T10:44:45     info       Loaded : . . . Rms-offset: Min:0.00m - Max:437.06m 
+2026-05-18T10:44:45     info       Loaded : . . . Max-gap   : Min:0.00m - Max:1206.65m 
+2026-05-18T10:44:45     info       Loaded : . . . offset histogram
+2026-05-18T10:44:45     info       Loaded : . . . azi-offset histogram
+2026-05-18T10:44:45     info       Analysis load: fold=50, maxFold=49
+2026-05-18T10:44:45     info       Analysis load: nT=9920000, expected=9920000, delta=0
+2026-05-18T10:44:45     info       Analysis load: an2Output.shape=(620000, 16)
+2026-05-18T10:44:45     info       Loaded : . . . Analysis  : 620,000 traces (reserved space)
+2026-05-18T10:44:45     info       Loaded : . . . read 57 rec-records
+2026-05-18T10:44:45     info       Loaded : . . . read 1,180 src-records
+2026-05-18T10:44:45     info       Loaded : . . . read 41,300 rel-records
+2026-05-18T10:44:45     info       Loaded : . . . Analysis: 620,000 traces displayed in Trace Table
+2026-05-18T10:44:47     info       Params : D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object read, containing 518 parameters
+2026-05-18T10:45:12     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T10:45:12     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T10:45:12     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T10:45:12     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2026-05-18T10:45:12     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2026-05-18T10:45:12     info       Loading: . . . Analysis dims: nx=160, ny=160, binSize=(25.000,25.000)
+2026-05-18T10:45:12     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T10:45:12     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T10:45:12     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T10:45:12     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T10:45:12     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T10:45:12     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T10:45:12     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T10:45:12     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T10:45:12     info       Loaded : . . . Fold map  : Min:0 - Max:7860 
+2026-05-18T10:45:12     info       Loaded : . . . Min-offset: Min:1.92m - Max:5337.25m 
+2026-05-18T10:45:12     info       Loaded : . . . Max-offset: Min:114.21m - Max:5999.99m 
+2026-05-18T10:45:12     info       Loaded : . . . Rms-offset: Min:0.00m - Max:541.87m 
+2026-05-18T10:45:12     info       Loaded : . . . Max-gap   : Min:0.00m - Max:2309.14m 
+2026-05-18T10:45:12     info       Loaded : . . . offset histogram
+2026-05-18T10:45:12     info       Loaded : . . . azi-offset histogram
+2026-05-18T10:45:12     info       Analysis load: fold=50, maxFold=7860
+2026-05-18T10:45:12     info       Analysis load: nT=20480000, expected=20480000, delta=0
+2026-05-18T10:45:12     info       Analysis load: an2Output.shape=(1280000, 16)
+2026-05-18T10:45:12     info       Loaded : . . . Analysis  : observed fold in binning file: 7,860. This is larger than allowed in the trace table (50), expect missing traces in spider plot !
+2026-05-18T10:45:12     info       Loaded : . . . Analysis  : 1,280,000 traces (reserved space)
+2026-05-18T10:45:12     info       Loaded : . . . read 4,526 rec-records
+2026-05-18T10:45:12     info       Loaded : . . . read 200 src-records
+2026-05-18T10:45:12     info       Loaded : . . . read 177,000 rel-records
+2026-05-18T10:45:12     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T10:45:14     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2026-05-18T10:59:12     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T10:59:38     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T10:59:56     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T11:00:13     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T11:00:19     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T11:00:23     info       Saved  : D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:00:32     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:00:32     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2026-05-18T11:00:38     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-18T11:00:38     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-18T11:00:38     info       Library: Numba is enabled, running in JIT mode
+2026-05-18T11:00:38     info       Parsing: survey object succesfully parsed
+2026-05-18T11:00:38     info       Params : survey object read, containing 282 parameters
+2026-05-18T11:00:42     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:00:42     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:00:43     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:00:43     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2026-05-18T11:00:43     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2026-05-18T11:00:43     info       Loading: . . . Analysis dims: nx=160, ny=160, binSize=(25.000,25.000)
+2026-05-18T11:00:43     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T11:00:43     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T11:00:43     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T11:00:43     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T11:00:43     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T11:00:43     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T11:00:43     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T11:00:43     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T11:00:43     info       Loaded : . . . Fold map  : Min:0 - Max:7860 
+2026-05-18T11:00:43     info       Loaded : . . . Min-offset: Min:1.92m - Max:5337.25m 
+2026-05-18T11:00:43     info       Loaded : . . . Max-offset: Min:114.21m - Max:5999.99m 
+2026-05-18T11:00:43     info       Loaded : . . . Rms-offset: Min:0.00m - Max:541.87m 
+2026-05-18T11:00:43     info       Loaded : . . . Max-gap   : Min:0.00m - Max:2309.14m 
+2026-05-18T11:00:43     info       Loaded : . . . offset histogram
+2026-05-18T11:00:43     info       Loaded : . . . azi-offset histogram
+2026-05-18T11:00:43     info       Analysis load: fold=50, maxFold=7860
+2026-05-18T11:00:43     info       Analysis load: nT=20480000, expected=20480000, delta=0
+2026-05-18T11:00:43     info       Analysis load: an2Output.shape=(1280000, 16)
+2026-05-18T11:00:43     info       Loaded : . . . Analysis  : observed fold in binning file: 7,860. This is larger than allowed in the trace table (50), expect missing traces in spider plot !
+2026-05-18T11:00:43     info       Loaded : . . . Analysis  : 1,280,000 traces (reserved space)
+2026-05-18T11:00:43     info       Loaded : . . . read 4,526 rec-records
+2026-05-18T11:00:43     info       Loaded : . . . read 200 src-records
+2026-05-18T11:00:43     info       Loaded : . . . read 177,000 rel-records
+2026-05-18T11:00:43     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:00:44     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2026-05-18T11:01:54     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:01:54     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2026-05-18T11:01:59     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-18T11:01:59     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-18T11:01:59     info       Library: Numba is enabled, running in JIT mode
+2026-05-18T11:01:59     info       Parsing: survey object succesfully parsed
+2026-05-18T11:01:59     info       Params : survey object read, containing 282 parameters
+2026-05-18T11:02:08     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:02:08     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:02:08     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:02:08     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2026-05-18T11:02:08     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2026-05-18T11:02:08     info       Loading: . . . Analysis dims: nx=160, ny=160, binSize=(25.000,25.000)
+2026-05-18T11:02:08     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T11:02:08     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T11:02:08     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T11:02:08     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T11:02:08     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T11:02:08     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T11:02:08     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T11:02:08     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T11:02:08     info       Loaded : . . . Fold map  : Min:0 - Max:7860 
+2026-05-18T11:02:08     info       Loaded : . . . Min-offset: Min:1.92m - Max:5337.25m 
+2026-05-18T11:02:08     info       Loaded : . . . Max-offset: Min:114.21m - Max:5999.99m 
+2026-05-18T11:02:08     info       Loaded : . . . Rms-offset: Min:0.00m - Max:541.87m 
+2026-05-18T11:02:08     info       Loaded : . . . Max-gap   : Min:0.00m - Max:2309.14m 
+2026-05-18T11:02:08     info       Loaded : . . . offset histogram
+2026-05-18T11:02:08     info       Loaded : . . . azi-offset histogram
+2026-05-18T11:02:08     info       Analysis load: fold=50, maxFold=7860
+2026-05-18T11:02:08     info       Analysis load: nT=20480000, expected=20480000, delta=0
+2026-05-18T11:02:08     info       Analysis load: an2Output.shape=(1280000, 16)
+2026-05-18T11:02:08     info       Loaded : . . . Analysis  : observed fold in binning file: 7,860. This is larger than allowed in the trace table (50), expect missing traces in spider plot !
+2026-05-18T11:02:08     info       Loaded : . . . Analysis  : 1,280,000 traces (reserved space)
+2026-05-18T11:02:08     info       Loaded : . . . read 4,526 rec-records
+2026-05-18T11:02:08     info       Loaded : . . . read 200 src-records
+2026-05-18T11:02:08     info       Loaded : . . . read 177,000 rel-records
+2026-05-18T11:02:08     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:02:10     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2026-05-18T11:06:06     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:06:07     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2026-05-18T11:06:11     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-18T11:06:11     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-18T11:06:11     info       Library: Numba is enabled, running in JIT mode
+2026-05-18T11:06:11     info       Parsing: survey object succesfully parsed
+2026-05-18T11:06:11     info       Params : survey object read, containing 282 parameters
+2026-05-18T11:06:16     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:06:16     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:06:16     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:06:16     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2026-05-18T11:06:16     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2026-05-18T11:06:16     info       Loading: . . . Analysis dims: nx=160, ny=160, binSize=(25.000,25.000)
+2026-05-18T11:06:16     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T11:06:16     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T11:06:16     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T11:06:16     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T11:06:16     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T11:06:16     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T11:06:16     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T11:06:16     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T11:06:16     info       Loaded : . . . Fold map  : Min:0 - Max:7860 
+2026-05-18T11:06:16     info       Loaded : . . . Min-offset: Min:1.92m - Max:5337.25m 
+2026-05-18T11:06:16     info       Loaded : . . . Max-offset: Min:114.21m - Max:5999.99m 
+2026-05-18T11:06:16     info       Loaded : . . . Rms-offset: Min:0.00m - Max:541.87m 
+2026-05-18T11:06:16     info       Loaded : . . . Max-gap   : Min:0.00m - Max:2309.14m 
+2026-05-18T11:06:16     info       Loaded : . . . offset histogram
+2026-05-18T11:06:16     info       Loaded : . . . azi-offset histogram
+2026-05-18T11:06:16     info       Analysis load: fold=50, maxFold=7860
+2026-05-18T11:06:16     info       Analysis load: nT=20480000, expected=20480000, delta=0
+2026-05-18T11:06:16     info       Analysis load: an2Output.shape=(1280000, 16)
+2026-05-18T11:06:16     info       Loaded : . . . Analysis  : observed fold in binning file: 7,860. This is larger than allowed in the trace table (50), expect missing traces in spider plot !
+2026-05-18T11:06:16     info       Loaded : . . . Analysis  : 1,280,000 traces (reserved space)
+2026-05-18T11:06:16     info       Loaded : . . . read 4,526 rec-records
+2026-05-18T11:06:16     info       Loaded : . . . read 200 src-records
+2026-05-18T11:06:16     info       Loaded : . . . read 177,000 rel-records
+2026-05-18T11:06:16     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:06:17     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2026-05-18T11:08:26     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T11:12:46     info       Saved  : D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:12:46     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:12:47     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2026-05-18T11:13:12     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-18T11:13:12     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-18T11:13:12     info       Library: Numba is enabled, running in JIT mode
+2026-05-18T11:13:12     info       Parsing: survey object succesfully parsed
+2026-05-18T11:13:12     info       Params : survey object read, containing 282 parameters
+2026-05-18T11:13:17     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:13:17     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:13:17     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:13:17     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2026-05-18T11:13:17     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2026-05-18T11:13:17     info       Loading: . . . Analysis dims: nx=160, ny=160, binSize=(25.000,25.000)
+2026-05-18T11:13:17     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T11:13:17     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T11:13:17     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T11:13:17     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T11:13:17     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T11:13:17     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T11:13:17     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T11:13:17     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T11:13:17     info       Loaded : . . . Fold map  : Min:0 - Max:7860 
+2026-05-18T11:13:17     info       Loaded : . . . Min-offset: Min:1.92m - Max:5337.25m 
+2026-05-18T11:13:17     info       Loaded : . . . Max-offset: Min:114.21m - Max:5999.99m 
+2026-05-18T11:13:17     info       Loaded : . . . Rms-offset: Min:0.00m - Max:541.87m 
+2026-05-18T11:13:17     info       Loaded : . . . Max-gap   : Min:0.00m - Max:2309.14m 
+2026-05-18T11:13:17     info       Loaded : . . . offset histogram
+2026-05-18T11:13:17     info       Loaded : . . . azi-offset histogram
+2026-05-18T11:13:17     info       Analysis load: fold=50, maxFold=7860
+2026-05-18T11:13:17     info       Analysis load: nT=20480000, expected=20480000, delta=0
+2026-05-18T11:13:17     info       Analysis load: an2Output.shape=(1280000, 16)
+2026-05-18T11:13:17     info       Loaded : . . . Analysis  : observed fold in binning file: 7,860. This is larger than allowed in the trace table (50), expect missing traces in spider plot !
+2026-05-18T11:13:17     info       Loaded : . . . Analysis  : 1,280,000 traces (reserved space)
+2026-05-18T11:13:17     info       Loaded : . . . read 4,526 rec-records
+2026-05-18T11:13:17     info       Loaded : . . . read 200 src-records
+2026-05-18T11:13:17     info       Loaded : . . . read 177,000 rel-records
+2026-05-18T11:13:17     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:13:18     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2026-05-18T11:14:04     binning    Starting full binning from templates; preparing worker thread...
+2026-05-18T11:14:04     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T11:14:04     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T11:14:04     binning    Thread : Started 'Bin from templates', using 154,000 shot points
+2026-05-18T11:14:04     binning    Method : useExperimental=False -> binTemplate8, fullAnalysis=True
+2026-05-18T11:18:13     binning    Thread : Binning completed. Elapsed time:0:04:09 
+2026-05-18T11:18:13     binning    Thread : . . . Fold       : Min:0 - Max:21048 
+2026-05-18T11:18:13     binning    Thread : . . . Min-offsets: Min:1.92m - Max:5337.25m 
+2026-05-18T11:18:13     binning    Thread : . . . Max-offsets: Min:114.21m - Max:5999.99m 
+2026-05-18T11:18:13     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:541.87m 
+2026-05-18T11:18:13     binning    Thread : . . . Max-gap   : Min:0.00m - Max:2309.14m 
+2026-05-18T11:18:13     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:20:57     geometry   Starting geometry creation from templates; preparing worker thread...
+2026-05-18T11:20:57     geometry   Thread : Started 'Create Geometry from Templates', from 154,000 shot points
+2026-05-18T11:21:22     geometry   Thread : Completed 'Create Geometry from Templates'. Elapsed time:0:00:26 
+2026-05-18T11:30:37     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:30:38     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2026-05-18T11:30:43     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-18T11:30:43     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-18T11:30:43     info       Library: Numba is enabled, running in JIT mode
+2026-05-18T11:30:43     info       Parsing: survey object succesfully parsed
+2026-05-18T11:30:43     info       Params : survey object read, containing 282 parameters
+2026-05-18T11:30:56     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:30:56     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:30:56     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T11:30:56     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2026-05-18T11:30:56     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2026-05-18T11:30:56     info       Loading: . . . Analysis dims: nx=160, ny=160, binSize=(25.000,25.000)
+2026-05-18T11:30:56     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T11:30:56     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T11:30:56     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T11:30:56     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T11:30:56     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T11:30:56     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T11:30:56     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T11:30:56     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T11:30:56     info       Loaded : . . . Fold map  : Min:0 - Max:21048 
+2026-05-18T11:30:56     info       Loaded : . . . Min-offset: Min:1.92m - Max:5337.25m 
+2026-05-18T11:30:56     info       Loaded : . . . Max-offset: Min:114.21m - Max:5999.99m 
+2026-05-18T11:30:56     info       Loaded : . . . Rms-offset: Min:0.00m - Max:541.87m 
+2026-05-18T11:30:56     info       Loaded : . . . Max-gap   : Min:0.00m - Max:2309.14m 
+2026-05-18T11:30:56     info       Loaded : . . . offset histogram
+2026-05-18T11:30:56     info       Loaded : . . . azi-offset histogram
+2026-05-18T11:30:56     info       Analysis load: fold=50, maxFold=21048
+2026-05-18T11:30:56     info       Analysis load: nT=20480000, expected=20480000, delta=0
+2026-05-18T11:30:56     info       Analysis load: an2Output.shape=(1280000, 16)
+2026-05-18T11:30:56     info       Loaded : . . . Analysis  : observed fold in binning file: 21,048. This is larger than allowed in the trace table (50), expect missing traces in spider plot !
+2026-05-18T11:30:56     info       Loaded : . . . Analysis  : 1,280,000 traces (reserved space)
+2026-05-18T11:30:56     info       Loaded : . . . read 2,037 rec-records
+2026-05-18T11:30:56     info       Loaded : . . . read 154,000 src-records
+2026-05-18T11:30:56     info       Loaded : . . . read 6,622,000 rel-records
+2026-05-18T11:30:56     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:30:58     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2026-05-18T11:31:03     geometry   Starting geometry creation from templates; preparing worker thread...
+2026-05-18T11:31:03     geometry   Thread : Started 'Create Geometry from Templates', from 154,000 shot points
+2026-05-18T11:31:32     geometry   Thread : Completed 'Create Geometry from Templates'. Elapsed time:0:00:30 
+2026-05-18T11:34:35     binning    Starting full binning from templates; preparing worker thread...
+2026-05-18T11:34:35     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T11:34:35     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T11:34:35     binning    Thread : Started 'Bin from templates', using 154,000 shot points
+2026-05-18T11:34:35     binning    Method : useExperimental=False -> binTemplate8, fullAnalysis=True
+2026-05-18T11:39:06     binning    Thread : Binning completed. Elapsed time:0:04:31 
+2026-05-18T11:39:06     binning    Thread : . . . Fold       : Min:0 - Max:23880 
+2026-05-18T11:39:06     binning    Thread : . . . Min-offsets: Min:1.92m - Max:5337.25m 
+2026-05-18T11:39:06     binning    Thread : . . . Max-offsets: Min:114.21m - Max:5999.99m 
+2026-05-18T11:39:06     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:541.87m 
+2026-05-18T11:39:06     binning    Thread : . . . Max-gap   : Min:0.00m - Max:2309.14m 
+2026-05-18T11:39:06     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:43:59     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T11:44:39     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T11:45:49     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T11:46:00     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T11:46:12     binning    Starting full binning from templates; preparing worker thread...
+2026-05-18T11:46:12     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T11:46:12     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T11:46:12     binning    Thread : Started 'Bin from templates', using 3,080 shot points
+2026-05-18T11:46:13     binning    Method : useExperimental=False -> binTemplate8, fullAnalysis=True
+2026-05-18T11:46:32     binning    Thread : Binning completed. Elapsed time:0:00:20 
+2026-05-18T11:46:32     binning    Thread : . . . Fold       : Min:0 - Max:935 
+2026-05-18T11:46:32     binning    Thread : . . . Min-offsets: Min:0.93m - Max:4637.28m 
+2026-05-18T11:46:32     binning    Thread : . . . Max-offsets: Min:114.21m - Max:6000.00m 
+2026-05-18T11:46:32     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:834.04m 
+2026-05-18T11:46:32     binning    Thread : . . . Max-gap   : Min:0.00m - Max:2269.83m 
+2026-05-18T11:46:32     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:49:16     info       Edited : D:/Roll/roll_samples/wells/Wells-well.roll survey object updated
+2026-05-18T11:49:27     binning    Starting full binning from templates; preparing worker thread...
+2026-05-18T11:49:27     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T11:49:27     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T11:49:27     binning    Thread : Started 'Bin from templates', using 3,080 shot points
+2026-05-18T11:49:28     binning    Method : useExperimental=False -> binTemplate8, fullAnalysis=True
+2026-05-18T11:49:46     binning    Thread : Binning completed. Elapsed time:0:00:19 
+2026-05-18T11:49:46     binning    Thread : . . . Fold       : Min:0 - Max:1698 
+2026-05-18T11:49:46     binning    Thread : . . . Min-offsets: Min:1.15m - Max:5219.26m 
+2026-05-18T11:49:46     binning    Thread : . . . Max-offsets: Min:361.68m - Max:6000.00m 
+2026-05-18T11:49:46     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:457.82m 
+2026-05-18T11:49:46     binning    Thread : . . . Max-gap   : Min:0.00m - Max:2723.49m 
+2026-05-18T11:49:46     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:51:57     info       Saved  : D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T11:52:35     geometry   Starting geometry creation from templates; preparing worker thread...
+2026-05-18T11:52:35     geometry   Thread : Started 'Create Geometry from Templates', from 3,080 shot points
+2026-05-18T11:52:36     geometry   Thread : Completed 'Create Geometry from Templates'. Elapsed time:0:00:01 
+2026-05-18T11:52:56     binning    Starting full binning from geometry; preparing worker thread...
+2026-05-18T11:52:56     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T11:52:56     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T11:52:56     binning    Thread : Started 'Bin from geometry', using 3,080 shot points
+2026-05-18T11:52:56     binning    Method : useExperimental=False, hasRel=True -> binFromGeometry8, fullAnalysis=True
+2026-05-18T11:53:19     binning    Thread : Binning completed. Elapsed time:0:00:24 
+2026-05-18T11:53:19     binning    Thread : . . . Fold       : Min:0 - Max:1666 
+2026-05-18T11:53:19     binning    Thread : . . . Min-offsets: Min:1.15m - Max:5219.26m 
+2026-05-18T11:53:19     binning    Thread : . . . Max-offsets: Min:361.68m - Max:6000.00m 
+2026-05-18T11:53:19     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:84.56m 
+2026-05-18T11:53:19     binning    Thread : . . . Max-gap   : Min:0.00m - Max:3265.95m 
+2026-05-18T11:53:20     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T11:55:02     geometry   Starting geometry creation from templates; preparing worker thread...
+2026-05-18T11:55:02     geometry   Thread : Started 'Create Geometry from Templates', from 3,080 shot points
+2026-05-18T11:55:02     geometry   Thread : Completed 'Create Geometry from Templates'. Elapsed time:0:00:01 
+2026-05-18T11:55:09     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:12     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:12     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:13     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:13     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:14     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:14     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:15     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:15     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:15     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:15     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:17     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:17     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:17     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:17     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:18     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:18     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:20     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:20     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:21     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:21     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:22     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:22     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:45     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:45     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:46     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:46     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:47     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:47     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:48     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:48     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:51     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:51     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:52     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T11:55:52     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-18T12:08:09     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T12:08:10     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2026-05-18T12:45:44     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-18T12:45:44     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-18T12:45:44     info       Library: Numba is enabled, running in JIT mode
+2026-05-18T12:45:44     info       Parsing: survey object succesfully parsed
+2026-05-18T12:45:44     info       Params : survey object read, containing 282 parameters
+2026-05-18T12:45:48     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T12:45:48     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T12:45:48     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T12:45:48     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2026-05-18T12:45:48     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2026-05-18T12:45:48     info       Loading: . . . Analysis dims: nx=160, ny=160, binSize=(25.000,25.000)
+2026-05-18T12:45:48     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T12:45:48     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T12:45:48     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T12:45:48     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T12:45:48     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T12:45:48     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T12:45:48     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T12:45:48     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T12:45:48     info       Loaded : . . . Fold map  : Min:0 - Max:1666 
+2026-05-18T12:45:48     info       Loaded : . . . Min-offset: Min:1.15m - Max:5219.26m 
+2026-05-18T12:45:48     info       Loaded : . . . Max-offset: Min:361.68m - Max:6000.00m 
+2026-05-18T12:45:48     info       Loaded : . . . Rms-offset: Min:0.00m - Max:84.56m 
+2026-05-18T12:45:48     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3265.95m 
+2026-05-18T12:45:48     info       Loaded : . . . offset histogram
+2026-05-18T12:45:48     info       Loaded : . . . azi-offset histogram
+2026-05-18T12:45:48     info       Analysis load: fold=50, maxFold=1666
+2026-05-18T12:45:48     info       Analysis load: nT=20480000, expected=20480000, delta=0
+2026-05-18T12:45:48     info       Analysis load: an2Output.shape=(1280000, 16)
+2026-05-18T12:45:48     info       Loaded : . . . Analysis  : observed fold in binning file: 1,666. This is larger than allowed in the trace table (50), expect missing traces in spider plot !
+2026-05-18T12:45:48     info       Loaded : . . . Analysis  : 1,280,000 traces (reserved space)
+2026-05-18T12:45:48     info       Loaded : . . . read 3,000 rec-records
+2026-05-18T12:45:48     info       Loaded : . . . read 3,080 src-records
+2026-05-18T12:45:48     info       Loaded : . . . read 80,080 rel-records
+2026-05-18T12:45:48     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T12:45:49     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2026-05-18T12:45:51     geometry   Starting geometry creation from templates; preparing worker thread...
+2026-05-18T12:45:51     geometry   Thread : Started 'Create Geometry from Templates', from 3,080 shot points
+2026-05-18T12:45:52     geometry   Thread : Completed 'Create Geometry from Templates'. Elapsed time:0:00:01 
+2026-05-18T12:47:56     binning    Starting full binning from templates; preparing worker thread...
+2026-05-18T12:47:56     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T12:47:56     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T12:47:56     binning    Thread : Started 'Bin from templates', using 3,080 shot points
+2026-05-18T12:47:56     binning    Method : useExperimental=False -> binTemplate8, fullAnalysis=True
+2026-05-18T12:48:15     binning    Thread : Binning completed. Elapsed time:0:00:20 
+2026-05-18T12:48:15     binning    Thread : . . . Fold       : Min:0 - Max:1698 
+2026-05-18T12:48:15     binning    Thread : . . . Min-offsets: Min:1.15m - Max:5219.26m 
+2026-05-18T12:48:15     binning    Thread : . . . Max-offsets: Min:361.68m - Max:6000.00m 
+2026-05-18T12:48:15     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:457.82m 
+2026-05-18T12:48:15     binning    Thread : . . . Max-gap   : Min:0.00m - Max:2723.49m 
+2026-05-18T12:48:15     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T12:48:39     binning    Starting full binning from geometry; preparing worker thread...
+2026-05-18T12:48:39     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T12:48:40     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T12:48:40     binning    Thread : Started 'Bin from geometry', using 3,080 shot points
+2026-05-18T12:48:40     binning    Method : useExperimental=False, hasRel=True -> binFromGeometry8, fullAnalysis=True
+2026-05-18T12:49:09     binning    Thread : Binning completed. Elapsed time:0:00:30 
+2026-05-18T12:49:09     binning    Thread : . . . Fold       : Min:0 - Max:1698 
+2026-05-18T12:49:09     binning    Thread : . . . Min-offsets: Min:1.15m - Max:5219.26m 
+2026-05-18T12:49:09     binning    Thread : . . . Max-offsets: Min:361.68m - Max:6000.00m 
+2026-05-18T12:49:09     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:457.82m 
+2026-05-18T12:49:09     binning    Thread : . . . Max-gap   : Min:0.00m - Max:3265.95m 
+2026-05-18T12:49:09     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T13:24:36     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T13:24:37     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2026-05-18T13:24:41     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-18T13:24:41     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-18T13:24:41     info       Library: Numba is enabled, running in JIT mode
+2026-05-18T13:24:41     info       Parsing: survey object succesfully parsed
+2026-05-18T13:24:41     info       Params : survey object read, containing 282 parameters
+2026-05-18T13:24:45     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T13:24:45     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T13:24:45     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T13:24:45     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2026-05-18T13:24:46     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2026-05-18T13:24:46     info       Loading: . . . Analysis dims: nx=160, ny=160, binSize=(25.000,25.000)
+2026-05-18T13:24:46     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T13:24:46     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T13:24:46     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T13:24:46     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T13:24:46     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T13:24:46     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T13:24:46     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T13:24:46     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T13:24:46     info       Loaded : . . . Fold map  : Min:0 - Max:1698 
+2026-05-18T13:24:46     info       Loaded : . . . Min-offset: Min:1.15m - Max:5219.26m 
+2026-05-18T13:24:46     info       Loaded : . . . Max-offset: Min:361.68m - Max:6000.00m 
+2026-05-18T13:24:46     info       Loaded : . . . Rms-offset: Min:0.00m - Max:457.82m 
+2026-05-18T13:24:46     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3265.95m 
+2026-05-18T13:24:46     info       Loaded : . . . offset histogram
+2026-05-18T13:24:46     info       Loaded : . . . azi-offset histogram
+2026-05-18T13:24:46     info       Analysis load: fold=50, maxFold=1698
+2026-05-18T13:24:46     info       Analysis load: nT=20480000, expected=20480000, delta=0
+2026-05-18T13:24:46     info       Analysis load: an2Output.shape=(1280000, 16)
+2026-05-18T13:24:46     info       Loaded : . . . Analysis  : observed fold in binning file: 1,698. This is larger than allowed in the trace table (50), expect missing traces in spider plot !
+2026-05-18T13:24:46     info       Loaded : . . . Analysis  : 1,280,000 traces (reserved space)
+2026-05-18T13:24:46     info       Loaded : . . . read 3,057 rec-records
+2026-05-18T13:24:46     info       Loaded : . . . read 3,080 src-records
+2026-05-18T13:24:46     info       Loaded : . . . read 184,800 rel-records
+2026-05-18T13:24:46     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T13:24:47     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2026-05-18T13:24:59     geometry   Starting geometry creation from templates; preparing worker thread...
+2026-05-18T13:24:59     geometry   Thread : Started 'Create Geometry from Templates', from 3,080 shot points
+2026-05-18T13:24:59     geometry   Geometry: useExperimental=False -> geomTemplate4
+2026-05-18T13:25:00     geometry   Thread : Completed 'Create Geometry from Templates'. Elapsed time:0:00:01 
+2026-05-18T13:26:20     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T13:26:20     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2026-05-18T13:26:24     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-18T13:26:24     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-18T13:26:24     info       Library: Numba is enabled, running in JIT mode
+2026-05-18T13:26:24     info       Parsing: survey object succesfully parsed
+2026-05-18T13:26:24     info       Params : survey object read, containing 282 parameters
+2026-05-18T13:26:28     info       Opening: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T13:26:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll
+2026-05-18T13:26:28     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T13:26:28     info       Reading: D:/Roll/roll_samples/wells/Wells-well.roll, success: True
+2026-05-18T13:26:28     info       Loading: D:/Roll/roll_samples/wells/Wells-well.roll analysis files
+2026-05-18T13:26:28     info       Loading: . . . Analysis dims: nx=160, ny=160, binSize=(25.000,25.000)
+2026-05-18T13:26:28     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-18T13:26:28     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-18T13:26:28     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-18T13:26:28     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-18T13:26:28     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-18T13:26:28     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-18T13:26:28     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-18T13:26:28     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-18T13:26:28     info       Loaded : . . . Fold map  : Min:0 - Max:1698 
+2026-05-18T13:26:28     info       Loaded : . . . Min-offset: Min:1.15m - Max:5219.26m 
+2026-05-18T13:26:28     info       Loaded : . . . Max-offset: Min:361.68m - Max:6000.00m 
+2026-05-18T13:26:28     info       Loaded : . . . Rms-offset: Min:0.00m - Max:457.82m 
+2026-05-18T13:26:28     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3265.95m 
+2026-05-18T13:26:28     info       Loaded : . . . offset histogram
+2026-05-18T13:26:28     info       Loaded : . . . azi-offset histogram
+2026-05-18T13:26:28     info       Analysis load: fold=50, maxFold=1698
+2026-05-18T13:26:28     info       Analysis load: nT=20480000, expected=20480000, delta=0
+2026-05-18T13:26:28     info       Analysis load: an2Output.shape=(1280000, 16)
+2026-05-18T13:26:28     info       Loaded : . . . Analysis  : observed fold in binning file: 1,698. This is larger than allowed in the trace table (50), expect missing traces in spider plot !
+2026-05-18T13:26:28     info       Loaded : . . . Analysis  : 1,280,000 traces (reserved space)
+2026-05-18T13:26:28     info       Loaded : . . . read 3,057 rec-records
+2026-05-18T13:26:28     info       Loaded : . . . read 3,080 src-records
+2026-05-18T13:26:28     info       Loaded : . . . read 184,800 rel-records
+2026-05-18T13:26:28     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T13:26:30     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 636 parameters
+2026-05-18T13:26:33     geometry   Starting geometry creation from templates; preparing worker thread...
+2026-05-18T13:26:33     geometry   Thread : Started 'Create Geometry from Templates', from 3,080 shot points
+2026-05-18T13:26:33     geometry   Method : useExperimental=False -> geomTemplate4
+2026-05-18T13:26:34     geometry   Thread : Completed 'Create Geometry from Templates'. Elapsed time:0:00:01 
+2026-05-18T13:27:01     geometry   Starting geometry creation from templates; preparing worker thread...
+2026-05-18T13:27:01     geometry   Thread : Started 'Create Geometry from Templates', from 3,080 shot points
+2026-05-18T13:27:01     geometry   Method : useExperimental=True -> geomTemplate5
+2026-05-18T13:27:01     geometry   Thread : Completed 'Create Geometry from Templates'. Elapsed time:0:00:01 
+2026-05-18T13:27:25     geometry   Starting geometry creation from templates; preparing worker thread...
+2026-05-18T13:27:25     geometry   Thread : Started 'Create Geometry from Templates', from 3,080 shot points
+2026-05-18T13:27:25     geometry   Method : useExperimental=False -> geomTemplate4
+2026-05-18T13:27:26     geometry   Thread : Completed 'Create Geometry from Templates'. Elapsed time:0:00:01 
+2026-05-18T13:27:55     binning    Starting full binning from geometry; preparing worker thread...
+2026-05-18T13:27:56     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T13:27:56     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T13:27:56     binning    Thread : Started 'Bin from geometry', using 3,080 shot points
+2026-05-18T13:27:56     binning    Method : useExperimental=False, hasRel=True -> binFromGeometry8, fullAnalysis=True
+2026-05-18T13:28:22     binning    Thread : Binning completed. Elapsed time:0:00:27 
+2026-05-18T13:28:22     binning    Thread : . . . Fold       : Min:0 - Max:1698 
+2026-05-18T13:28:22     binning    Thread : . . . Min-offsets: Min:1.15m - Max:5219.26m 
+2026-05-18T13:28:22     binning    Thread : . . . Max-offsets: Min:361.68m - Max:6000.00m 
+2026-05-18T13:28:22     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:457.82m 
+2026-05-18T13:28:22     binning    Thread : . . . Max-gap   : Min:0.00m - Max:3265.95m 
+2026-05-18T13:28:22     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T13:28:49     binning    Starting full binning from geometry; preparing worker thread...
+2026-05-18T13:28:49     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T13:28:49     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T13:28:49     binning    Thread : Started 'Bin from geometry', using 3,080 shot points
+2026-05-18T13:28:50     binning    Method : useExperimental=True, hasRel=True -> binFromGeometry10, fullAnalysis=True
+2026-05-18T13:28:54     binning    Thread : Binning completed. Elapsed time:0:00:05 
+2026-05-18T13:28:54     binning    Thread : . . . Fold       : Min:0 - Max:1698 
+2026-05-18T13:28:54     binning    Thread : . . . Min-offsets: Min:1.15m - Max:5219.26m 
+2026-05-18T13:28:54     binning    Thread : . . . Max-offsets: Min:361.68m - Max:6000.00m 
+2026-05-18T13:28:54     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:457.82m 
+2026-05-18T13:28:54     binning    Thread : . . . Max-gap   : Min:0.00m - Max:3265.95m 
+2026-05-18T13:28:54     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T13:29:08     binning    Starting full binning from templates; preparing worker thread...
+2026-05-18T13:29:08     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T13:29:08     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T13:29:08     binning    Thread : Started 'Bin from templates', using 3,080 shot points
+2026-05-18T13:29:09     binning    Method : useExperimental=True -> binTemplate10, fullAnalysis=True
+2026-05-18T13:29:13     binning    Thread : Binning completed. Elapsed time:0:00:05 
+2026-05-18T13:29:13     binning    Thread : . . . Fold       : Min:0 - Max:1698 
+2026-05-18T13:29:13     binning    Thread : . . . Min-offsets: Min:1.15m - Max:5219.26m 
+2026-05-18T13:29:13     binning    Thread : . . . Max-offsets: Min:361.68m - Max:6000.00m 
+2026-05-18T13:29:13     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:457.82m 
+2026-05-18T13:29:13     binning    Thread : . . . Max-gap   : Min:0.00m - Max:2723.49m 
+2026-05-18T13:29:13     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T13:29:29     binning    Starting full binning from templates; preparing worker thread...
+2026-05-18T13:29:29     binning    Thread : Prepare full-analysis buffer for 1,280,000 traces, with nx=160, ny=160, fold=50
+2026-05-18T13:29:29     binning    Thread : Prepare memory mapped file for full analysis results.
+2026-05-18T13:29:29     binning    Thread : Started 'Bin from templates', using 3,080 shot points
+2026-05-18T13:29:29     binning    Method : useExperimental=False -> binTemplate8, fullAnalysis=True
+2026-05-18T13:29:48     binning    Thread : Binning completed. Elapsed time:0:00:20 
+2026-05-18T13:29:48     binning    Thread : . . . Fold       : Min:0 - Max:1698 
+2026-05-18T13:29:48     binning    Thread : . . . Min-offsets: Min:1.15m - Max:5219.26m 
+2026-05-18T13:29:48     binning    Thread : . . . Max-offsets: Min:361.68m - Max:6000.00m 
+2026-05-18T13:29:48     binning    Thread : . . . Rms-offsets: Min:0.00m - Max:457.82m 
+2026-05-18T13:29:48     binning    Thread : . . . Max-gap   : Min:0.00m - Max:2723.49m 
+2026-05-18T13:29:48     info       Loaded : . . . Analysis: 1,280,000 traces available (showing 1,000,000 at a time)
+2026-05-18T13:39:24     info       Parsing: D:/Roll/roll_samples/wells/Wells-well.roll survey object succesfully parsed
+2026-05-18T13:39:24     info       Params : D:/Roll/roll_samples/wells/Wells-well.roll survey object read, containing 282 parameters+++
+
+2026-05-19T11:51:19     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-19T11:51:19     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-19T11:51:19     info       Library: Numba is enabled, running in JIT mode
+2026-05-19T11:51:19     info       Parsing: survey object succesfully parsed
+2026-05-19T11:51:19     info       Params : survey object read, containing 282 parameters
+2026-05-19T11:51:30     info       Parsing: survey object succesfully parsed
+2026-05-19T11:51:30     info       Params : survey object read, containing 282 parameters+++
+
+2026-05-19T13:25:52     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-19T13:25:52     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-19T13:25:52     info       Library: Numba is enabled, running in JIT mode
+2026-05-19T13:25:52     info       Parsing: survey object succesfully parsed
+2026-05-19T13:25:52     info       Params : survey object read, containing 282 parameters
+2026-05-19T13:25:58     binning    Starting basic binning from templates; preparing worker thread...
+2026-05-19T13:25:58     binning    Thread : Started 'Bin from templates', using 400 shot points
+2026-05-19T13:25:58     binning    Method : useExperimental=False -> binTemplate8, fullAnalysis=False
+2026-05-19T13:25:58     binning    Thread : Binning completed. Elapsed time:0:00:01 
+2026-05-19T13:25:58     binning    Thread : . . . Fold       : Min:40 - Max:40 
+2026-05-19T13:25:58     binning    Thread : . . . Min-offsets: Min:35.36m - Max:285.04m 
+2026-05-19T13:25:58     binning    Thread : . . . Max-offsets: Min:2359.29m - Max:2593.50m 
+2026-05-19T13:26:19     info       Parsing: survey object succesfully parsed
+2026-05-19T13:26:19     info       Params : survey object read, containing 282 parameters+++
+
+2026-05-19T14:18:56     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-19T14:18:56     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-19T14:18:56     info       Library: Numba is enabled, running in JIT mode
+2026-05-19T14:18:56     info       Parsing: survey object succesfully parsed
+2026-05-19T14:18:56     info       Params : survey object read, containing 282 parameters
+2026-05-19T14:19:10     info       Opening: D:/Roll/roll_samples/wells/VSP-spiral-well.roll
+2026-05-19T14:19:10     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll
+2026-05-19T14:19:10     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object succesfully parsed
+2026-05-19T14:19:10     info       Reading: D:/Roll/roll_samples/wells/VSP-spiral-well.roll, success: True
+2026-05-19T14:19:10     info       Loading: D:/Roll/roll_samples/wells/VSP-spiral-well.roll analysis files
+2026-05-19T14:19:10     info       Loading: . . . Analysis dims: nx=124, ny=100, binSize=(25.000,25.000)
+2026-05-19T14:19:10     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-19T14:19:10     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-19T14:19:10     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-19T14:19:10     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-19T14:19:10     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-19T14:19:10     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-19T14:19:10     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-19T14:19:10     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-19T14:19:10     info       Loaded : . . . Fold map  : Min:0 - Max:49 
+2026-05-19T14:19:10     info       Loaded : . . . Min-offset: Min:10.07m - Max:2560.83m 
+2026-05-19T14:19:10     info       Loaded : . . . Max-offset: Min:168.09m - Max:2839.45m 
+2026-05-19T14:19:10     info       Loaded : . . . Rms-offset: Min:0.00m - Max:437.06m 
+2026-05-19T14:19:10     info       Loaded : . . . Max-gap   : Min:0.00m - Max:1206.65m 
+2026-05-19T14:19:10     info       Loaded : . . . offset histogram
+2026-05-19T14:19:10     info       Loaded : . . . azi-offset histogram
+2026-05-19T14:19:10     info       Analysis load: fold=50, maxFold=49
+2026-05-19T14:19:10     info       Analysis load: nT=9920000, expected=9920000, delta=0
+2026-05-19T14:19:10     info       Analysis load: an2Output.shape=(620000, 16)
+2026-05-19T14:19:10     info       Loaded : . . . Analysis  : 620,000 traces (reserved space)
+2026-05-19T14:19:10     info       Loaded : . . . read 57 rec-records
+2026-05-19T14:19:10     info       Loaded : . . . read 1,180 src-records
+2026-05-19T14:19:10     info       Loaded : . . . read 41,300 rel-records
+2026-05-19T14:19:10     info       Loaded : . . . Analysis: 620,000 traces displayed in Trace Table
+2026-05-19T14:19:11     info       Params : D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object read, containing 518 parameters
+2026-05-19T14:19:29     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-05-19T14:19:29     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-05-19T14:19:29     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-05-19T14:19:29     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll, success: True
+2026-05-19T14:19:29     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2026-05-19T14:19:29     info       Loading: . . . Analysis dims: nx=2630, ny=1215, binSize=(10.000,20.000)
+2026-05-19T14:19:29     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-19T14:19:29     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-19T14:19:29     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-19T14:19:29     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-19T14:19:29     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-19T14:19:29     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-19T14:19:29     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-19T14:19:29     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-19T14:19:29     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2026-05-19T14:19:29     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2026-05-19T14:19:29     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2026-05-19T14:19:29     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1376.98m 
+2026-05-19T14:19:29     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3274.95m 
+2026-05-19T14:19:29     info       Loaded : . . . offset histogram
+2026-05-19T14:19:29     info       Loaded : . . . azi-offset histogram
+2026-05-19T14:19:29     info       Analysis load: fold=210, maxFold=209
+2026-05-19T14:19:29     info       Analysis load: nT=10736712000, expected=10736712000, delta=0
+2026-05-19T14:19:29     info       Analysis load: an2Output.shape=(671044500, 16)
+2026-05-19T14:19:29     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2026-05-19T14:19:29     info       Loaded : . . . read 161,894 rec-records
+2026-05-19T14:19:29     info       Loaded : . . . read 51,240 src-records
+2026-05-19T14:19:29     info       Loaded : . . . read 1,795,499 rel-records
+2026-05-19T14:19:29     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2026-05-19T14:19:35     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 282 parameters
+2026-05-19T14:19:39     info       Opening: D:/Roll/roll_samples/wells/VSP-spiral-well.roll
+2026-05-19T14:19:39     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll
+2026-05-19T14:19:39     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object succesfully parsed
+2026-05-19T14:19:39     info       Reading: D:/Roll/roll_samples/wells/VSP-spiral-well.roll, success: True
+2026-05-19T14:19:39     info       Loading: D:/Roll/roll_samples/wells/VSP-spiral-well.roll analysis files
+2026-05-19T14:19:39     info       Loading: . . . Analysis dims: nx=124, ny=100, binSize=(25.000,25.000)
+2026-05-19T14:19:39     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-19T14:19:39     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-19T14:19:39     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-19T14:19:39     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-19T14:19:39     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-19T14:19:39     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-19T14:19:39     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-19T14:19:39     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-19T14:19:39     info       Loaded : . . . Fold map  : Min:0 - Max:49 
+2026-05-19T14:19:39     info       Loaded : . . . Min-offset: Min:10.07m - Max:2560.83m 
+2026-05-19T14:19:39     info       Loaded : . . . Max-offset: Min:168.09m - Max:2839.45m 
+2026-05-19T14:19:39     info       Loaded : . . . Rms-offset: Min:0.00m - Max:437.06m 
+2026-05-19T14:19:39     info       Loaded : . . . Max-gap   : Min:0.00m - Max:1206.65m 
+2026-05-19T14:19:39     info       Loaded : . . . offset histogram
+2026-05-19T14:19:39     info       Loaded : . . . azi-offset histogram
+2026-05-19T14:19:39     info       Analysis load: fold=50, maxFold=49
+2026-05-19T14:19:39     info       Analysis load: nT=9920000, expected=9920000, delta=0
+2026-05-19T14:19:39     info       Analysis load: an2Output.shape=(620000, 16)
+2026-05-19T14:19:39     info       Loaded : . . . Analysis  : 620,000 traces (reserved space)
+2026-05-19T14:19:39     info       Loaded : . . . read 57 rec-records
+2026-05-19T14:19:39     info       Loaded : . . . read 1,180 src-records
+2026-05-19T14:19:39     info       Loaded : . . . read 41,300 rel-records
+2026-05-19T14:19:39     info       Loaded : . . . Analysis: 620,000 traces displayed in Trace Table
+2026-05-19T14:19:41     info       Params : D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object read, containing 518 parameters
+2026-05-19T14:19:55     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object succesfully parsed
+2026-05-19T14:19:56     info       Params : D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object read, containing 282 parameters+++
+
+2026-05-19T15:12:06     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-19T15:12:06     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-19T15:12:06     info       Library: Numba is enabled, running in JIT mode
+2026-05-19T15:12:06     info       Parsing: survey object succesfully parsed
+2026-05-19T15:12:06     info       Params : survey object read, containing 282 parameters
+2026-05-19T15:22:45     info       Parsing: survey object succesfully parsed
+2026-05-19T15:22:45     info       Params : survey object read, containing 282 parameters+++
+
+2026-05-19T14:19:59     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-19T14:19:59     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-19T14:19:59     info       Library: Numba is enabled, running in JIT mode
+2026-05-19T14:19:59     info       Parsing: survey object succesfully parsed
+2026-05-19T14:19:59     info       Params : survey object read, containing 282 parameters
+2026-05-19T14:20:04     info       Opening: D:/Roll/roll_samples/wells/VSP-spiral-well.roll
+2026-05-19T14:20:04     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll
+2026-05-19T14:20:04     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object succesfully parsed
+2026-05-19T14:20:04     info       Reading: D:/Roll/roll_samples/wells/VSP-spiral-well.roll, success: True
+2026-05-19T14:20:04     info       Loading: D:/Roll/roll_samples/wells/VSP-spiral-well.roll analysis files
+2026-05-19T14:20:04     info       Loading: . . . Analysis dims: nx=124, ny=100, binSize=(25.000,25.000)
+2026-05-19T14:20:04     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-05-19T14:20:04     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-05-19T14:20:04     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-05-19T14:20:04     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-05-19T14:20:04     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-05-19T14:20:04     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-05-19T14:20:04     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-05-19T14:20:04     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-05-19T14:20:04     info       Loaded : . . . Fold map  : Min:0 - Max:49 
+2026-05-19T14:20:04     info       Loaded : . . . Min-offset: Min:10.07m - Max:2560.83m 
+2026-05-19T14:20:04     info       Loaded : . . . Max-offset: Min:168.09m - Max:2839.45m 
+2026-05-19T14:20:04     info       Loaded : . . . Rms-offset: Min:0.00m - Max:437.06m 
+2026-05-19T14:20:04     info       Loaded : . . . Max-gap   : Min:0.00m - Max:1206.65m 
+2026-05-19T14:20:04     info       Loaded : . . . offset histogram
+2026-05-19T14:20:04     info       Loaded : . . . azi-offset histogram
+2026-05-19T14:20:04     info       Analysis load: fold=50, maxFold=49
+2026-05-19T14:20:04     info       Analysis load: nT=9920000, expected=9920000, delta=0
+2026-05-19T14:20:04     info       Analysis load: an2Output.shape=(620000, 16)
+2026-05-19T14:20:04     info       Loaded : . . . Analysis  : 620,000 traces (reserved space)
+2026-05-19T14:20:04     info       Loaded : . . . read 57 rec-records
+2026-05-19T14:20:04     info       Loaded : . . . read 1,180 src-records
+2026-05-19T14:20:04     info       Loaded : . . . read 41,300 rel-records
+2026-05-19T14:20:04     info       Loaded : . . . Analysis: 620,000 traces displayed in Trace Table
+2026-05-19T14:20:05     info       Params : D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object read, containing 518 parameters
+2026-05-19T14:29:09     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:14     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:17     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:18     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:19     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:19     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:20     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:20     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:20     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:21     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:21     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:21     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T14:29:22     warning    Spider : Switched "on", but no spider-rays available yet (navigate with ALT+arrows or work in the 2D Map view first).
+2026-05-19T15:23:26     info       Parsing: D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object succesfully parsed
+2026-05-19T15:23:26     info       Params : D:/Roll/roll_samples/wells/VSP-spiral-well.roll survey object read, containing 282 parameters+++
+

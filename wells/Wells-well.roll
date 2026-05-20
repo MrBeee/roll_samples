@@ -4,7 +4,7 @@
     <name>Wells-well</name>
     <surveyCrs>
         <spatialrefsys nativeFormat="Wkt">
-            <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (x)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Cadastre, engineering survey, topographic mapping."],AREA["Netherlands - onshore and offshore."],BBOX[50.75,2.53,55.77,7.22]],ID["EPSG",28992]]</wkt>
+            <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Netherlands - onshore, including Waddenzee, Dutch Wadden Islands and 12-mile offshore coastal zone."],BBOX[50.75,3.2,53.7,7.22]],ID["EPSG",28992]]</wkt>
             <proj4>+proj=sterea +lat_0=52.1561605555556 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +units=m +no_defs</proj4>
             <srsid>2517</srsid>
             <srid>28992</srid>
@@ -16,22 +16,22 @@
         </spatialrefsys>
     </surveyCrs>
     <limits>
-        <output xmax="4000.0" xmin="0.0" ymax="4000.0" ymin="0.0"/>
-        <angles azimax="360.0" azimin="0.0" refmax="45.0" refmin="0.0"/>
-        <offset rmax="20000.0" rmin="0.0" xmax="10000.0" xmin="-10000.0" ymax="10000.0" ymin="-10000.0"/>
-        <unique apply="False" deltaazi="5.0" deltaoff="200.0" write="False"/>
-        <binning method="plane" vint="2000.0"/>
+        <output ymax="4000.0" xmax="4000.0" xmin="0.0" ymin="0.0"/>
+        <angles refmax="45.0" azimax="360.0" refmin="0.0" azimin="0.0"/>
+        <offset ymax="10000.0" xmax="10000.0" rmax="20000.0" rmin="0.0" xmin="-10000.0" ymin="-10000.0"/>
+        <unique write="False" apply="False" deltaazi="5.0" deltaoff="200.0"/>
+        <binning vint="2000.0" method="plane"/>
     </limits>
     <reflectors>
-        <plane azi="0.0" dip="0.0" x0="0.0" y0="0.0" z0="-3000.0"/>
-        <!--Plane equation: -0.000000Â·x + -0.000000Â·y + 1.000000Â·z + 3000.000000 = 0  -->
+        <plane y0="0.0" x0="0.0" dip="0.0" z0="-3000.0" azi="0.0"/>
+        <!--Plane equation: -0.000000·x + -0.000000·y + 1.000000·z + 3000.000000 = 0  -->
         <!--Plane is defined in global coordinates. Subsurface corresponds with negative z-values-->
-        <sphere radius="2000.0" x0="90000.0" y0="445000.0" z0="-4000.0"/>
+        <sphere y0="445000.0" x0="90000.0" radius="2000.0" z0="-4000.0"/>
         <!--Sphere is defined in global coordinates. Subsurface corresponds with negative z-values-->
     </reflectors>
     <grid>
-        <local dl="25.0" ds="25.0" dx="25.0" dy="25.0" fold="50" l0="1000.0" s0="1000.0" x0="12.5" y0="12.5"/>
-        <global azi="10.0" sx="1.0" sy="1.0" x0="87500.0" y0="445000.0"/>
+        <local s0="1000.0" dx="25.0" ds="25.0" dl="25.0" y0="12.5" x0="12.5" dy="25.0" fold="50" l0="1000.0"/>
+        <global sy="1.0" sx="1.0" y0="445000.0" x0="87500.0" azi="10.0"/>
         <!--Forward transform: A0=87500.000, B0=445000.000, A1=0.984808, B1=0.173648, A2=-0.173648, B2=0.984808-->
         <!--Inverse transform: A0=-163444.117, B0=-423045.235, A1=0.984808, B1=-0.173648, A2=0.173648, B2=0.984808-->
         <!--See EPSG:9624 (https://epsg.io/9624-method) for the affine parametric transform definition-->
@@ -40,41 +40,41 @@
         <block>
             <name>Block-1</name>
             <borders>
-                <src_border xmax="20000.0" xmin="-20000.0" ymax="20000.0" ymin="-20000.0"/>
-                <rec_border xmax="0.0" xmin="0.0" ymax="0.0" ymin="0.0"/>
+                <src_border ymax="20000.0" xmax="20000.0" xmin="-20000.0" ymin="-20000.0"/>
+                <rec_border ymax="0.0" xmax="0.0" xmin="0.0" ymin="0.0"/>
             </borders>
             <template_list>
                 <template>
                     <name>Template-1</name>
                     <roll_list>
-                        <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
-                        <translate azim="90.0" dx="0.0" dy="200.0" dz="0.0" n="5" tilt="0.0"/>
-                        <translate azim="0.0" dx="250.0" dy="0.0" dz="0.0" n="10" tilt="0.0"/>
+                        <translate n="1" dx="0.0" azim="0.0" dz="0.0" dy="0.0" tilt="0.0"/>
+                        <translate n="1" dx="0.0" azim="90.0" dz="0.0" dy="200.0" tilt="0.0"/>
+                        <translate n="1" dx="250.0" azim="0.0" dz="0.0" dy="0.0" tilt="0.0"/>
                     </roll_list>
                     <seed_list>
-                        <seed argb="#77ff0000" azi="False" patno="0" src="True" typno="0" x0="975.0" y0="625.0" z0="0.0">
+                        <seed src="True" argb="#77ff0000" y0="625.0" x0="975.0" patno="0" typno="1" z0="-50.0" azi="False">
                             <name>Src-1</name>
-                            <grid points="4" roll="False">
-                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
-                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
-                                <translate azim="90.0" dx="0.0" dy="50.0" dz="0.0" n="4" tilt="0.0"/>
+                            <grid points="2000" roll="False">
+                                <translate n="1" dx="0.0" azim="0.0" dz="0.0" dy="0.0" tilt="0.0"/>
+                                <translate n="50" dx="50.0" azim="0.0" dz="0.0" dy="0.0" tilt="0.0"/>
+                                <translate n="40" dx="0.0" azim="90.0" dz="0.0" dy="50.0" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed argb="#7700b0f0" azi="False" patno="1" src="False" typno="0" x0="0.0" y0="0.0" z0="0.0">
+                        <seed src="False" argb="#7700b0f0" y0="0.0" x0="0.0" patno="1" typno="1" z0="0.0" azi="False">
                             <name>Rec-1</name>
-                            <grid points="960" roll="False">
-                                <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
-                                <translate azim="90.0" dx="0.0" dy="200.0" dz="0.0" n="8" tilt="0.0"/>
-                                <translate azim="0.0" dx="50.0" dy="0.0" dz="0.0" n="120" tilt="0.0"/>
+                            <grid points="3000" roll="False">
+                                <translate n="1" dx="0.0" azim="0.0" dz="0.0" dy="0.0" tilt="0.0"/>
+                                <translate n="25" dx="0.0" azim="90.0" dz="0.0" dy="25.0" tilt="0.0"/>
+                                <translate n="120" dx="50.0" azim="0.0" dz="0.0" dy="0.0" tilt="0.0"/>
                             </grid>
                         </seed>
-                        <seed argb="#7700aa00" azi="False" patno="-1" src="False" typno="4" x0="1847.82" y0="3254.8" z0="0.9">
+                        <seed src="False" argb="#7700aa00" y0="3254.8" x0="1847.82" patno="-1" typno="4" z0="0.9" azi="False">
                             <name>PNA-GT-01</name>
-                            <well ds="30.0" gx="88754.56" gy="448526.22" lx="1847.82" ly="3254.8" ns="21" s0="2000.0" smax="2869.0" wx="88754.55" wy="448526.22" wz="0.9">
+                            <well ns="21" s0="2000.0" wz="0.9" lx="1847.82" ds="30.0" smax="2869.0" wy="448526.22" ly="3254.8" gx="88754.56" gy="448526.22" wx="88754.55">
                                 <name>well-files\PNA-GT-01.well</name>
                                 <wellCrs>
                                     <spatialrefsys nativeFormat="Wkt">
-                                        <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (x)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Cadastre, engineering survey, topographic mapping."],AREA["Netherlands - onshore and offshore."],BBOX[50.75,2.53,55.77,7.22]],ID["EPSG",28992]]</wkt>
+                                        <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Netherlands - onshore, including Waddenzee, Dutch Wadden Islands and 12-mile offshore coastal zone."],BBOX[50.75,3.2,53.7,7.22]],ID["EPSG",28992]]</wkt>
                                         <proj4>+proj=sterea +lat_0=52.1561605555556 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +units=m +no_defs</proj4>
                                         <srsid>2517</srsid>
                                         <srid>28992</srid>
@@ -87,13 +87,13 @@
                                 </wellCrs>
                             </well>
                         </seed>
-                        <seed argb="#77ff0000" azi="False" patno="-1" src="False" typno="4" x0="1845.35" y0="3262.47" z0="0.9">
+                        <seed src="False" argb="#77ff0000" y0="3262.47" x0="1845.35" patno="-1" typno="4" z0="0.9" azi="False">
                             <name>PNA-GT-02</name>
-                            <well ds="50.0" gx="88750.79" gy="448533.35" lx="1845.35" ly="3262.47" ns="12" s0="2200.0" smax="2860.0" wx="88750.79" wy="448533.34" wz="0.9">
+                            <well ns="12" s0="2200.0" wz="0.9" lx="1845.35" ds="50.0" smax="2860.0" wy="448533.34" ly="3262.47" gx="88750.79" gy="448533.35" wx="88750.79">
                                 <name>well-files\PNA-GT-02.well</name>
                                 <wellCrs>
                                     <spatialrefsys nativeFormat="Wkt">
-                                        <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (x)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Cadastre, engineering survey, topographic mapping."],AREA["Netherlands - onshore and offshore."],BBOX[50.75,2.53,55.77,7.22]],ID["EPSG",28992]]</wkt>
+                                        <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Netherlands - onshore, including Waddenzee, Dutch Wadden Islands and 12-mile offshore coastal zone."],BBOX[50.75,3.2,53.7,7.22]],ID["EPSG",28992]]</wkt>
                                         <proj4>+proj=sterea +lat_0=52.1561605555556 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +units=m +no_defs</proj4>
                                         <srsid>2517</srsid>
                                         <srid>28992</srid>
@@ -106,13 +106,13 @@
                                 </wellCrs>
                             </well>
                         </seed>
-                        <seed argb="#77ffaa00" azi="False" patno="-1" src="False" typno="4" x0="1450.55" y0="1837.92" z0="0.9">
+                        <seed src="False" argb="#77ffaa00" y0="1837.92" x0="1450.55" patno="-1" typno="4" z0="0.9" azi="False">
                             <name>PNA-GT-03-S2</name>
-                            <well ds="30.0" gx="88609.36" gy="447061.88" lx="1450.55" ly="1837.92" ns="12" s0="1500.0" smax="3005.0" wx="88609.36" wy="447061.88" wz="0.9">
+                            <well ns="12" s0="1500.0" wz="0.9" lx="1450.55" ds="30.0" smax="3005.0" wy="447061.88" ly="1837.92" gx="88609.36" gy="447061.88" wx="88609.36">
                                 <name>well-files\PNA-GT-03-S2.well</name>
                                 <wellCrs>
                                     <spatialrefsys nativeFormat="Wkt">
-                                        <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (x)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Cadastre, engineering survey, topographic mapping."],AREA["Netherlands - onshore and offshore."],BBOX[50.75,2.53,55.77,7.22]],ID["EPSG",28992]]</wkt>
+                                        <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Netherlands - onshore, including Waddenzee, Dutch Wadden Islands and 12-mile offshore coastal zone."],BBOX[50.75,3.2,53.7,7.22]],ID["EPSG",28992]]</wkt>
                                         <proj4>+proj=sterea +lat_0=52.1561605555556 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +units=m +no_defs</proj4>
                                         <srsid>2517</srsid>
                                         <srid>28992</srid>
@@ -125,13 +125,13 @@
                                 </wellCrs>
                             </well>
                         </seed>
-                        <seed argb="#77aa0000" azi="False" patno="-1" src="False" typno="4" x0="1457.81" y0="1838.43" z0="0.9">
+                        <seed src="False" argb="#77aa0000" y0="1838.43" x0="1457.81" patno="-1" typno="4" z0="0.9" azi="False">
                             <name>PNA-GT-04</name>
-                            <well ds="30.0" gx="88616.42" gy="447063.65" lx="1457.81" ly="1838.43" ns="12" s0="2200.0" smax="2957.0" wx="88616.42" wy="447063.66" wz="0.9">
+                            <well ns="12" s0="2200.0" wz="0.9" lx="1457.81" ds="30.0" smax="2957.0" wy="447063.66" ly="1838.43" gx="88616.42" gy="447063.65" wx="88616.42">
                                 <name>well-files\PNA-GT-04.well</name>
                                 <wellCrs>
                                     <spatialrefsys nativeFormat="Wkt">
-                                        <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (x)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Cadastre, engineering survey, topographic mapping."],AREA["Netherlands - onshore and offshore."],BBOX[50.75,2.53,55.77,7.22]],ID["EPSG",28992]]</wkt>
+                                        <wkt>PROJCRS["Amersfoort / RD New",BASEGEOGCRS["Amersfoort",DATUM["Amersfoort",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4289]],CONVERSION["RD New",METHOD["Oblique Stereographic",ID["EPSG",9809]],PARAMETER["Latitude of natural origin",52.1561605555556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",5.38763888888889,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999079,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",155000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",463000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Netherlands - onshore, including Waddenzee, Dutch Wadden Islands and 12-mile offshore coastal zone."],BBOX[50.75,3.2,53.7,7.22]],ID["EPSG",28992]]</wkt>
                                         <proj4>+proj=sterea +lat_0=52.1561605555556 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +units=m +no_defs</proj4>
                                         <srsid>2517</srsid>
                                         <srid>28992</srid>
@@ -144,13 +144,13 @@
                                 </wellCrs>
                             </well>
                         </seed>
-                        <seed argb="#77ff0000" azi="False" patno="-1" src="True" typno="2" x0="1000.0" y0="1100.0" z0="0.0">
+                        <seed src="True" argb="#77ff0000" y0="1100.0" x0="1000.0" patno="-1" typno="2" z0="0.0" azi="False">
                             <name>Circle</name>
-                            <circle azi0="30.0" dist="25.0" points="276.0" radius="1100.0"/>
+                            <circle azi0="30.0" points="276.0" radius="1100.0" dist="25.0"/>
                         </seed>
-                        <seed argb="#77ff007f" azi="False" patno="-1" src="True" typno="3" x0="2000.0" y0="3200.0" z0="-300.0">
+                        <seed src="True" argb="#77ff007f" y0="3200.0" x0="2000.0" patno="-1" typno="3" z0="-300.0" azi="False">
                             <name>Spiral</name>
-                            <spiral azi0="30.0" dist="-50.0" points="804" radinc="100.0" radmax="1200.0" radmin="400.0"/>
+                            <spiral azi0="30.0" radmax="1200.0" radinc="100.0" points="804" radmin="400.0" dist="-50.0"/>
                         </seed>
                     </seed_list>
                 </template>
@@ -161,12 +161,12 @@
         <pattern>
             <name>src-array</name>
             <seed_list>
-                <seed argb="#ffff0000" azi="False" x0="-0.0" y0="-12.5" z0="0.0">
+                <seed argb="#ffff0000" y0="-12.5" x0="-0.0" z0="0.0" azi="False">
                     <name>seed-1</name>
                     <grid points="3" roll="True">
-                        <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
-                        <translate azim="0.0" dx="0.0" dy="0.0" dz="0.0" n="1" tilt="0.0"/>
-                        <translate azim="90.0" dx="0.0" dy="12.5" dz="0.0" n="3" tilt="0.0"/>
+                        <translate n="1" dx="0.0" azim="0.0" dz="0.0" dy="0.0" tilt="0.0"/>
+                        <translate n="1" dx="0.0" azim="0.0" dz="0.0" dy="0.0" tilt="0.0"/>
+                        <translate n="3" dx="0.0" azim="90.0" dz="0.0" dy="12.5" tilt="0.0"/>
                     </grid>
                 </seed>
             </seed_list>
@@ -174,12 +174,12 @@
         <pattern>
             <name>rec-array</name>
             <seed_list>
-                <seed argb="#ff0000ff" azi="False" x0="-20.83" y0="-20.83" z0="0.0">
+                <seed argb="#ff0000ff" y0="-20.83" x0="-20.83" z0="0.0" azi="False">
                     <name>seed-1</name>
                     <grid points="18" roll="True">
-                        <translate azim="0.0" dx="16.66670036315918" dy="0.0" dz="0.0" n="3" tilt="0.0"/>
-                        <translate azim="45.0" dx="8.333000183105469" dy="8.333000183105469" dz="0.0" n="2" tilt="0.0"/>
-                        <translate azim="90.0" dx="0.0" dy="16.66699981689453" dz="0.0" n="3" tilt="0.0"/>
+                        <translate n="3" dx="16.66670036315918" azim="0.0" dz="0.0" dy="0.0" tilt="0.0"/>
+                        <translate n="2" dx="8.333000183105469" azim="45.0" dz="0.0" dy="8.333000183105469" tilt="0.0"/>
+                        <translate n="3" dx="0.0" azim="90.0" dz="0.0" dy="16.66699981689453" tilt="0.0"/>
                     </grid>
                 </seed>
             </seed_list>

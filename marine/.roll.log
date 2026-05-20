@@ -1,0 +1,18 @@
+2026-05-20T10:59:00     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-05-20T10:59:00     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-05-20T10:59:00     info       Library: Numba is enabled, running in JIT mode
+2026-05-20T10:59:00     info       Parsing: survey object succesfully parsed
+2026-05-20T10:59:00     info       Params : survey object read, containing 282 parameters
+2026-05-20T10:59:05     info       Parsing: survey object succesfully parsed
+2026-05-20T10:59:06     info       Params : survey object read, containing 282 parameters
+2026-05-20T11:01:13     info       Parsing: survey object succesfully parsed
+2026-05-20T11:01:15     info       Params : survey object read, containing 1312 parameters
+2026-05-20T11:01:15     info       Wizard : created streamer survey: Marine_001
+2026-05-20T11:02:02     info       Saved  : D:/Roll/roll_samples/marine/Marine_001.roll
+2026-05-20T11:10:07     info       Parsing: D:/Roll/roll_samples/marine/Marine_001.roll survey object succesfully parsed
+2026-05-20T11:10:08     info       Params : D:/Roll/roll_samples/marine/Marine_001.roll survey object read, containing 282 parameters
+2026-05-20T11:29:57     info       Parsing: survey object succesfully parsed
+2026-05-20T11:29:58     info       Params : survey object read, containing 282 parameters
+2026-05-20T11:42:04     info       Parsing: survey object succesfully parsed
+2026-05-20T11:42:05     info       Params : survey object read, containing 282 parameters+++
+
