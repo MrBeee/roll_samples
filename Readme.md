@@ -16,7 +16,6 @@ Several basic geometries are shown in the following sample files:
   - DoubleZigzag_001
   - Orthogonal_001
   - Parallel_001
-
   - SphereTest_001
   - TripleZigzag_001
 
@@ -24,6 +23,13 @@ Several basic geometries are shown in the following sample files:
 - In the **marine** folder
   
   - Marine_001
+
+- In the **orthogonal** folder
+
+  - 400x400_20x20_6kmx6km
+  - 400x400_40x40_6kmx6km
+  - 400x400_40x40_6kmx6km_repeated_cross_spreads
+
   
 - In the **Noordoostpolder** folder:
   - Noordoostpolder (*a fully worked out example showing interaction with QGIS*)
