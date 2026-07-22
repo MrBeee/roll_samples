@@ -6629,3 +6629,315 @@
 2026-06-06T12:21:19     info       Parsing: survey object succesfully parsed
 2026-06-06T12:21:20     info       Params : survey object read, containing 291 parameters+++
 
+2026-07-20T17:24:25     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-07-20T17:24:25     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-07-20T17:24:25     info       Library: Numba is enabled, running in JIT mode
+2026-07-20T17:24:25     info       Parsing: survey object succesfully parsed
+2026-07-20T17:24:25     info       Params : survey object read, containing 291 parameters
+2026-07-20T17:24:47     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-20T17:24:47     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-20T17:24:47     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-20T17:24:47     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll, success: True
+2026-07-20T17:24:47     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2026-07-20T17:24:47     info       Loading: . . . Analysis dims: nx=2630, ny=1215, binSize=(10.000,20.000)
+2026-07-20T17:24:47     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-07-20T17:24:47     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-07-20T17:24:47     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-07-20T17:24:47     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-07-20T17:24:47     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-07-20T17:24:47     info       Loading: . . . Analysis file: .cfp.npy exists=True
+2026-07-20T17:24:47     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-07-20T17:24:47     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-07-20T17:24:47     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-07-20T17:24:47     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2026-07-20T17:24:47     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2026-07-20T17:24:47     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2026-07-20T17:24:47     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1376.98m 
+2026-07-20T17:24:47     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3274.95m 
+2026-07-20T17:24:47     info       Loaded : . . . CFP illumination map
+2026-07-20T17:24:47     info       Loaded : . . . offset histogram
+2026-07-20T17:24:47     info       Loaded : . . . azi-offset histogram
+2026-07-20T17:24:47     info       Analysis load: fold=210, maxFold=209
+2026-07-20T17:24:47     info       Analysis load: nT=10736712000, expected=10736712000, delta=0
+2026-07-20T17:24:47     info       Analysis load: an2Output.shape=(671044500, 16)
+2026-07-20T17:24:47     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2026-07-20T17:24:47     info       Loaded : . . . read 161,894 rec-records
+2026-07-20T17:24:47     info       Loaded : . . . read 51,240 src-records
+2026-07-20T17:24:47     info       Loaded : . . . read 1,795,499 rel-records
+2026-07-20T17:24:47     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2026-07-20T17:24:48     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters
+2026-07-20T17:25:21     analysis   Starting CFP illumination map from geometry tables; preparing worker thread...
+2026-07-20T17:25:21     analysis   Thread : Started 'CFP Plane Illumination v1 (Geometry Tables)' (coherent) at z=-2000.00, aperture=45.0deg, Vint=2000.0m/s, freq=[8; 16; 20; 24; 32] Hz
+2026-07-20T17:31:29     analysis   Thread : 3x3 diagnostics stripe summary (normalized maps):
+2026-07-20T17:31:29     analysis   Thread : . . . metric = rowStd / colStd on row/column-mean traces
+2026-07-20T17:31:29     analysis   Thread : . . . ratio above 1.0 => horizontal striping dominant; ratio below 1.0 => vertical striping dominant; ratio equal to 1.0 => balanced
+2026-07-20T17:31:29     analysis   Thread : . . . legend: OFF=off, COH=coherent, INC=incoherent
+2026-07-20T17:31:29     analysis   Thread : . . . ranked combinations:
+2026-07-20T17:31:29     analysis   Thread : . . . SRC=OFF, REC=COH | rowStd=0.189337, colStd=0.177822, ratio=1.064754 | dominant=horizontal
+2026-07-20T17:31:29     analysis   Thread : . . . SRC=INC, REC=COH | rowStd=0.191930, colStd=0.183455, ratio=1.046196 | dominant=horizontal
+2026-07-20T17:31:29     analysis   Thread : . . . SRC=COH, REC=COH | rowStd=0.162824, colStd=0.156592, ratio=1.039797 | dominant=horizontal
+2026-07-20T17:31:29     analysis   Thread : . . . SRC=INC, REC=INC | rowStd=0.240269, colStd=0.285107, ratio=0.842732 | dominant=vertical
+2026-07-20T17:31:29     analysis   Thread : . . . SRC=COH, REC=INC | rowStd=0.202975, colStd=0.243474, ratio=0.833660 | dominant=vertical
+2026-07-20T17:31:29     analysis   Thread : . . . SRC=COH, REC=OFF | rowStd=0.185844, colStd=0.230795, ratio=0.805235 | dominant=vertical
+2026-07-20T17:31:29     analysis   Thread : . . . SRC=OFF, REC=INC | rowStd=0.223550, colStd=0.278449, ratio=0.802843 | dominant=vertical
+2026-07-20T17:31:29     analysis   Thread : . . . SRC=INC, REC=OFF | rowStd=0.222106, colStd=0.276778, ratio=0.802470 | dominant=vertical
+2026-07-20T17:31:29     analysis   Thread : . . . SRC=OFF, REC=OFF | rowStd=0.000000, colStd=0.000000, ratio=0.000000 | dominant=balanced
+2026-07-20T17:31:29     analysis   Thread : Completed 'CFP Plane Illumination v1 (Geometry Tables, coherent)'. Elapsed time:0:06:08, normFactor=1
+2026-07-20T17:37:43     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-20T17:37:44     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters+++
+
+2026-07-21T11:10:43     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-07-21T11:10:43     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-07-21T11:10:43     info       Library: Numba is enabled, running in JIT mode
+2026-07-21T11:10:43     info       Parsing: survey object succesfully parsed
+2026-07-21T11:10:44     info       Params : survey object read, containing 291 parameters
+2026-07-21T11:23:40     info       Parsing: survey object succesfully parsed
+2026-07-21T11:23:40     info       Params : survey object read, containing 291 parameters+++
+
+2026-07-21T11:23:49     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-07-21T11:23:49     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-07-21T11:23:49     info       Library: Numba is enabled, running in JIT mode
+2026-07-21T11:23:49     info       Parsing: survey object succesfully parsed
+2026-07-21T11:23:49     info       Params : survey object read, containing 291 parameters
+2026-07-21T11:23:55     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T11:23:55     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T11:23:55     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T11:23:55     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll, success: True
+2026-07-21T11:23:55     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2026-07-21T11:23:55     info       Loading: . . . Analysis dims: nx=2630, ny=1215, binSize=(10.000,20.000)
+2026-07-21T11:23:55     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-07-21T11:23:55     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-07-21T11:23:55     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-07-21T11:23:55     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-07-21T11:23:55     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-07-21T11:23:55     info       Loading: . . . Analysis file: .cfp.npy exists=True
+2026-07-21T11:23:55     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-07-21T11:23:55     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-07-21T11:23:55     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-07-21T11:23:55     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2026-07-21T11:23:55     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2026-07-21T11:23:55     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2026-07-21T11:23:55     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1376.98m 
+2026-07-21T11:23:55     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3274.95m 
+2026-07-21T11:23:55     info       Loaded : . . . CFP illumination map
+2026-07-21T11:23:55     info       Loaded : . . . offset histogram
+2026-07-21T11:23:55     info       Loaded : . . . azi-offset histogram
+2026-07-21T11:23:55     info       Analysis load: fold=210, maxFold=209
+2026-07-21T11:23:55     info       Analysis load: nT=10736712000, expected=10736712000, delta=0
+2026-07-21T11:23:55     info       Analysis load: an2Output.shape=(671044500, 16)
+2026-07-21T11:23:55     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2026-07-21T11:23:55     info       Loaded : . . . read 161,894 rec-records
+2026-07-21T11:23:55     info       Loaded : . . . read 51,240 src-records
+2026-07-21T11:23:55     info       Loaded : . . . read 1,795,499 rel-records
+2026-07-21T11:23:55     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2026-07-21T11:23:56     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters
+2026-07-21T11:24:16     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T11:24:16     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters+++
+
+2026-07-21T11:32:05     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-07-21T11:32:05     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-07-21T11:32:05     info       Library: Numba is enabled, running in JIT mode
+2026-07-21T11:32:05     info       Parsing: survey object succesfully parsed
+2026-07-21T11:32:05     info       Params : survey object read, containing 291 parameters
+2026-07-21T11:32:13     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T11:32:13     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T11:32:13     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T11:32:13     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll, success: True
+2026-07-21T11:32:13     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2026-07-21T11:32:13     info       Loading: . . . Analysis dims: nx=2630, ny=1215, binSize=(10.000,20.000)
+2026-07-21T11:32:13     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-07-21T11:32:13     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-07-21T11:32:13     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-07-21T11:32:13     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-07-21T11:32:13     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-07-21T11:32:13     info       Loading: . . . Analysis file: .cfp.npy exists=True
+2026-07-21T11:32:13     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-07-21T11:32:13     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-07-21T11:32:13     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-07-21T11:32:13     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2026-07-21T11:32:13     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2026-07-21T11:32:13     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2026-07-21T11:32:13     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1376.98m 
+2026-07-21T11:32:13     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3274.95m 
+2026-07-21T11:32:13     info       Loaded : . . . CFP illumination map
+2026-07-21T11:32:13     info       Loaded : . . . offset histogram
+2026-07-21T11:32:13     info       Loaded : . . . azi-offset histogram
+2026-07-21T11:32:13     info       Analysis load: fold=210, maxFold=209
+2026-07-21T11:32:13     info       Analysis load: nT=10736712000, expected=10736712000, delta=0
+2026-07-21T11:32:13     info       Analysis load: an2Output.shape=(671044500, 16)
+2026-07-21T11:32:13     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2026-07-21T11:32:13     info       Loaded : . . . read 161,894 rec-records
+2026-07-21T11:32:13     info       Loaded : . . . read 51,240 src-records
+2026-07-21T11:32:13     info       Loaded : . . . read 1,795,499 rel-records
+2026-07-21T11:32:13     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2026-07-21T11:32:13     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters
+2026-07-21T11:32:36     analysis   Starting CFP illumination map from geometry tables; preparing worker thread...
+2026-07-21T11:32:36     analysis   Thread : Started 'CFP Plane Illumination v1 (Geometry Tables)' (coherent) at z=-2000.00, aperture=45.0deg, Vint=2000.0m/s, freq=[8; 16; 20; 24; 32] Hz
+2026-07-21T11:38:16     analysis   Thread : 3x3 diagnostics stripe summary (normalized maps):
+2026-07-21T11:38:16     analysis   Thread : . . . metric = rowStd / colStd on row/column-mean traces
+2026-07-21T11:38:16     analysis   Thread : . . . ratio above 1.0 => horizontal striping dominant; ratio below 1.0 => vertical striping dominant; ratio equal to 1.0 => balanced
+2026-07-21T11:38:16     analysis   Thread : . . . legend: OFF=off, COH=coherent, INC=incoherent
+2026-07-21T11:38:16     analysis   Thread : . . . ranked combinations:
+2026-07-21T11:38:16     analysis   Thread : . . . SRC=OFF, REC=COH | rowStd=0.189337, colStd=0.177822, ratio=1.064754 | dominant=horizontal
+2026-07-21T11:38:16     analysis   Thread : . . . SRC=INC, REC=COH | rowStd=0.191930, colStd=0.183455, ratio=1.046196 | dominant=horizontal
+2026-07-21T11:38:16     analysis   Thread : . . . SRC=COH, REC=COH | rowStd=0.162824, colStd=0.156592, ratio=1.039797 | dominant=horizontal
+2026-07-21T11:38:16     analysis   Thread : . . . SRC=INC, REC=INC | rowStd=0.240269, colStd=0.285107, ratio=0.842732 | dominant=vertical
+2026-07-21T11:38:16     analysis   Thread : . . . SRC=COH, REC=INC | rowStd=0.202975, colStd=0.243474, ratio=0.833660 | dominant=vertical
+2026-07-21T11:38:16     analysis   Thread : . . . SRC=COH, REC=OFF | rowStd=0.185844, colStd=0.230795, ratio=0.805235 | dominant=vertical
+2026-07-21T11:38:16     analysis   Thread : . . . SRC=OFF, REC=INC | rowStd=0.223550, colStd=0.278449, ratio=0.802843 | dominant=vertical
+2026-07-21T11:38:16     analysis   Thread : . . . SRC=INC, REC=OFF | rowStd=0.222106, colStd=0.276778, ratio=0.802470 | dominant=vertical
+2026-07-21T11:38:16     analysis   Thread : . . . SRC=OFF, REC=OFF | rowStd=0.000000, colStd=0.000000, ratio=0.000000 | dominant=balanced
+2026-07-21T11:38:16     analysis   Thread : Completed 'CFP Plane Illumination v1 (Geometry Tables, coherent)'. Elapsed time:0:05:40, normFactor=1
+2026-07-21T12:01:59     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T12:01:59     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters+++
+
+2026-07-21T14:16:31     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-07-21T14:16:31     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-07-21T14:16:31     info       Library: Numba is enabled, running in JIT mode
+2026-07-21T14:16:31     info       Parsing: survey object succesfully parsed
+2026-07-21T14:16:32     info       Params : survey object read, containing 291 parameters
+2026-07-21T14:16:39     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T14:16:39     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T14:16:39     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T14:16:39     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll, success: True
+2026-07-21T14:16:39     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2026-07-21T14:16:39     info       Loading: . . . Analysis dims: nx=2630, ny=1215, binSize=(10.000,20.000)
+2026-07-21T14:16:39     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-07-21T14:16:39     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-07-21T14:16:39     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-07-21T14:16:39     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-07-21T14:16:39     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-07-21T14:16:39     info       Loading: . . . Analysis file: .cfp.npy exists=True
+2026-07-21T14:16:39     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-07-21T14:16:39     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-07-21T14:16:39     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-07-21T14:16:39     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2026-07-21T14:16:39     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2026-07-21T14:16:39     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2026-07-21T14:16:39     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1376.98m 
+2026-07-21T14:16:39     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3274.95m 
+2026-07-21T14:16:39     info       Loaded : . . . CFP illumination map
+2026-07-21T14:16:39     info       Loaded : . . . offset histogram
+2026-07-21T14:16:39     info       Loaded : . . . azi-offset histogram
+2026-07-21T14:16:39     info       Analysis load: fold=210, maxFold=209
+2026-07-21T14:16:39     info       Analysis load: nT=10736712000, expected=10736712000, delta=0
+2026-07-21T14:16:39     info       Analysis load: an2Output.shape=(671044500, 16)
+2026-07-21T14:16:39     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2026-07-21T14:16:39     info       Loaded : . . . read 161,894 rec-records
+2026-07-21T14:16:39     info       Loaded : . . . read 51,240 src-records
+2026-07-21T14:16:39     info       Loaded : . . . read 1,795,499 rel-records
+2026-07-21T14:16:39     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2026-07-21T14:16:40     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters
+2026-07-21T14:37:44     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T14:37:44     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters+++
+
+2026-07-21T14:37:46     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-07-21T14:37:46     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-07-21T14:37:46     info       Library: Numba is enabled, running in JIT mode
+2026-07-21T14:37:46     info       Parsing: survey object succesfully parsed
+2026-07-21T14:37:46     info       Params : survey object read, containing 291 parameters
+2026-07-21T14:37:52     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T14:37:52     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T14:37:52     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T14:37:52     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll, success: True
+2026-07-21T14:37:52     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2026-07-21T14:37:52     info       Loading: . . . Analysis dims: nx=2630, ny=1215, binSize=(10.000,20.000)
+2026-07-21T14:37:52     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-07-21T14:37:52     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-07-21T14:37:52     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-07-21T14:37:52     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-07-21T14:37:52     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-07-21T14:37:52     info       Loading: . . . Analysis file: .cfp.npy exists=True
+2026-07-21T14:37:52     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-07-21T14:37:52     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-07-21T14:37:52     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-07-21T14:37:52     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2026-07-21T14:37:52     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2026-07-21T14:37:52     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2026-07-21T14:37:52     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1376.98m 
+2026-07-21T14:37:52     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3274.95m 
+2026-07-21T14:37:52     info       Loaded : . . . CFP illumination map
+2026-07-21T14:37:52     info       Loaded : . . . offset histogram
+2026-07-21T14:37:52     info       Loaded : . . . azi-offset histogram
+2026-07-21T14:37:52     info       Analysis load: fold=210, maxFold=209
+2026-07-21T14:37:52     info       Analysis load: nT=10736712000, expected=10736712000, delta=0
+2026-07-21T14:37:52     info       Analysis load: an2Output.shape=(671044500, 16)
+2026-07-21T14:37:52     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2026-07-21T14:37:52     info       Loaded : . . . read 161,894 rec-records
+2026-07-21T14:37:52     info       Loaded : . . . read 51,240 src-records
+2026-07-21T14:37:52     info       Loaded : . . . read 1,795,499 rel-records
+2026-07-21T14:37:52     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2026-07-21T14:37:52     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters
+2026-07-21T14:39:14     info       Export : incorporated illumination map in QGIS
+2026-07-21T14:40:26     analysis   Starting CFP illumination map from geometry tables; preparing worker thread...
+2026-07-21T14:40:26     analysis   Thread : Started 'CFP Plane Illumination v1 (Geometry Tables)' (coherent) at z=-2000.00, aperture=45.0deg, Vint=2000.0m/s, freq=[8; 16; 20; 24; 32] Hz
+2026-07-21T14:40:29     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T14:40:36     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters
+2026-07-21T14:46:07     analysis   Thread : 3x3 diagnostics stripe summary (normalized maps):
+2026-07-21T14:46:07     analysis   Thread : . . . metric = rowStd / colStd on row/column-mean traces
+2026-07-21T14:46:07     analysis   Thread : . . . ratio above 1.0 => horizontal striping dominant; ratio below 1.0 => vertical striping dominant; ratio equal to 1.0 => balanced
+2026-07-21T14:46:07     analysis   Thread : . . . legend: OFF=off, COH=coherent, INC=incoherent
+2026-07-21T14:46:07     analysis   Thread : . . . ranked combinations:
+2026-07-21T14:46:07     analysis   Thread : . . . SRC=OFF, REC=COH | rowStd=0.189337, colStd=0.177822, ratio=1.064754 | dominant=horizontal
+2026-07-21T14:46:07     analysis   Thread : . . . SRC=INC, REC=COH | rowStd=0.191930, colStd=0.183455, ratio=1.046196 | dominant=horizontal
+2026-07-21T14:46:07     analysis   Thread : . . . SRC=COH, REC=COH | rowStd=0.162824, colStd=0.156592, ratio=1.039797 | dominant=horizontal
+2026-07-21T14:46:07     analysis   Thread : . . . SRC=INC, REC=INC | rowStd=0.240269, colStd=0.285107, ratio=0.842732 | dominant=vertical
+2026-07-21T14:46:07     analysis   Thread : . . . SRC=COH, REC=INC | rowStd=0.202975, colStd=0.243474, ratio=0.833660 | dominant=vertical
+2026-07-21T14:46:07     analysis   Thread : . . . SRC=COH, REC=OFF | rowStd=0.185844, colStd=0.230795, ratio=0.805235 | dominant=vertical
+2026-07-21T14:46:07     analysis   Thread : . . . SRC=OFF, REC=INC | rowStd=0.223550, colStd=0.278449, ratio=0.802843 | dominant=vertical
+2026-07-21T14:46:07     analysis   Thread : . . . SRC=INC, REC=OFF | rowStd=0.222106, colStd=0.276778, ratio=0.802470 | dominant=vertical
+2026-07-21T14:46:07     analysis   Thread : . . . SRC=OFF, REC=OFF | rowStd=0.000000, colStd=0.000000, ratio=0.000000 | dominant=balanced
+2026-07-21T14:46:07     analysis   Thread : Completed 'CFP Plane Illumination v1 (Geometry Tables, coherent)'. Elapsed time:0:05:41, normFactor=1
+2026-07-21T14:55:20     info       Export : incorporated illumination map in QGIS
+2026-07-21T14:57:27     info       Saved  : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T14:57:30     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T14:57:30     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters+++
+
+2026-07-21T14:57:34     info       Plugin : Started on Windows 11 v(10.0.26200)
+2026-07-21T14:57:34     info       Library: Numba version 0.65.1 available for JIT acceleration
+2026-07-21T14:57:34     info       Library: Numba is enabled, running in JIT mode
+2026-07-21T14:57:34     info       Parsing: survey object succesfully parsed
+2026-07-21T14:57:35     info       Params : survey object read, containing 291 parameters
+2026-07-21T14:57:40     info       Opening: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T14:57:40     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll
+2026-07-21T14:57:40     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T14:57:40     info       Reading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll, success: True
+2026-07-21T14:57:40     info       Loading: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll analysis files
+2026-07-21T14:57:40     info       Loading: . . . Analysis dims: nx=2630, ny=1215, binSize=(10.000,20.000)
+2026-07-21T14:57:40     info       Loading: . . . Analysis file: .bin.npy exists=True
+2026-07-21T14:57:40     info       Loading: . . . Analysis file: .min.npy exists=True
+2026-07-21T14:57:40     info       Loading: . . . Analysis file: .max.npy exists=True
+2026-07-21T14:57:40     info       Loading: . . . Analysis file: .rms.npy exists=True
+2026-07-21T14:57:40     info       Loading: . . . Analysis file: .gap.npy exists=True
+2026-07-21T14:57:40     info       Loading: . . . Analysis file: .cfp.npy exists=True
+2026-07-21T14:57:40     info       Loading: . . . Analysis file: .off.npy exists=True
+2026-07-21T14:57:40     info       Loading: . . . Analysis file: .azi.npy exists=True
+2026-07-21T14:57:40     info       Loading: . . . Analysis file: .ana.npy exists=True
+2026-07-21T14:57:40     info       Loaded : . . . Fold map  : Min:0 - Max:209 
+2026-07-21T14:57:40     info       Loaded : . . . Min-offset: Min:22.36m - Max:4998.13m 
+2026-07-21T14:57:40     info       Loaded : . . . Max-offset: Min:22.36m - Max:5158.34m 
+2026-07-21T14:57:40     info       Loaded : . . . Rms-offset: Min:0.00m - Max:1376.98m 
+2026-07-21T14:57:40     info       Loaded : . . . Max-gap   : Min:0.00m - Max:3274.95m 
+2026-07-21T14:57:40     info       Loaded : . . . CFP illumination map
+2026-07-21T14:57:40     info       Loaded : . . . offset histogram
+2026-07-21T14:57:40     info       Loaded : . . . azi-offset histogram
+2026-07-21T14:57:40     info       Analysis load: fold=210, maxFold=209
+2026-07-21T14:57:40     info       Analysis load: nT=10736712000, expected=10736712000, delta=0
+2026-07-21T14:57:40     info       Analysis load: an2Output.shape=(671044500, 16)
+2026-07-21T14:57:40     info       Loaded : . . . Analysis  : 671,044,500 traces (reserved space)
+2026-07-21T14:57:40     info       Loaded : . . . read 161,894 rec-records
+2026-07-21T14:57:40     info       Loaded : . . . read 51,240 src-records
+2026-07-21T14:57:40     info       Loaded : . . . read 1,795,499 rel-records
+2026-07-21T14:57:40     info       Loaded : . . . Analysis: 671,044,500 traces available (showing 1,000,000 at a time)
+2026-07-21T14:57:40     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters
+2026-07-21T14:58:09     analysis   Starting CFP analysis from geometry tables; preparing worker thread...
+2026-07-21T14:58:09     analysis   Thread : Started 'CFP Point Analysis v1 (Geometry Tables)' at local x=13150.00, y=12150.00, z=-2000.00, Vint=2000.0m/s
+2026-07-21T14:58:14     analysis   Thread : Completed 'CFP Point Analysis v1 (Geometry Tables)'. Elapsed time:0:00:06 
+2026-07-21T14:58:14     analysis   Thread : . . . local target=(13150.00, 12150.00, -2000.00), aperture=45.0deg, radius=2000.00m, frequency=8.0Hz, Vint=2000.0m/s
+2026-07-21T14:58:14     analysis   Thread : . . . contributing relation records: 19,806 out of: 1,795,499; contributing receiver traces: 3,104,421 out of: 13,255,616 resolved traces
+2026-07-21T14:58:14     analysis   Thread : . . . inactive source records ignored: 14,499; inactive receiver records ignored: 44,496
+2026-07-21T14:58:14     analysis   Thread : . . . relation records ignored because source is inactive: 465,472
+2026-07-21T14:58:14     analysis   Thread : . . . SNR (Radon): Source=9.0dB, Receiver=9.0dB, AVP=11.0dB, grid=128x128, dp=(7.874e-06, 7.874e-06) s/m
+2026-07-21T14:58:36     info       Parsing: D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object succesfully parsed
+2026-07-21T14:58:36     info       Params : D:/Roll/roll_samples/Noordoostpolder/Noordoostpolder.roll survey object read, containing 291 parameters+++
+
